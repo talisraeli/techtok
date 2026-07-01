@@ -13,8 +13,12 @@ export interface UseLongPressOptions {
   onLongPressEnd: () => void;
   /** Called on a short tap (not a long press or drag) */
   onTap: () => void;
+  /** Called on a double tap */
+  onDoubleTap?: (x: number, y: number) => void;
   /** Movement threshold in pixels to cancel the press */
   moveThreshold?: number;
+  /** Max delay in ms between taps to count as a double tap */
+  doubleTapDelay?: number;
 }
 
 export function useLongPress(options: UseLongPressOptions) {
@@ -23,13 +27,18 @@ export function useLongPress(options: UseLongPressOptions) {
     onLongPressStart,
     onLongPressEnd,
     onTap,
+    onDoubleTap,
     moveThreshold = 15,
+    doubleTapDelay = 300,
   } = options;
 
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const singleTapTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const isLongPressRef = useRef(false);
   const startPosRef = useRef({ x: 0, y: 0 });
   const cancelledRef = useRef(false);
+  const lastTapTimeRef = useRef(0);
+  const isTouchRef = useRef(false);
 
   const clearTimer = useCallback(() => {
     if (timerRef.current !== null) {
@@ -73,21 +82,41 @@ export function useLongPress(options: UseLongPressOptions) {
     [moveThreshold, clearTimer, onLongPressEnd]
   );
 
-  const handleEnd = useCallback(() => {
+  const handleEnd = useCallback((clientX: number, clientY: number) => {
     clearTimer();
 
     if (isLongPressRef.current) {
       isLongPressRef.current = false;
       onLongPressEnd();
     } else if (!cancelledRef.current) {
-      onTap();
+      const now = Date.now();
+      if (now - lastTapTimeRef.current < doubleTapDelay && onDoubleTap) {
+        // Double tap!
+        if (singleTapTimerRef.current) {
+          clearTimeout(singleTapTimerRef.current);
+          singleTapTimerRef.current = null;
+        }
+        onDoubleTap(clientX, clientY);
+        lastTapTimeRef.current = 0; // reset
+      } else {
+        lastTapTimeRef.current = now;
+        // Wait to see if it's a double tap before firing single tap
+        if (onDoubleTap) {
+          singleTapTimerRef.current = setTimeout(() => {
+            onTap();
+          }, doubleTapDelay);
+        } else {
+          onTap();
+        }
+      }
     }
 
     cancelledRef.current = false;
-  }, [clearTimer, onLongPressEnd, onTap]);
+  }, [clearTimer, onLongPressEnd, onTap, onDoubleTap, doubleTapDelay]);
 
   const handleTouchStart = useCallback(
     (e: React.TouchEvent) => {
+      isTouchRef.current = true;
       const touch = e.touches[0];
       handleStart(touch.clientX, touch.clientY);
     },
@@ -102,8 +131,17 @@ export function useLongPress(options: UseLongPressOptions) {
     [handleMove]
   );
 
+  const handleTouchEnd = useCallback(
+    (e: React.TouchEvent) => {
+      const touch = e.changedTouches[0];
+      handleEnd(touch.clientX, touch.clientY);
+    },
+    [handleEnd]
+  );
+
   const handleMouseDown = useCallback(
     (e: React.MouseEvent) => {
+      if (isTouchRef.current) return;
       if (e.button !== 0) return; // Only left click
       handleStart(e.clientX, e.clientY);
     },
@@ -112,20 +150,28 @@ export function useLongPress(options: UseLongPressOptions) {
 
   const handleMouseMove = useCallback(
     (e: React.MouseEvent) => {
+      if (isTouchRef.current) return;
       handleMove(e.clientX, e.clientY);
     },
     [handleMove]
   );
 
+  const handleMouseEnd = useCallback(
+    (e: React.MouseEvent) => {
+      if (isTouchRef.current) return;
+      handleEnd(e.clientX, e.clientY);
+    },
+    [handleEnd]
+  );
+
   return {
     onTouchStart: handleTouchStart,
     onTouchMove: handleTouchMove,
-    onTouchEnd: handleEnd,
-    onTouchCancel: handleEnd,
+    onTouchEnd: handleTouchEnd,
+    onTouchCancel: handleTouchEnd,
     onMouseDown: handleMouseDown,
     onMouseMove: handleMouseMove,
-    onMouseUp: handleEnd,
-    onMouseLeave: handleEnd,
+    onMouseUp: handleMouseEnd,
+    onMouseLeave: handleMouseEnd,
   };
 }
-

@@ -2,11 +2,12 @@
    ClipCard — Full-Screen Clip View
    ============================================ */
 
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect, useRef } from 'react';
 import type { Clip } from '../../types';
 import { useYouTubePlayer } from '../../hooks/useYouTubePlayer';
 import { useLongPress } from '../../hooks/useLongPress';
 import { useClipProgress } from '../../hooks/useClipProgress';
+import { useWatchHistory } from '../../hooks/useWatchHistory';
 import { YouTubePlayer } from '../YouTubePlayer/YouTubePlayer';
 import { ClipOverlay } from '../ClipOverlay/ClipOverlay';
 import { ProgressBar } from '../ProgressBar/ProgressBar';
@@ -18,9 +19,10 @@ interface ClipCardProps {
   index: number;
   isActive: boolean;
   onClipEnd: () => void;
+  onDoubleTap?: (x: number, y: number) => void;
 }
 
-export function ClipCard({ clip, index, isActive, onClipEnd }: ClipCardProps) {
+export function ClipCard({ clip, index, isActive, onClipEnd, onDoubleTap }: ClipCardProps) {
   const [isPaused, setIsPaused] = useState(true);
   const [showPauseIcon, setShowPauseIcon] = useState(false);
   const [isSpeedUp, setIsSpeedUp] = useState(false);
@@ -34,18 +36,28 @@ export function ClipCard({ clip, index, isActive, onClipEnd }: ClipCardProps) {
     clip.endSeconds
   );
 
+  const { saveProgress } = useWatchHistory();
+  const lastSaveRef = useRef(0);
+
   const handleTimeUpdate = useCallback(
     (currentTime: number) => {
       updateProgress(currentTime);
+      const now = Date.now();
+      if (now - lastSaveRef.current > 3000) {
+        const progress = Math.max(0, Math.min(1, (currentTime - clip.startSeconds) / (clip.endSeconds - clip.startSeconds)));
+        saveProgress(clip.id, progress);
+        lastSaveRef.current = now;
+      }
     },
-    [updateProgress]
+    [updateProgress, clip.id, clip.startSeconds, clip.endSeconds, saveProgress]
   );
 
   const handleClipEnd = useCallback(() => {
     setIsPaused(true);
     resetProgress();
+    saveProgress(clip.id, 1);
     onClipEnd();
-  }, [onClipEnd, resetProgress]);
+  }, [onClipEnd, resetProgress, saveProgress, clip.id]);
 
   const handleStateChange = useCallback((state: number) => {
     // YT.PlayerState: PLAYING=1, PAUSED=2
@@ -112,8 +124,10 @@ export function ClipCard({ clip, index, isActive, onClipEnd }: ClipCardProps) {
     onLongPressStart: handleLongPressStart,
     onLongPressEnd: handleLongPressEnd,
     onTap: handleTap,
+    onDoubleTap: onDoubleTap,
     delay: 500,
     moveThreshold: 15,
+    doubleTapDelay: 300,
   });
 
   /** Handle seek from progress bar */
