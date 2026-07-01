@@ -2,8 +2,19 @@
    TechTok — TypeScript Type Definitions
    ============================================ */
 
+/** A single course */
+export interface Course {
+  id: string;
+  title: string;
+  description: string;
+  instructor: string;
+  instructorImage: string;
+}
+
 /** A single clip segment within a YouTube lecture video */
 export interface Clip {
+  /** Optional course ID */
+  courseId?: string;
   /** Unique identifier for this clip */
   id: string;
   /** YouTube video ID */
