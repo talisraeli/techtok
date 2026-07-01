@@ -1,0 +1,213 @@
+.course-profile-container {
+  height: 100dvh;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.course-profile--not-found {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100dvh;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.course-profile-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.back-button {
+  position: relative;
+  z-index: 2;
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background-color 0.2s;
+}
+
+.back-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.course-profile-header__title {
+  flex: 1;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-right: -40px; /* Offset for back button */
+}
+
+.course-profile-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.course-profile-info__image {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #fff;
+  margin-bottom: 12px;
+}
+
+.course-profile-info__name {
+  margin: 0 0 4px 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.course-profile-info__desc {
+  margin: 0 0 16px 0;
+  color: #a0a0a0;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.course-profile-info__stats {
+  display: flex;
+  gap: 24px;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stat-item strong {
+  font-size: 1.2rem;
+}
+
+.stat-item span {
+  font-size: 0.8rem;
+  color: #a0a0a0;
+}
+
+.course-profile-clips {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 2px;
+  padding: 2px;
+  flex: 1;
+}
+
+.profile-clip-card {
+  position: relative;
+  cursor: pointer;
+  aspect-ratio: 9/16;
+  background-color: #111;
+  overflow: hidden;
+}
+
+.profile-clip-card__thumbnail {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.profile-clip-card__thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+
+.profile-clip-card:hover .profile-clip-card__thumbnail img {
+  opacity: 0.6;
+}
+
+.profile-clip-card__overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  background: rgba(0,0,0,0.2);
+  transition: opacity 0.2s;
+}
+
+.profile-clip-card:hover .profile-clip-card__overlay {
+  opacity: 1;
+}
+
+.play-icon {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.progress-bar-mini {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.progress-bar-mini__fill {
+  height: 100%;
+  background: #00f2fe;
+}
+
+.watched-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(0, 242, 254, 0.8);
+  color: #fff;
+  font-size: 0.7rem;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.profile-clip-card__info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  background: linear-gradient(to top, rgba(0,0,0,0.9), transparent);
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-clip-card__title {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #fff;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.profile-clip-card__lecture {
+  font-size: 0.7rem;
+  color: #ccc;
+  margin-top: 2px;
+}

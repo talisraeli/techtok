@@ -3,7 +3,9 @@
    ============================================ */
 
 import { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import type { Clip } from '../../types';
+import { courses } from '../../data/courses';
 import './ClipOverlay.css';
 
 interface ClipOverlayProps {
@@ -15,6 +17,9 @@ interface ClipOverlayProps {
 
 export function ClipOverlay({ clip, isPaused, showPauseIcon }: ClipOverlayProps) {
   const [iconVisible, setIconVisible] = useState(false);
+  const navigate = useNavigate();
+  const course = courses.find(c => c.id === clip.courseId);
+
 
   useEffect(() => {
     if (showPauseIcon) {
@@ -38,10 +43,21 @@ export function ClipOverlay({ clip, isPaused, showPauseIcon }: ClipOverlayProps)
 
       {/* Bottom-left content */}
       <div className="clip-overlay__content">
+        {course && (
+          <div 
+            className="clip-overlay__profile-pic"
+            onClick={(e) => {
+              e.stopPropagation();
+              navigate(`/course/${course.id}`);
+            }}
+          >
+            <img src={course.instructorImage} alt={course.instructor} />
+          </div>
+        )}
         <div className="clip-overlay__lecture-badge">
           <span className="clip-overlay__badge-icon">📚</span>
           <span className="clip-overlay__badge-text">
-            אינפי 2מ׳ · {clip.lectureName}
+            {course?.title} · {clip.lectureName}
           </span>
         </div>
         <h1 className="clip-overlay__title">

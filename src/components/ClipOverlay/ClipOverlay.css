@@ -28,9 +28,31 @@
   bottom: 0;
   left: 0;
   right: 0;
-  height: 220px;
-  background: var(--color-overlay-bottom);
+  height: 250px; /* Reduced from 50% to make it less intrusive */
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.95), transparent);
   pointer-events: none;
+}
+
+.clip-overlay__profile-pic {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+  transition: transform 0.2s;
+  margin-bottom: var(--space-md);
+}
+
+.clip-overlay__profile-pic:active {
+  transform: scale(0.9);
+}
+
+.clip-overlay__profile-pic img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 /* Bottom content area */
