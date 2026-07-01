@@ -58,10 +58,10 @@
 .progress-bar__fill {
   position: absolute;
   top: 0;
-  left: 0;
+  right: 0;
   height: 100%;
   background: var(--color-text-primary);
-  border-radius: 0 var(--radius-full) var(--radius-full) 0;
+  border-radius: var(--radius-full) 0 0 var(--radius-full);
   transition: width 0.1s linear;
   will-change: width;
 }
@@ -80,7 +80,7 @@
   height: 14px;
   background: var(--color-accent-cyan);
   border-radius: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(50%, -50%);
   box-shadow: 0 0 6px rgba(0, 242, 234, 0.6),
               0 0 12px rgba(0, 242, 234, 0.3);
   animation: fade-in 0.15s ease-out;

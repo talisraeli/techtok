@@ -29,14 +29,7 @@ export function ProgressBar({ clipProgress, onSeek }: ProgressBarProps) {
       const bar = barRef.current;
       if (!bar) return 0;
       const rect = bar.getBoundingClientRect();
-      // Account for RTL — progress goes right-to-left
-      const isRtl = getComputedStyle(bar).direction === 'rtl';
-      let progress: number;
-      if (isRtl) {
-        progress = (rect.right - clientX) / rect.width;
-      } else {
-        progress = (clientX - rect.left) / rect.width;
-      }
+      const progress = (rect.right - clientX) / rect.width;
       return Math.min(1, Math.max(0, progress));
     },
     []
@@ -123,7 +116,7 @@ export function ProgressBar({ clipProgress, onSeek }: ProgressBarProps) {
         {isDragging && (
           <div
             className="progress-bar__thumb"
-            style={{ left: `${displayProgress * 100}%` }}
+            style={{ right: `${displayProgress * 100}%` }}
           />
         )}
       </div>
