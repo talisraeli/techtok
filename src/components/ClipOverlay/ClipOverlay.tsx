@@ -41,13 +41,13 @@ export function ClipOverlay({ clip, isPaused, showPauseIcon }: ClipOverlayProps)
         <div className="clip-overlay__lecture-badge">
           <span className="clip-overlay__badge-icon">📚</span>
           <span className="clip-overlay__badge-text">
-            הרצאה {clip.lectureNumber} · {clip.lectureName}
+            אינפי 2מ׳ · {clip.lectureName}
           </span>
         </div>
         <h1 className="clip-overlay__title">
           {clip.title} {partLabel}
         </h1>
-        <p className="clip-overlay__course">אינפי 2מ׳ — הטכניון</p>
+        <p className="clip-overlay__description">{clip.description}</p>
       </div>
 
       {/* Center play/pause icon animation */}

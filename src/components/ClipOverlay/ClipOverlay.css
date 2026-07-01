@@ -78,13 +78,16 @@
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
-/* Course name */
-.clip-overlay__course {
+/* Description */
+.clip-overlay__description {
   font-family: var(--font-hebrew);
   font-size: var(--font-size-sm);
   font-weight: 300;
-  color: var(--color-text-tertiary);
-  letter-spacing: 0.02em;
+  color: var(--color-text-secondary);
+  line-height: 1.4;
+  margin-top: var(--space-xs);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  max-width: 85%;
 }
 
 /* Center play/pause icon */

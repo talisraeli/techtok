@@ -22,6 +22,8 @@ export interface Clip {
   lectureName: string;
   /** Lecture number in the course sequence */
   lectureNumber: number;
+  /** Short description of the topic shown in this clip */
+  description: string;
 }
 
 /** YouTube IFrame Player state constants */
