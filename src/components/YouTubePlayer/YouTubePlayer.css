@@ -1,0 +1,50 @@
+/* ============================================
+   YouTubePlayer Styles
+   ============================================ */
+
+.youtube-player {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  overflow: hidden;
+}
+
+.youtube-player__container {
+  width: 100%;
+  height: 100%;
+}
+
+/* Make the YT iframe fill the container and cover the area */
+.youtube-player__container iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translate(-50%, -50%);
+  border: none;
+  pointer-events: none; /* Let our overlay handle all interactions */
+}
+
+/* Placeholder shown when player is not active */
+.youtube-player__placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-surface);
+}
+
+.youtube-player__loader {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--color-surface-elevated);
+  border-top-color: var(--color-accent-cyan);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}

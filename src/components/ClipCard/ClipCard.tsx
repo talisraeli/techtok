@@ -1,0 +1,156 @@
+/* ============================================
+   ClipCard — Full-Screen Clip View
+   ============================================ */
+
+import { useState, useCallback, useEffect } from 'react';
+import type { Clip } from '../../types';
+import { useYouTubePlayer } from '../../hooks/useYouTubePlayer';
+import { useLongPress } from '../../hooks/useLongPress';
+import { useClipProgress } from '../../hooks/useClipProgress';
+import { YouTubePlayer } from '../YouTubePlayer/YouTubePlayer';
+import { ClipOverlay } from '../ClipOverlay/ClipOverlay';
+import { ProgressBar } from '../ProgressBar/ProgressBar';
+import { SpeedIndicator } from '../SpeedIndicator/SpeedIndicator';
+import './ClipCard.css';
+
+interface ClipCardProps {
+  clip: Clip;
+  index: number;
+  isActive: boolean;
+  onClipEnd: () => void;
+}
+
+export function ClipCard({ clip, index, isActive, onClipEnd }: ClipCardProps) {
+  const [isPaused, setIsPaused] = useState(true);
+  const [showPauseIcon, setShowPauseIcon] = useState(false);
+  const [isSpeedUp, setIsSpeedUp] = useState(false);
+  const [tapKey, setTapKey] = useState(0);
+  const [isPlayerReady, setIsPlayerReady] = useState(false);
+
+  const playerId = `yt-player-${index}`;
+
+  const { clipProgress, updateProgress, resetProgress } = useClipProgress(
+    clip.startSeconds,
+    clip.endSeconds
+  );
+
+  const handleTimeUpdate = useCallback(
+    (currentTime: number) => {
+      updateProgress(currentTime);
+    },
+    [updateProgress]
+  );
+
+  const handleClipEnd = useCallback(() => {
+    setIsPaused(true);
+    resetProgress();
+    onClipEnd();
+  }, [onClipEnd, resetProgress]);
+
+  const handleStateChange = useCallback((state: number) => {
+    // YT.PlayerState: PLAYING=1, PAUSED=2
+    if (state === 1) {
+      setIsPaused(false);
+    } else if (state === 2) {
+      setIsPaused(true);
+    }
+  }, []);
+
+  const handleReady = useCallback(() => {
+    setIsPlayerReady(true);
+  }, []);
+
+  const { play, pause, seekTo, setPlaybackRate } = useYouTubePlayer({
+    containerId: playerId,
+    videoId: clip.videoId,
+    startSeconds: clip.startSeconds,
+    endSeconds: clip.endSeconds,
+    isActive,
+    onReady: handleReady,
+    onTimeUpdate: handleTimeUpdate,
+    onClipEnd: handleClipEnd,
+    onStateChange: handleStateChange,
+  });
+
+  /** Auto-play when clip becomes active and player is ready */
+  useEffect(() => {
+    if (isActive && isPlayerReady) {
+      play();
+    }
+    if (!isActive) {
+      pause();
+      setIsPlayerReady(false);
+    }
+  }, [isActive, isPlayerReady, play, pause]);
+
+  /** Handle tap — toggle play/pause */
+  const handleTap = useCallback(() => {
+    if (isPaused) {
+      play();
+    } else {
+      pause();
+    }
+    setTapKey((k) => k + 1);
+    setShowPauseIcon(true);
+    // Reset the icon trigger after animation
+    setTimeout(() => setShowPauseIcon(false), 700);
+  }, [isPaused, play, pause]);
+
+  /** Handle long-press start — 2x speed */
+  const handleLongPressStart = useCallback(() => {
+    setIsSpeedUp(true);
+    setPlaybackRate(2);
+  }, [setPlaybackRate]);
+
+  /** Handle long-press end — back to 1x */
+  const handleLongPressEnd = useCallback(() => {
+    setIsSpeedUp(false);
+    setPlaybackRate(1);
+  }, [setPlaybackRate]);
+
+  const longPressHandlers = useLongPress({
+    onLongPressStart: handleLongPressStart,
+    onLongPressEnd: handleLongPressEnd,
+    onTap: handleTap,
+    delay: 500,
+    moveThreshold: 15,
+  });
+
+  /** Handle seek from progress bar */
+  const handleSeek = useCallback(
+    (progress: number) => {
+      const targetTime =
+        clip.startSeconds + progress * (clip.endSeconds - clip.startSeconds);
+      seekTo(targetTime);
+      updateProgress(targetTime);
+    },
+    [clip.startSeconds, clip.endSeconds, seekTo, updateProgress]
+  );
+
+  return (
+    <div className="clip-card" data-clip-id={clip.id}>
+      {/* YouTube Player */}
+      <YouTubePlayer playerId={playerId} isActive={isActive} />
+
+      {/* Touch interaction zone */}
+      <div
+        className="clip-card__touch-zone"
+        {...longPressHandlers}
+      />
+
+      {/* Overlay: title, badges, play/pause icon */}
+      <ClipOverlay
+        clip={clip}
+        isPaused={isPaused}
+        showPauseIcon={showPauseIcon}
+        key={`overlay-${tapKey}`}
+      />
+
+      {/* Speed indicator */}
+      <SpeedIndicator visible={isSpeedUp} />
+
+      {/* Progress bar */}
+      <ProgressBar clipProgress={clipProgress} onSeek={handleSeek} />
+    </div>
+  );
+}

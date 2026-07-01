@@ -1,0 +1,40 @@
+/* ============================================
+   SpeedIndicator Styles
+   ============================================ */
+
+.speed-indicator {
+  position: absolute;
+  top: var(--space-xl);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 25;
+  pointer-events: none;
+  padding-top: var(--safe-area-top);
+  animation: fade-in 0.2s ease-out;
+}
+
+.speed-indicator__badge {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-full);
+  padding: var(--space-sm) var(--space-lg);
+  animation: breathe 1s ease-in-out infinite;
+}
+
+.speed-indicator__arrows {
+  font-size: var(--font-size-sm);
+  color: var(--color-accent-cyan);
+  letter-spacing: -2px;
+}
+
+.speed-indicator__label {
+  font-family: var(--font-ui);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-text-primary);
+}

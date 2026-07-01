@@ -1,0 +1,115 @@
+/* ============================================
+   ClipOverlay Styles
+   ============================================ */
+
+.clip-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+/* Gradient overlays for text contrast */
+.clip-overlay__gradient-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 120px;
+  background: var(--color-overlay-top);
+  pointer-events: none;
+}
+
+.clip-overlay__gradient-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 220px;
+  background: var(--color-overlay-bottom);
+  pointer-events: none;
+}
+
+/* Bottom content area */
+.clip-overlay__content {
+  position: relative;
+  z-index: 2;
+  padding: var(--space-lg) var(--space-lg) calc(var(--space-3xl) + var(--safe-area-bottom));
+  animation: slide-up 0.4s ease-out;
+}
+
+/* Lecture badge */
+.clip-overlay__lecture-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-full);
+  padding: var(--space-xs) var(--space-md);
+  margin-bottom: var(--space-sm);
+}
+
+.clip-overlay__badge-icon {
+  font-size: var(--font-size-xs);
+}
+
+.clip-overlay__badge-text {
+  font-family: var(--font-hebrew);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  color: var(--color-text-secondary);
+  letter-spacing: 0.01em;
+}
+
+/* Title */
+.clip-overlay__title {
+  font-family: var(--font-hebrew);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  color: var(--color-text-primary);
+  line-height: 1.3;
+  margin-bottom: var(--space-xs);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* Course name */
+.clip-overlay__course {
+  font-family: var(--font-hebrew);
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  color: var(--color-text-tertiary);
+  letter-spacing: 0.02em;
+}
+
+/* Center play/pause icon */
+.clip-overlay__icon-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 20;
+  pointer-events: none;
+}
+
+.clip-overlay__play-pause-icon {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 50%;
+  animation: icon-pop 0.6s ease-out forwards;
+}
+
+.clip-overlay__play-pause-icon svg {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
