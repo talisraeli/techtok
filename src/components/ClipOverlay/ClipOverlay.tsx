@@ -47,7 +47,7 @@ export function ClipOverlay({ clip, isPaused, showPauseIcon }: ClipOverlayProps)
         <h1 className="clip-overlay__title">
           {clip.title} {partLabel}
         </h1>
-        <p className="clip-overlay__course">אינפי 1M — הטכניון</p>
+        <p className="clip-overlay__course">אינפי 2מ׳ — הטכניון</p>
       </div>
 
       {/* Center play/pause icon animation */}
