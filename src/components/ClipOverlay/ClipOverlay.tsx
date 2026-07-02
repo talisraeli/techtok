@@ -44,7 +44,7 @@ export function ClipOverlay({ clip, isPaused, showPauseIcon }: ClipOverlayProps)
       {/* Bottom-left content */}
       <div className="clip-overlay__content">
         {course && (
-          <div 
+          <div
             className="clip-overlay__profile-pic"
             onClick={(e) => {
               e.stopPropagation();
@@ -57,7 +57,7 @@ export function ClipOverlay({ clip, isPaused, showPauseIcon }: ClipOverlayProps)
         <div className="clip-overlay__lecture-badge">
           <span className="clip-overlay__badge-icon">📚</span>
           <span className="clip-overlay__badge-text">
-            {course?.title} · {clip.lectureName}
+            {course?.title} · {clip.videoTitle || clip.lectureName}
           </span>
         </div>
         <h1 className="clip-overlay__title">
