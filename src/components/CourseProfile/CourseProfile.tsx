@@ -92,7 +92,7 @@ export function CourseProfile() {
                 
                 <div className="profile-clip-card__badges">
                   <span className="badge-lecture" style={{ backgroundColor: getBadgeColor(clip.lectureName) }}>
-                    {clip.lectureName}
+                    {clip.videoTitle || clip.lectureName}
                   </span>
                   <span className="badge-part" style={{ backgroundColor: getBadgeColor(clip.lectureName) }}>
                     חלק {clip.part}

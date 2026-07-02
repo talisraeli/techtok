@@ -127,6 +127,7 @@ ${transcriptText}`;
           startSeconds: segment.start,
           endSeconds: segment.end,
           lectureName: `הרצאה ${index + 1}`,
+          videoTitle: videoTitle,
           lectureNumber: index + 1,
           description: segment.description || `מתוך ${courseTitle}`
         });

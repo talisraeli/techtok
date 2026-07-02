@@ -31,6 +31,8 @@ export interface Clip {
   endSeconds: number;
   /** Parent lecture display name */
   lectureName: string;
+  /** Original title of the full YouTube video */
+  videoTitle?: string;
   /** Lecture number in the course sequence */
   lectureNumber: number;
   /** Short description of the topic shown in this clip */

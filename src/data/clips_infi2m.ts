@@ -12,7 +12,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
     "description": "הסבר אינטואיטיבי על מושג הפונקציה הקדומה והגדרתה המתמטית.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "1 - האינטגרל הלא מסוים"
   },
   {
     "id": "clip-1-2",
@@ -25,7 +26,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
     "description": "הצגת תכונות הליניאריות של האינטגרל וכיצד הן עוזרות בחישוב.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "1 - האינטגרל הלא מסוים"
   },
   {
     "id": "clip-1-3",
@@ -38,7 +40,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
     "description": "סקירה של טבלת האינטגרלים הבסיסיים הנובעים ישירות מנגזרות מוכרות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "1 - האינטגרל הלא מסוים"
   },
   {
     "id": "clip-1-4",
@@ -51,7 +54,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
     "description": "הסבר והדגמה של שיטת ההצבה לפתרון אינטגרלים מורכבים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "1 - האינטגרל הלא מסוים"
   },
   {
     "id": "clip-1-5",
@@ -64,7 +68,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
     "description": "הצגת נוסחת האינטגרציה בחלקים ופתרון דוגמאות קלאסיות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "1 - האינטגרל הלא מסוים"
   },
   {
     "id": "clip-2-1",
@@ -77,7 +82,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
     "description": "פתרון אינטגרלים מורכבים בעזרת שיטת ההצבה של פונקציות טריגונומטריות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "2 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-2-2",
@@ -90,7 +96,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
     "description": "תרגול שיטת אינטגרציה בחלקים במקרים בהם נדרשת הפעלה כפולה של הנוסחה.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "2 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-2-3",
@@ -103,7 +110,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
     "description": "פתרון אינטגרלים המשלבים שימוש בו-זמני בהצבה ובחלקים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "2 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-3-1",
@@ -116,7 +124,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
     "description": "מבוא לפירוק שברים רציונליים לשברים חלקיים פשוטים לאינטגרציה.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "3 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-3-2",
@@ -129,7 +138,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
     "description": "פירוק ואינטגרציה במקרה שבו למכנה יש שורשים ממשיים שונים בלבד.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "3 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-3-3",
@@ -142,7 +152,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
     "description": "טכניקת הטיפול בשברים כאשר למכנה יש שורש ממשי מריבוי גבוה מאחד.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "3 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-3-4",
@@ -155,7 +166,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
     "description": "כיצד לבצע אינטגרציה כאשר המכנה מכיל גורם ריבועי אי-פריק.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "3 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-3-5",
@@ -168,7 +180,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
     "description": "פתרון אינטגרלים עם ביטויים ריבועיים תחת שורש בעזרת הצבות טריגונומטריות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "3 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-4-1",
@@ -181,7 +194,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
     "description": "לימוד הצבת Weierstrass (חצי זווית) לפתרון אינטגרלים רציונליים עם סינוס וקוסינוס.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "4 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-4-2",
@@ -194,7 +208,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
     "description": "פתרון אינטגרלים מעשיים מורכבים בעזרת ההצבה האוניברסלית.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "4 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-4-3",
@@ -207,7 +222,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
     "description": "מפת דרכים והנחיות לבחירת השיטה המתאימה ביותר לכל אינטגרל.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "4 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-4-4",
@@ -220,7 +236,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
     "description": "דוגמאות קצה ושיטות עזר מתקדמות לפתרון אינטגרלים לא מסוימים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "4 - האינטגרל הלא מסוים - המשך"
   },
   {
     "id": "clip-5-1",
@@ -233,7 +250,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
     "description": "הגדרת האינטגרל המסוים של רימן בעזרת סכומי דרבו עליונים ותחתונים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "5 - האינטגרל המסוים"
   },
   {
     "id": "clip-5-2",
@@ -246,7 +264,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
     "description": "הסבר על עדון חלוקות וכיצד סכומי דרבו שואפים לאינטגרל.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "5 - האינטגרל המסוים"
   },
   {
     "id": "clip-5-3",
@@ -259,7 +278,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
     "description": "הצגת קריטריון האינטגרביליות של רימן ומשפטים בסיסיים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "5 - האינטגרל המסוים"
   },
   {
     "id": "clip-5-4",
@@ -272,7 +292,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
     "description": "סקירת תכונות הליניאריות והמונוטוניות של האינטגרל המסוים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "5 - האינטגרל המסוים"
   },
   {
     "id": "clip-5-5",
@@ -285,7 +306,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
     "description": "הוכחה והסבר גיאומטרי של משפט הערך הממוצע הראשון לאינטגרלים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "5 - האינטגרל המסוים"
   },
   {
     "id": "clip-6-1",
@@ -298,7 +320,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 6",
     "lectureNumber": 6,
     "description": "חלק 1 מתוך הרצאה 6 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "6 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-6-2",
@@ -311,7 +334,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 6",
     "lectureNumber": 6,
     "description": "חלק 2 מתוך הרצאה 6 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "6 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-6-3",
@@ -324,7 +348,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 6",
     "lectureNumber": 6,
     "description": "חלק 3 מתוך הרצאה 6 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "6 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-6-4",
@@ -337,7 +362,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 6",
     "lectureNumber": 6,
     "description": "חלק 4 מתוך הרצאה 6 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "6 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-7-1",
@@ -350,7 +376,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
     "description": "חלק 1 מתוך הרצאה 7 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "7 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-7-2",
@@ -363,7 +390,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
     "description": "חלק 2 מתוך הרצאה 7 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "7 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-7-3",
@@ -376,7 +404,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
     "description": "חלק 3 מתוך הרצאה 7 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "7 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-7-4",
@@ -389,7 +418,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
     "description": "חלק 4 מתוך הרצאה 7 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "7 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-7-5",
@@ -402,7 +432,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
     "description": "חלק 5 מתוך הרצאה 7 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "7 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-7-6",
@@ -415,7 +446,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
     "description": "חלק 6 מתוך הרצאה 7 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "7 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-7-7",
@@ -428,7 +460,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
     "description": "חלק 7 מתוך הרצאה 7 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "7 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-8-1",
@@ -441,7 +474,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
     "description": "חלק 1 מתוך הרצאה 8 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "8 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-8-2",
@@ -454,7 +488,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
     "description": "חלק 2 מתוך הרצאה 8 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "8 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-8-3",
@@ -467,7 +502,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
     "description": "חלק 3 מתוך הרצאה 8 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "8 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-8-4",
@@ -480,7 +516,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
     "description": "חלק 4 מתוך הרצאה 8 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "8 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-9-1",
@@ -493,7 +530,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
     "description": "חלק 1 מתוך הרצאה 9 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "9 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-9-2",
@@ -506,7 +544,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
     "description": "חלק 2 מתוך הרצאה 9 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "9 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-9-3",
@@ -519,7 +558,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
     "description": "חלק 3 מתוך הרצאה 9 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "9 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-9-4",
@@ -532,7 +572,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
     "description": "חלק 4 מתוך הרצאה 9 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "9 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-9-5",
@@ -545,7 +586,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
     "description": "חלק 5 מתוך הרצאה 9 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "9 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-9-6",
@@ -558,7 +600,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
     "description": "חלק 6 מתוך הרצאה 9 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "9 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-9-7",
@@ -571,7 +614,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
     "description": "חלק 7 מתוך הרצאה 9 בנושא האינטגרל המסוים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "9 - האינטגרל המסוים - המשך"
   },
   {
     "id": "clip-10-1",
@@ -584,7 +628,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 10",
     "lectureNumber": 10,
     "description": "חלק 1 מתוך הרצאה 10 בנושא המשפט היסודי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "10 - המשפט היסודי"
   },
   {
     "id": "clip-10-2",
@@ -597,7 +642,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 10",
     "lectureNumber": 10,
     "description": "חלק 2 מתוך הרצאה 10 בנושא המשפט היסודי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "10 - המשפט היסודי"
   },
   {
     "id": "clip-10-3",
@@ -610,7 +656,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 10",
     "lectureNumber": 10,
     "description": "חלק 3 מתוך הרצאה 10 בנושא המשפט היסודי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "10 - המשפט היסודי"
   },
   {
     "id": "clip-10-4",
@@ -623,7 +670,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 10",
     "lectureNumber": 10,
     "description": "חלק 4 מתוך הרצאה 10 בנושא המשפט היסודי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "10 - המשפט היסודי"
   },
   {
     "id": "clip-11-1",
@@ -636,7 +684,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 11",
     "lectureNumber": 11,
     "description": "חלק 1 מתוך הרצאה 11 בנושא המשפט היסודי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "11 - המשפט היסודי - המשך"
   },
   {
     "id": "clip-11-2",
@@ -649,7 +698,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 11",
     "lectureNumber": 11,
     "description": "חלק 2 מתוך הרצאה 11 בנושא המשפט היסודי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "11 - המשפט היסודי - המשך"
   },
   {
     "id": "clip-11-3",
@@ -662,7 +712,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 11",
     "lectureNumber": 11,
     "description": "חלק 3 מתוך הרצאה 11 בנושא המשפט היסודי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "11 - המשפט היסודי - המשך"
   },
   {
     "id": "clip-11-4",
@@ -675,7 +726,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 11",
     "lectureNumber": 11,
     "description": "חלק 4 מתוך הרצאה 11 בנושא המשפט היסודי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "11 - המשפט היסודי - המשך"
   },
   {
     "id": "clip-11-5",
@@ -688,7 +740,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 11",
     "lectureNumber": 11,
     "description": "חלק 5 מתוך הרצאה 11 בנושא המשפט היסודי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "11 - המשפט היסודי - המשך"
   },
   {
     "id": "clip-11-6",
@@ -701,7 +754,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 11",
     "lectureNumber": 11,
     "description": "חלק 6 מתוך הרצאה 11 בנושא המשפט היסודי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "11 - המשפט היסודי - המשך"
   },
   {
     "id": "clip-11-7",
@@ -714,7 +768,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 11",
     "lectureNumber": 11,
     "description": "חלק 7 מתוך הרצאה 11 בנושא המשפט היסודי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "11 - המשפט היסודי - המשך"
   },
   {
     "id": "clip-12-1",
@@ -727,7 +782,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
     "description": "חלק 1 מתוך הרצאה 12 בנושא שימושים של האינטגרל המסוים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "12 - שימושים של האינטגרל המסוים"
   },
   {
     "id": "clip-12-2",
@@ -740,7 +796,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
     "description": "חלק 2 מתוך הרצאה 12 בנושא שימושים של האינטגרל המסוים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "12 - שימושים של האינטגרל המסוים"
   },
   {
     "id": "clip-12-3",
@@ -753,7 +810,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
     "description": "חלק 3 מתוך הרצאה 12 בנושא שימושים של האינטגרל המסוים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "12 - שימושים של האינטגרל המסוים"
   },
   {
     "id": "clip-12-4",
@@ -766,7 +824,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
     "description": "חלק 4 מתוך הרצאה 12 בנושא שימושים של האינטגרל המסוים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "12 - שימושים של האינטגרל המסוים"
   },
   {
     "id": "clip-13-1",
@@ -779,7 +838,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
     "description": "חלק 1 מתוך הרצאה 13 בנושא אינטגרלים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "13 - אינטגרלים מוכללים"
   },
   {
     "id": "clip-13-2",
@@ -792,7 +852,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
     "description": "חלק 2 מתוך הרצאה 13 בנושא אינטגרלים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "13 - אינטגרלים מוכללים"
   },
   {
     "id": "clip-13-3",
@@ -805,7 +866,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
     "description": "חלק 3 מתוך הרצאה 13 בנושא אינטגרלים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "13 - אינטגרלים מוכללים"
   },
   {
     "id": "clip-13-4",
@@ -818,7 +880,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
     "description": "חלק 4 מתוך הרצאה 13 בנושא אינטגרלים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "13 - אינטגרלים מוכללים"
   },
   {
     "id": "clip-13-5",
@@ -831,7 +894,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
     "description": "חלק 5 מתוך הרצאה 13 בנושא אינטגרלים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "13 - אינטגרלים מוכללים"
   },
   {
     "id": "clip-13-6",
@@ -844,7 +908,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
     "description": "חלק 6 מתוך הרצאה 13 בנושא אינטגרלים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "13 - אינטגרלים מוכללים"
   },
   {
     "id": "clip-14-1",
@@ -857,7 +922,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
     "description": "חלק 1 מתוך הרצאה 14 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "14 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-14-2",
@@ -870,7 +936,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
     "description": "חלק 2 מתוך הרצאה 14 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "14 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-14-3",
@@ -883,7 +950,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
     "description": "חלק 3 מתוך הרצאה 14 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "14 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-14-4",
@@ -896,7 +964,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
     "description": "חלק 4 מתוך הרצאה 14 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "14 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-14-5",
@@ -909,7 +978,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
     "description": "חלק 5 מתוך הרצאה 14 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "14 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-15-1",
@@ -922,7 +992,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 15",
     "lectureNumber": 15,
     "description": "חלק 1 מתוך הרצאה 15 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "15 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-15-2",
@@ -935,7 +1006,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 15",
     "lectureNumber": 15,
     "description": "חלק 2 מתוך הרצאה 15 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "15 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-15-3",
@@ -948,7 +1020,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 15",
     "lectureNumber": 15,
     "description": "חלק 3 מתוך הרצאה 15 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "15 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-15-4",
@@ -961,7 +1034,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 15",
     "lectureNumber": 15,
     "description": "חלק 4 מתוך הרצאה 15 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "15 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-15-5",
@@ -974,7 +1048,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 15",
     "lectureNumber": 15,
     "description": "חלק 5 מתוך הרצאה 15 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "15 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-16-1",
@@ -987,7 +1062,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 16",
     "lectureNumber": 16,
     "description": "חלק 1 מתוך הרצאה 16 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "16 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-16-2",
@@ -1000,7 +1076,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 16",
     "lectureNumber": 16,
     "description": "חלק 2 מתוך הרצאה 16 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "16 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-16-3",
@@ -1013,7 +1090,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 16",
     "lectureNumber": 16,
     "description": "חלק 3 מתוך הרצאה 16 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "16 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-16-4",
@@ -1026,7 +1104,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 16",
     "lectureNumber": 16,
     "description": "חלק 4 מתוך הרצאה 16 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "16 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-16-5",
@@ -1039,7 +1118,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 16",
     "lectureNumber": 16,
     "description": "חלק 5 מתוך הרצאה 16 בנושא אינטגרלים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "16 - אינטגרלים מוכללים - המשך"
   },
   {
     "id": "clip-17-1",
@@ -1052,7 +1132,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
     "description": "חלק 1 מתוך הרצאה 17 בנושא טורים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "17 - טורים"
   },
   {
     "id": "clip-17-2",
@@ -1065,7 +1146,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
     "description": "חלק 2 מתוך הרצאה 17 בנושא טורים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "17 - טורים"
   },
   {
     "id": "clip-17-3",
@@ -1078,7 +1160,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
     "description": "חלק 3 מתוך הרצאה 17 בנושא טורים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "17 - טורים"
   },
   {
     "id": "clip-17-4",
@@ -1091,7 +1174,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
     "description": "חלק 4 מתוך הרצאה 17 בנושא טורים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "17 - טורים"
   },
   {
     "id": "clip-17-5",
@@ -1104,7 +1188,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
     "description": "חלק 5 מתוך הרצאה 17 בנושא טורים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "17 - טורים"
   },
   {
     "id": "clip-17-6",
@@ -1117,7 +1202,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
     "description": "חלק 6 מתוך הרצאה 17 בנושא טורים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "17 - טורים"
   },
   {
     "id": "clip-18-1",
@@ -1130,7 +1216,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
     "description": "חלק 1 מתוך הרצאה 18 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "18 - טורים - המשך"
   },
   {
     "id": "clip-18-2",
@@ -1143,7 +1230,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
     "description": "חלק 2 מתוך הרצאה 18 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "18 - טורים - המשך"
   },
   {
     "id": "clip-18-3",
@@ -1156,7 +1244,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
     "description": "חלק 3 מתוך הרצאה 18 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "18 - טורים - המשך"
   },
   {
     "id": "clip-18-4",
@@ -1169,7 +1258,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
     "description": "חלק 4 מתוך הרצאה 18 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "18 - טורים - המשך"
   },
   {
     "id": "clip-18-5",
@@ -1182,7 +1272,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
     "description": "חלק 5 מתוך הרצאה 18 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "18 - טורים - המשך"
   },
   {
     "id": "clip-19-1",
@@ -1195,7 +1286,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 19",
     "lectureNumber": 19,
     "description": "חלק 1 מתוך הרצאה 19 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "19 - טורים - המשך"
   },
   {
     "id": "clip-19-2",
@@ -1208,7 +1300,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 19",
     "lectureNumber": 19,
     "description": "חלק 2 מתוך הרצאה 19 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "19 - טורים - המשך"
   },
   {
     "id": "clip-19-3",
@@ -1221,7 +1314,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 19",
     "lectureNumber": 19,
     "description": "חלק 3 מתוך הרצאה 19 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "19 - טורים - המשך"
   },
   {
     "id": "clip-19-4",
@@ -1234,7 +1328,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 19",
     "lectureNumber": 19,
     "description": "חלק 4 מתוך הרצאה 19 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "19 - טורים - המשך"
   },
   {
     "id": "clip-19-5",
@@ -1247,7 +1342,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 19",
     "lectureNumber": 19,
     "description": "חלק 5 מתוך הרצאה 19 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "19 - טורים - המשך"
   },
   {
     "id": "clip-20-1",
@@ -1260,7 +1356,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
     "description": "חלק 1 מתוך הרצאה 20 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "20 - טורים - המשך"
   },
   {
     "id": "clip-20-2",
@@ -1273,7 +1370,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
     "description": "חלק 2 מתוך הרצאה 20 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "20 - טורים - המשך"
   },
   {
     "id": "clip-20-3",
@@ -1286,7 +1384,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
     "description": "חלק 3 מתוך הרצאה 20 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "20 - טורים - המשך"
   },
   {
     "id": "clip-20-4",
@@ -1299,7 +1398,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
     "description": "חלק 4 מתוך הרצאה 20 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "20 - טורים - המשך"
   },
   {
     "id": "clip-20-5",
@@ -1312,7 +1412,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
     "description": "חלק 5 מתוך הרצאה 20 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "20 - טורים - המשך"
   },
   {
     "id": "clip-20-6",
@@ -1325,7 +1426,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
     "description": "חלק 6 מתוך הרצאה 20 בנושא טורים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "20 - טורים - המשך"
   },
   {
     "id": "clip-21-1",
@@ -1338,7 +1440,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
     "description": "חלק 1 מתוך הרצאה 21 בנושא סדרות של פונקציות והתכנסות במ\"ש.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "21 - סדרות של פונקציות והתכנסות במ\"ש"
   },
   {
     "id": "clip-21-2",
@@ -1351,7 +1454,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
     "description": "חלק 2 מתוך הרצאה 21 בנושא סדרות של פונקציות והתכנסות במ\"ש.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "21 - סדרות של פונקציות והתכנסות במ\"ש"
   },
   {
     "id": "clip-21-3",
@@ -1364,7 +1468,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
     "description": "חלק 3 מתוך הרצאה 21 בנושא סדרות של פונקציות והתכנסות במ\"ש.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "21 - סדרות של פונקציות והתכנסות במ\"ש"
   },
   {
     "id": "clip-21-4",
@@ -1377,7 +1482,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
     "description": "חלק 4 מתוך הרצאה 21 בנושא סדרות של פונקציות והתכנסות במ\"ש.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "21 - סדרות של פונקציות והתכנסות במ\"ש"
   },
   {
     "id": "clip-21-5",
@@ -1390,7 +1496,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
     "description": "חלק 5 מתוך הרצאה 21 בנושא סדרות של פונקציות והתכנסות במ\"ש.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "21 - סדרות של פונקציות והתכנסות במ\"ש"
   },
   {
     "id": "clip-21-6",
@@ -1403,7 +1510,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
     "description": "חלק 6 מתוך הרצאה 21 בנושא סדרות של פונקציות והתכנסות במ\"ש.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "21 - סדרות של פונקציות והתכנסות במ\"ש"
   },
   {
     "id": "clip-21-7",
@@ -1416,7 +1524,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
     "description": "חלק 7 מתוך הרצאה 21 בנושא סדרות של פונקציות והתכנסות במ\"ש.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "21 - סדרות של פונקציות והתכנסות במ\"ש"
   },
   {
     "id": "clip-22-1",
@@ -1429,7 +1538,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
     "description": "חלק 1 מתוך הרצאה 22 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "22 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-22-2",
@@ -1442,7 +1552,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
     "description": "חלק 2 מתוך הרצאה 22 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "22 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-22-3",
@@ -1455,7 +1566,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
     "description": "חלק 3 מתוך הרצאה 22 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "22 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-22-4",
@@ -1468,7 +1580,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
     "description": "חלק 4 מתוך הרצאה 22 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "22 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-23-1",
@@ -1481,7 +1594,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
     "description": "חלק 1 מתוך הרצאה 23 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "23 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-23-2",
@@ -1494,7 +1608,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
     "description": "חלק 2 מתוך הרצאה 23 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "23 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-23-3",
@@ -1507,7 +1622,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
     "description": "חלק 3 מתוך הרצאה 23 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "23 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-23-4",
@@ -1520,7 +1636,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
     "description": "חלק 4 מתוך הרצאה 23 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "23 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-23-5",
@@ -1533,7 +1650,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
     "description": "חלק 5 מתוך הרצאה 23 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "23 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-23-6",
@@ -1546,7 +1664,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
     "description": "חלק 6 מתוך הרצאה 23 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "23 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-23-7",
@@ -1559,7 +1678,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
     "description": "חלק 7 מתוך הרצאה 23 בנושא סדרות של פונקציות והתכנסות במ\"ש - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "23 - סדרות של פונקציות והתכנסות במ\"ש - המשך"
   },
   {
     "id": "clip-24-1",
@@ -1572,7 +1692,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
     "description": "חלק 1 מתוך הרצאה 24 בנושא טורים של פונקציות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "24 - טורים של פונקציות"
   },
   {
     "id": "clip-24-2",
@@ -1585,7 +1706,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
     "description": "חלק 2 מתוך הרצאה 24 בנושא טורים של פונקציות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "24 - טורים של פונקציות"
   },
   {
     "id": "clip-24-3",
@@ -1598,7 +1720,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
     "description": "חלק 3 מתוך הרצאה 24 בנושא טורים של פונקציות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "24 - טורים של פונקציות"
   },
   {
     "id": "clip-24-4",
@@ -1611,7 +1734,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
     "description": "חלק 4 מתוך הרצאה 24 בנושא טורים של פונקציות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "24 - טורים של פונקציות"
   },
   {
     "id": "clip-24-5",
@@ -1624,7 +1748,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
     "description": "חלק 5 מתוך הרצאה 24 בנושא טורים של פונקציות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "24 - טורים של פונקציות"
   },
   {
     "id": "clip-25-1",
@@ -1637,7 +1762,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
     "description": "חלק 1 מתוך הרצאה 25 בנושא טורי חזקות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "25 - טורי חזקות"
   },
   {
     "id": "clip-25-2",
@@ -1650,7 +1776,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
     "description": "חלק 2 מתוך הרצאה 25 בנושא טורי חזקות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "25 - טורי חזקות"
   },
   {
     "id": "clip-25-3",
@@ -1663,7 +1790,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
     "description": "חלק 3 מתוך הרצאה 25 בנושא טורי חזקות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "25 - טורי חזקות"
   },
   {
     "id": "clip-25-4",
@@ -1676,7 +1804,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
     "description": "חלק 4 מתוך הרצאה 25 בנושא טורי חזקות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "25 - טורי חזקות"
   },
   {
     "id": "clip-25-5",
@@ -1689,7 +1818,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
     "description": "חלק 5 מתוך הרצאה 25 בנושא טורי חזקות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "25 - טורי חזקות"
   },
   {
     "id": "clip-25-6",
@@ -1702,7 +1832,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
     "description": "חלק 6 מתוך הרצאה 25 בנושא טורי חזקות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "25 - טורי חזקות"
   },
   {
     "id": "clip-26-1",
@@ -1715,7 +1846,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
     "description": "חלק 1 מתוך הרצאה 26 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "26 - טורי חזקות - המשך"
   },
   {
     "id": "clip-26-2",
@@ -1728,7 +1860,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
     "description": "חלק 2 מתוך הרצאה 26 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "26 - טורי חזקות - המשך"
   },
   {
     "id": "clip-26-3",
@@ -1741,7 +1874,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
     "description": "חלק 3 מתוך הרצאה 26 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "26 - טורי חזקות - המשך"
   },
   {
     "id": "clip-26-4",
@@ -1754,7 +1888,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
     "description": "חלק 4 מתוך הרצאה 26 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "26 - טורי חזקות - המשך"
   },
   {
     "id": "clip-26-5",
@@ -1767,7 +1902,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
     "description": "חלק 5 מתוך הרצאה 26 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "26 - טורי חזקות - המשך"
   },
   {
     "id": "clip-27-1",
@@ -1780,7 +1916,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
     "description": "חלק 1 מתוך הרצאה 27 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "27 - טורי חזקות - המשך"
   },
   {
     "id": "clip-27-2",
@@ -1793,7 +1930,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
     "description": "חלק 2 מתוך הרצאה 27 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "27 - טורי חזקות - המשך"
   },
   {
     "id": "clip-27-3",
@@ -1806,7 +1944,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
     "description": "חלק 3 מתוך הרצאה 27 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "27 - טורי חזקות - המשך"
   },
   {
     "id": "clip-27-4",
@@ -1819,7 +1958,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
     "description": "חלק 4 מתוך הרצאה 27 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "27 - טורי חזקות - המשך"
   },
   {
     "id": "clip-27-5",
@@ -1832,7 +1972,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
     "description": "חלק 5 מתוך הרצאה 27 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "27 - טורי חזקות - המשך"
   },
   {
     "id": "clip-27-6",
@@ -1845,7 +1986,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
     "description": "חלק 6 מתוך הרצאה 27 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "27 - טורי חזקות - המשך"
   },
   {
     "id": "clip-28-1",
@@ -1858,7 +2000,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 28",
     "lectureNumber": 28,
     "description": "חלק 1 מתוך הרצאה 28 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "28 - טורי חזקות - המשך"
   },
   {
     "id": "clip-28-2",
@@ -1871,7 +2014,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 28",
     "lectureNumber": 28,
     "description": "חלק 2 מתוך הרצאה 28 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "28 - טורי חזקות - המשך"
   },
   {
     "id": "clip-28-3",
@@ -1884,7 +2028,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 28",
     "lectureNumber": 28,
     "description": "חלק 3 מתוך הרצאה 28 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "28 - טורי חזקות - המשך"
   },
   {
     "id": "clip-28-4",
@@ -1897,7 +2042,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 28",
     "lectureNumber": 28,
     "description": "חלק 4 מתוך הרצאה 28 בנושא טורי חזקות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "28 - טורי חזקות - המשך"
   },
   {
     "id": "clip-29-1",
@@ -1910,7 +2056,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
     "description": "חלק 1 מתוך הרצאה 29 בנושא פונקציות במספר משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "29 - פונקציות במספר משתנים"
   },
   {
     "id": "clip-29-2",
@@ -1923,7 +2070,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
     "description": "חלק 2 מתוך הרצאה 29 בנושא פונקציות במספר משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "29 - פונקציות במספר משתנים"
   },
   {
     "id": "clip-29-3",
@@ -1936,7 +2084,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
     "description": "חלק 3 מתוך הרצאה 29 בנושא פונקציות במספר משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "29 - פונקציות במספר משתנים"
   },
   {
     "id": "clip-29-4",
@@ -1949,7 +2098,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
     "description": "חלק 4 מתוך הרצאה 29 בנושא פונקציות במספר משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "29 - פונקציות במספר משתנים"
   },
   {
     "id": "clip-29-5",
@@ -1962,7 +2112,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
     "description": "חלק 5 מתוך הרצאה 29 בנושא פונקציות במספר משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "29 - פונקציות במספר משתנים"
   },
   {
     "id": "clip-29-6",
@@ -1975,7 +2126,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
     "description": "חלק 6 מתוך הרצאה 29 בנושא פונקציות במספר משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "29 - פונקציות במספר משתנים"
   },
   {
     "id": "clip-29-7",
@@ -1988,7 +2140,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
     "description": "חלק 7 מתוך הרצאה 29 בנושא פונקציות במספר משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "29 - פונקציות במספר משתנים"
   },
   {
     "id": "clip-30-1",
@@ -2001,7 +2154,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
     "description": "חלק 1 מתוך הרצאה 30 בנושא פונקציות במספר משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "30 - פונקציות במספר משתנים - המשך"
   },
   {
     "id": "clip-30-2",
@@ -2014,7 +2168,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
     "description": "חלק 2 מתוך הרצאה 30 בנושא פונקציות במספר משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "30 - פונקציות במספר משתנים - המשך"
   },
   {
     "id": "clip-30-3",
@@ -2027,7 +2182,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
     "description": "חלק 3 מתוך הרצאה 30 בנושא פונקציות במספר משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "30 - פונקציות במספר משתנים - המשך"
   },
   {
     "id": "clip-30-4",
@@ -2040,7 +2196,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
     "description": "חלק 4 מתוך הרצאה 30 בנושא פונקציות במספר משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "30 - פונקציות במספר משתנים - המשך"
   },
   {
     "id": "clip-31-1",
@@ -2053,7 +2210,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
     "description": "חלק 1 מתוך הרצאה 31 בנושא גבולות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "31 - גבולות"
   },
   {
     "id": "clip-31-2",
@@ -2066,7 +2224,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
     "description": "חלק 2 מתוך הרצאה 31 בנושא גבולות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "31 - גבולות"
   },
   {
     "id": "clip-31-3",
@@ -2079,7 +2238,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
     "description": "חלק 3 מתוך הרצאה 31 בנושא גבולות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "31 - גבולות"
   },
   {
     "id": "clip-31-4",
@@ -2092,7 +2252,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
     "description": "חלק 4 מתוך הרצאה 31 בנושא גבולות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "31 - גבולות"
   },
   {
     "id": "clip-31-5",
@@ -2105,7 +2266,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
     "description": "חלק 5 מתוך הרצאה 31 בנושא גבולות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "31 - גבולות"
   },
   {
     "id": "clip-32-1",
@@ -2118,7 +2280,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
     "description": "חלק 1 מתוך הרצאה 32 בנושא גבולות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "32 - גבולות - המשך"
   },
   {
     "id": "clip-32-2",
@@ -2131,7 +2294,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
     "description": "חלק 2 מתוך הרצאה 32 בנושא גבולות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "32 - גבולות - המשך"
   },
   {
     "id": "clip-32-3",
@@ -2144,7 +2308,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
     "description": "חלק 3 מתוך הרצאה 32 בנושא גבולות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "32 - גבולות - המשך"
   },
   {
     "id": "clip-32-4",
@@ -2157,7 +2322,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
     "description": "חלק 4 מתוך הרצאה 32 בנושא גבולות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "32 - גבולות - המשך"
   },
   {
     "id": "clip-32-5",
@@ -2170,7 +2336,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
     "description": "חלק 5 מתוך הרצאה 32 בנושא גבולות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "32 - גבולות - המשך"
   },
   {
     "id": "clip-32-6",
@@ -2183,7 +2350,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
     "description": "חלק 6 מתוך הרצאה 32 בנושא גבולות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "32 - גבולות - המשך"
   },
   {
     "id": "clip-33-1",
@@ -2196,7 +2364,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
     "description": "חלק 1 מתוך הרצאה 33 בנושא רציפות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "33 - רציפות"
   },
   {
     "id": "clip-33-2",
@@ -2209,7 +2378,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
     "description": "חלק 2 מתוך הרצאה 33 בנושא רציפות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "33 - רציפות"
   },
   {
     "id": "clip-33-3",
@@ -2222,7 +2392,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
     "description": "חלק 3 מתוך הרצאה 33 בנושא רציפות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "33 - רציפות"
   },
   {
     "id": "clip-33-4",
@@ -2235,7 +2406,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
     "description": "חלק 4 מתוך הרצאה 33 בנושא רציפות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "33 - רציפות"
   },
   {
     "id": "clip-33-5",
@@ -2248,7 +2420,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
     "description": "חלק 5 מתוך הרצאה 33 בנושא רציפות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "33 - רציפות"
   },
   {
     "id": "clip-33-6",
@@ -2261,7 +2434,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
     "description": "חלק 6 מתוך הרצאה 33 בנושא רציפות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "33 - רציפות"
   },
   {
     "id": "clip-34-1",
@@ -2274,7 +2448,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
     "description": "חלק 1 מתוך הרצאה 34 בנושא גזירות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "34 - גזירות"
   },
   {
     "id": "clip-34-2",
@@ -2287,7 +2462,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
     "description": "חלק 2 מתוך הרצאה 34 בנושא גזירות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "34 - גזירות"
   },
   {
     "id": "clip-34-3",
@@ -2300,7 +2476,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
     "description": "חלק 3 מתוך הרצאה 34 בנושא גזירות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "34 - גזירות"
   },
   {
     "id": "clip-34-4",
@@ -2313,7 +2490,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
     "description": "חלק 4 מתוך הרצאה 34 בנושא גזירות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "34 - גזירות"
   },
   {
     "id": "clip-34-5",
@@ -2326,7 +2504,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
     "description": "חלק 5 מתוך הרצאה 34 בנושא גזירות.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "34 - גזירות"
   },
   {
     "id": "clip-35-1",
@@ -2339,7 +2518,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
     "description": "חלק 1 מתוך הרצאה 35 בנושא גזירות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "35 - גזירות - המשך"
   },
   {
     "id": "clip-35-2",
@@ -2352,7 +2532,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
     "description": "חלק 2 מתוך הרצאה 35 בנושא גזירות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "35 - גזירות - המשך"
   },
   {
     "id": "clip-35-3",
@@ -2365,7 +2546,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
     "description": "חלק 3 מתוך הרצאה 35 בנושא גזירות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "35 - גזירות - המשך"
   },
   {
     "id": "clip-35-4",
@@ -2378,7 +2560,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
     "description": "חלק 4 מתוך הרצאה 35 בנושא גזירות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "35 - גזירות - המשך"
   },
   {
     "id": "clip-35-5",
@@ -2391,7 +2574,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
     "description": "חלק 5 מתוך הרצאה 35 בנושא גזירות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "35 - גזירות - המשך"
   },
   {
     "id": "clip-35-6",
@@ -2404,7 +2588,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
     "description": "חלק 6 מתוך הרצאה 35 בנושא גזירות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "35 - גזירות - המשך"
   },
   {
     "id": "clip-35-7",
@@ -2417,7 +2602,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
     "description": "חלק 7 מתוך הרצאה 35 בנושא גזירות - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "35 - גזירות - המשך"
   },
   {
     "id": "clip-36-1",
@@ -2430,7 +2616,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 36",
     "lectureNumber": 36,
     "description": "חלק 1 מתוך הרצאה 36 בנושא נגזרות מכוונות וגרדיאנט.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "36 - נגזרות מכוונות וגרדיאנט"
   },
   {
     "id": "clip-36-2",
@@ -2443,7 +2630,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 36",
     "lectureNumber": 36,
     "description": "חלק 2 מתוך הרצאה 36 בנושא נגזרות מכוונות וגרדיאנט.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "36 - נגזרות מכוונות וגרדיאנט"
   },
   {
     "id": "clip-36-3",
@@ -2456,7 +2644,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 36",
     "lectureNumber": 36,
     "description": "חלק 3 מתוך הרצאה 36 בנושא נגזרות מכוונות וגרדיאנט.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "36 - נגזרות מכוונות וגרדיאנט"
   },
   {
     "id": "clip-36-4",
@@ -2469,7 +2658,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 36",
     "lectureNumber": 36,
     "description": "חלק 4 מתוך הרצאה 36 בנושא נגזרות מכוונות וגרדיאנט.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "36 - נגזרות מכוונות וגרדיאנט"
   },
   {
     "id": "clip-37-1",
@@ -2482,7 +2672,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 37",
     "lectureNumber": 37,
     "description": "חלק 1 מתוך הרצאה 37 בנושא נגזרות חלקיות מסדר גבוה, כלל השרשרת.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "37 - נגזרות חלקיות מסדר גבוה, כלל השרשרת"
   },
   {
     "id": "clip-37-2",
@@ -2495,7 +2686,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 37",
     "lectureNumber": 37,
     "description": "חלק 2 מתוך הרצאה 37 בנושא נגזרות חלקיות מסדר גבוה, כלל השרשרת.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "37 - נגזרות חלקיות מסדר גבוה, כלל השרשרת"
   },
   {
     "id": "clip-37-3",
@@ -2508,7 +2700,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 37",
     "lectureNumber": 37,
     "description": "חלק 3 מתוך הרצאה 37 בנושא נגזרות חלקיות מסדר גבוה, כלל השרשרת.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "37 - נגזרות חלקיות מסדר גבוה, כלל השרשרת"
   },
   {
     "id": "clip-37-4",
@@ -2521,7 +2714,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 37",
     "lectureNumber": 37,
     "description": "חלק 4 מתוך הרצאה 37 בנושא נגזרות חלקיות מסדר גבוה, כלל השרשרת.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "37 - נגזרות חלקיות מסדר גבוה, כלל השרשרת"
   },
   {
     "id": "clip-37-5",
@@ -2534,7 +2728,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 37",
     "lectureNumber": 37,
     "description": "חלק 5 מתוך הרצאה 37 בנושא נגזרות חלקיות מסדר גבוה, כלל השרשרת.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "37 - נגזרות חלקיות מסדר גבוה, כלל השרשרת"
   },
   {
     "id": "clip-37-6",
@@ -2547,7 +2742,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 37",
     "lectureNumber": 37,
     "description": "חלק 6 מתוך הרצאה 37 בנושא נגזרות חלקיות מסדר גבוה, כלל השרשרת.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "37 - נגזרות חלקיות מסדר גבוה, כלל השרשרת"
   },
   {
     "id": "clip-38-1",
@@ -2560,7 +2756,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
     "description": "חלק 1 מתוך הרצאה 38 בנושא אינטגרל פרמטרי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "38 - אינטגרל פרמטרי"
   },
   {
     "id": "clip-38-2",
@@ -2573,7 +2770,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
     "description": "חלק 2 מתוך הרצאה 38 בנושא אינטגרל פרמטרי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "38 - אינטגרל פרמטרי"
   },
   {
     "id": "clip-38-3",
@@ -2586,7 +2784,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
     "description": "חלק 3 מתוך הרצאה 38 בנושא אינטגרל פרמטרי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "38 - אינטגרל פרמטרי"
   },
   {
     "id": "clip-38-4",
@@ -2599,7 +2798,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
     "description": "חלק 4 מתוך הרצאה 38 בנושא אינטגרל פרמטרי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "38 - אינטגרל פרמטרי"
   },
   {
     "id": "clip-38-5",
@@ -2612,7 +2812,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
     "description": "חלק 5 מתוך הרצאה 38 בנושא אינטגרל פרמטרי.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "38 - אינטגרל פרמטרי"
   },
   {
     "id": "clip-39-1",
@@ -2625,7 +2826,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
     "description": "חלק 1 מתוך הרצאה 39 בנושא אינטגרל פרמטרי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "39 - אינטגרל פרמטרי - המשך"
   },
   {
     "id": "clip-39-2",
@@ -2638,7 +2840,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
     "description": "חלק 2 מתוך הרצאה 39 בנושא אינטגרל פרמטרי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "39 - אינטגרל פרמטרי - המשך"
   },
   {
     "id": "clip-39-3",
@@ -2651,7 +2854,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
     "description": "חלק 3 מתוך הרצאה 39 בנושא אינטגרל פרמטרי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "39 - אינטגרל פרמטרי - המשך"
   },
   {
     "id": "clip-39-4",
@@ -2664,7 +2868,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
     "description": "חלק 4 מתוך הרצאה 39 בנושא אינטגרל פרמטרי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "39 - אינטגרל פרמטרי - המשך"
   },
   {
     "id": "clip-39-5",
@@ -2677,7 +2882,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
     "description": "חלק 5 מתוך הרצאה 39 בנושא אינטגרל פרמטרי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "39 - אינטגרל פרמטרי - המשך"
   },
   {
     "id": "clip-39-6",
@@ -2690,7 +2896,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
     "description": "חלק 6 מתוך הרצאה 39 בנושא אינטגרל פרמטרי - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "39 - אינטגרל פרמטרי - המשך"
   },
   {
     "id": "clip-40-1",
@@ -2703,7 +2910,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
     "description": "חלק 1 מתוך הרצאה 40 בנושא אינטגרלים נשנים ומשפט פוביני.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "40 - אינטגרלים נשנים ומשפט פוביני"
   },
   {
     "id": "clip-40-2",
@@ -2716,7 +2924,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
     "description": "חלק 2 מתוך הרצאה 40 בנושא אינטגרלים נשנים ומשפט פוביני.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "40 - אינטגרלים נשנים ומשפט פוביני"
   },
   {
     "id": "clip-40-3",
@@ -2729,7 +2938,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
     "description": "חלק 3 מתוך הרצאה 40 בנושא אינטגרלים נשנים ומשפט פוביני.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "40 - אינטגרלים נשנים ומשפט פוביני"
   },
   {
     "id": "clip-40-4",
@@ -2742,7 +2952,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
     "description": "חלק 4 מתוך הרצאה 40 בנושא אינטגרלים נשנים ומשפט פוביני.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "40 - אינטגרלים נשנים ומשפט פוביני"
   },
   {
     "id": "clip-40-5",
@@ -2755,7 +2966,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
     "description": "חלק 5 מתוך הרצאה 40 בנושא אינטגרלים נשנים ומשפט פוביני.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "40 - אינטגרלים נשנים ומשפט פוביני"
   },
   {
     "id": "clip-41-1",
@@ -2768,7 +2980,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
     "description": "חלק 1 מתוך הרצאה 41 בנושא אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "41  - אינטגרלים כפולים"
   },
   {
     "id": "clip-41-2",
@@ -2781,7 +2994,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
     "description": "חלק 2 מתוך הרצאה 41 בנושא אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "41  - אינטגרלים כפולים"
   },
   {
     "id": "clip-41-3",
@@ -2794,7 +3008,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
     "description": "חלק 3 מתוך הרצאה 41 בנושא אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "41  - אינטגרלים כפולים"
   },
   {
     "id": "clip-41-4",
@@ -2807,7 +3022,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
     "description": "חלק 4 מתוך הרצאה 41 בנושא אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "41  - אינטגרלים כפולים"
   },
   {
     "id": "clip-41-5",
@@ -2820,7 +3036,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
     "description": "חלק 5 מתוך הרצאה 41 בנושא אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "41  - אינטגרלים כפולים"
   },
   {
     "id": "clip-41-6",
@@ -2833,7 +3050,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
     "description": "חלק 6 מתוך הרצאה 41 בנושא אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "41  - אינטגרלים כפולים"
   },
   {
     "id": "clip-42-1",
@@ -2846,7 +3064,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 42",
     "lectureNumber": 42,
     "description": "חלק 1 מתוך הרצאה 42 בנושא אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "42 - אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-42-2",
@@ -2859,7 +3078,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 42",
     "lectureNumber": 42,
     "description": "חלק 2 מתוך הרצאה 42 בנושא אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "42 - אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-42-3",
@@ -2872,7 +3092,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 42",
     "lectureNumber": 42,
     "description": "חלק 3 מתוך הרצאה 42 בנושא אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "42 - אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-42-4",
@@ -2885,7 +3106,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 42",
     "lectureNumber": 42,
     "description": "חלק 4 מתוך הרצאה 42 בנושא אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "42 - אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-42-5",
@@ -2898,7 +3120,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 42",
     "lectureNumber": 42,
     "description": "חלק 5 מתוך הרצאה 42 בנושא אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "42 - אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-43-1",
@@ -2911,7 +3134,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
     "description": "חלק 1 מתוך הרצאה 43 בנושא חישוב אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "43 - חישוב אינטגרלים כפולים"
   },
   {
     "id": "clip-43-2",
@@ -2924,7 +3148,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
     "description": "חלק 2 מתוך הרצאה 43 בנושא חישוב אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "43 - חישוב אינטגרלים כפולים"
   },
   {
     "id": "clip-43-3",
@@ -2937,7 +3162,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
     "description": "חלק 3 מתוך הרצאה 43 בנושא חישוב אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "43 - חישוב אינטגרלים כפולים"
   },
   {
     "id": "clip-43-4",
@@ -2950,7 +3176,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
     "description": "חלק 4 מתוך הרצאה 43 בנושא חישוב אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "43 - חישוב אינטגרלים כפולים"
   },
   {
     "id": "clip-43-5",
@@ -2963,7 +3190,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
     "description": "חלק 5 מתוך הרצאה 43 בנושא חישוב אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "43 - חישוב אינטגרלים כפולים"
   },
   {
     "id": "clip-43-6",
@@ -2976,7 +3204,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
     "description": "חלק 6 מתוך הרצאה 43 בנושא חישוב אינטגרלים כפולים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "43 - חישוב אינטגרלים כפולים"
   },
   {
     "id": "clip-44-1",
@@ -2989,7 +3218,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
     "description": "חלק 1 מתוך הרצאה 44 בנושא חישוב אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "44 - חישוב אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-44-2",
@@ -3002,7 +3232,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
     "description": "חלק 2 מתוך הרצאה 44 בנושא חישוב אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "44 - חישוב אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-44-3",
@@ -3015,7 +3246,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
     "description": "חלק 3 מתוך הרצאה 44 בנושא חישוב אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "44 - חישוב אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-44-4",
@@ -3028,7 +3260,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
     "description": "חלק 4 מתוך הרצאה 44 בנושא חישוב אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "44 - חישוב אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-44-5",
@@ -3041,7 +3274,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
     "description": "חלק 5 מתוך הרצאה 44 בנושא חישוב אינטגרלים כפולים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "44 - חישוב אינטגרלים כפולים - המשך"
   },
   {
     "id": "clip-45-1",
@@ -3054,7 +3288,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
     "description": "חלק 1 מתוך הרצאה 45 בנושא החלפת משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "45 - החלפת משתנים"
   },
   {
     "id": "clip-45-2",
@@ -3067,7 +3302,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
     "description": "חלק 2 מתוך הרצאה 45 בנושא החלפת משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "45 - החלפת משתנים"
   },
   {
     "id": "clip-45-3",
@@ -3080,7 +3316,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
     "description": "חלק 3 מתוך הרצאה 45 בנושא החלפת משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "45 - החלפת משתנים"
   },
   {
     "id": "clip-45-4",
@@ -3093,7 +3330,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
     "description": "חלק 4 מתוך הרצאה 45 בנושא החלפת משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "45 - החלפת משתנים"
   },
   {
     "id": "clip-45-5",
@@ -3106,7 +3344,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
     "description": "חלק 5 מתוך הרצאה 45 בנושא החלפת משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "45 - החלפת משתנים"
   },
   {
     "id": "clip-45-6",
@@ -3119,7 +3358,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
     "description": "חלק 6 מתוך הרצאה 45 בנושא החלפת משתנים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "45 - החלפת משתנים"
   },
   {
     "id": "clip-46-1",
@@ -3132,7 +3372,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
     "description": "חלק 1 מתוך הרצאה 46 בנושא החלפת משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "46 - החלפת משתנים - המשך"
   },
   {
     "id": "clip-46-2",
@@ -3145,7 +3386,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
     "description": "חלק 2 מתוך הרצאה 46 בנושא החלפת משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "46 - החלפת משתנים - המשך"
   },
   {
     "id": "clip-46-3",
@@ -3158,7 +3400,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
     "description": "חלק 3 מתוך הרצאה 46 בנושא החלפת משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "46 - החלפת משתנים - המשך"
   },
   {
     "id": "clip-46-4",
@@ -3171,7 +3414,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
     "description": "חלק 4 מתוך הרצאה 46 בנושא החלפת משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "46 - החלפת משתנים - המשך"
   },
   {
     "id": "clip-46-5",
@@ -3184,7 +3428,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
     "description": "חלק 5 מתוך הרצאה 46 בנושא החלפת משתנים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "46 - החלפת משתנים - המשך"
   },
   {
     "id": "clip-47-1",
@@ -3197,7 +3442,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
     "description": "חלק 1 מתוך הרצאה 47 בנושא היעקוביאן.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "47 - היעקוביאן"
   },
   {
     "id": "clip-47-2",
@@ -3210,7 +3456,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
     "description": "חלק 2 מתוך הרצאה 47 בנושא היעקוביאן.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "47 - היעקוביאן"
   },
   {
     "id": "clip-47-3",
@@ -3223,7 +3470,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
     "description": "חלק 3 מתוך הרצאה 47 בנושא היעקוביאן.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "47 - היעקוביאן"
   },
   {
     "id": "clip-47-4",
@@ -3236,7 +3484,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
     "description": "חלק 4 מתוך הרצאה 47 בנושא היעקוביאן.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "47 - היעקוביאן"
   },
   {
     "id": "clip-47-5",
@@ -3249,7 +3498,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
     "description": "חלק 5 מתוך הרצאה 47 בנושא היעקוביאן.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "47 - היעקוביאן"
   },
   {
     "id": "clip-47-6",
@@ -3262,7 +3512,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
     "description": "חלק 6 מתוך הרצאה 47 בנושא היעקוביאן.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "47 - היעקוביאן"
   },
   {
     "id": "clip-48-1",
@@ -3275,7 +3526,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
     "description": "חלק 1 מתוך הרצאה 48 בנושא היעקוביאן - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "48 - היעקוביאן - המשך"
   },
   {
     "id": "clip-48-2",
@@ -3288,7 +3540,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
     "description": "חלק 2 מתוך הרצאה 48 בנושא היעקוביאן - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "48 - היעקוביאן - המשך"
   },
   {
     "id": "clip-48-3",
@@ -3301,7 +3554,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
     "description": "חלק 3 מתוך הרצאה 48 בנושא היעקוביאן - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "48 - היעקוביאן - המשך"
   },
   {
     "id": "clip-48-4",
@@ -3314,7 +3568,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
     "description": "חלק 4 מתוך הרצאה 48 בנושא היעקוביאן - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "48 - היעקוביאן - המשך"
   },
   {
     "id": "clip-49-1",
@@ -3327,7 +3582,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
     "description": "חלק 1 מתוך הרצאה 49 בנושא אינטגרלים כפולים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "49 - אינטגרלים כפולים מוכללים"
   },
   {
     "id": "clip-49-2",
@@ -3340,7 +3596,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
     "description": "חלק 2 מתוך הרצאה 49 בנושא אינטגרלים כפולים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "49 - אינטגרלים כפולים מוכללים"
   },
   {
     "id": "clip-49-3",
@@ -3353,7 +3610,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
     "description": "חלק 3 מתוך הרצאה 49 בנושא אינטגרלים כפולים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "49 - אינטגרלים כפולים מוכללים"
   },
   {
     "id": "clip-49-4",
@@ -3366,7 +3624,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
     "description": "חלק 4 מתוך הרצאה 49 בנושא אינטגרלים כפולים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "49 - אינטגרלים כפולים מוכללים"
   },
   {
     "id": "clip-49-5",
@@ -3379,7 +3638,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
     "description": "חלק 5 מתוך הרצאה 49 בנושא אינטגרלים כפולים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "49 - אינטגרלים כפולים מוכללים"
   },
   {
     "id": "clip-49-6",
@@ -3392,7 +3652,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
     "description": "חלק 6 מתוך הרצאה 49 בנושא אינטגרלים כפולים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "49 - אינטגרלים כפולים מוכללים"
   },
   {
     "id": "clip-49-7",
@@ -3405,7 +3666,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
     "description": "חלק 7 מתוך הרצאה 49 בנושא אינטגרלים כפולים מוכללים.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "49 - אינטגרלים כפולים מוכללים"
   },
   {
     "id": "clip-50-1",
@@ -3418,7 +3680,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
     "description": "חלק 1 מתוך הרצאה 50 בנושא אינטגרלים כפולים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "50 - אינטגרלים כפולים מוכללים - המשך"
   },
   {
     "id": "clip-50-2",
@@ -3431,7 +3694,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
     "description": "חלק 2 מתוך הרצאה 50 בנושא אינטגרלים כפולים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "50 - אינטגרלים כפולים מוכללים - המשך"
   },
   {
     "id": "clip-50-3",
@@ -3444,7 +3708,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
     "description": "חלק 3 מתוך הרצאה 50 בנושא אינטגרלים כפולים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "50 - אינטגרלים כפולים מוכללים - המשך"
   },
   {
     "id": "clip-50-4",
@@ -3457,7 +3722,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
     "description": "חלק 4 מתוך הרצאה 50 בנושא אינטגרלים כפולים מוכללים - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "50 - אינטגרלים כפולים מוכללים - המשך"
   },
   {
     "id": "clip-51-1",
@@ -3470,7 +3736,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
     "description": "חלק 1 מתוך הרצאה 51 בנושא שיעור חזרה.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "51 - שיעור חזרה"
   },
   {
     "id": "clip-51-2",
@@ -3483,7 +3750,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
     "description": "חלק 2 מתוך הרצאה 51 בנושא שיעור חזרה.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "51 - שיעור חזרה"
   },
   {
     "id": "clip-51-3",
@@ -3496,7 +3764,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
     "description": "חלק 3 מתוך הרצאה 51 בנושא שיעור חזרה.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "51 - שיעור חזרה"
   },
   {
     "id": "clip-51-4",
@@ -3509,7 +3778,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
     "description": "חלק 4 מתוך הרצאה 51 בנושא שיעור חזרה.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "51 - שיעור חזרה"
   },
   {
     "id": "clip-51-5",
@@ -3522,7 +3792,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
     "description": "חלק 5 מתוך הרצאה 51 בנושא שיעור חזרה.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "51 - שיעור חזרה"
   },
   {
     "id": "clip-51-6",
@@ -3535,7 +3806,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
     "description": "חלק 6 מתוך הרצאה 51 בנושא שיעור חזרה.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "51 - שיעור חזרה"
   },
   {
     "id": "clip-52-1",
@@ -3548,7 +3820,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
     "description": "חלק 1 מתוך הרצאה 52 בנושא שיעור חזרה - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "52 - שיעור חזרה - המשך"
   },
   {
     "id": "clip-52-2",
@@ -3561,7 +3834,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
     "description": "חלק 2 מתוך הרצאה 52 בנושא שיעור חזרה - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "52 - שיעור חזרה - המשך"
   },
   {
     "id": "clip-52-3",
@@ -3574,7 +3848,8 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
     "description": "חלק 3 מתוך הרצאה 52 בנושא שיעור חזרה - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "52 - שיעור חזרה - המשך"
   },
   {
     "id": "clip-52-4",
@@ -3587,6 +3862,7 @@ export const clips: Clip[] = [
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
     "description": "חלק 4 מתוך הרצאה 52 בנושא שיעור חזרה - המשך.",
-    "courseId": "infi-2m"
+    "courseId": "infi-2m",
+    "videoTitle": "52 - שיעור חזרה - המשך"
   }
 ];

@@ -226,9 +226,8 @@
   z-index: 2;
   pointer-events: none;
   transition: opacity 0.2s;
+  width: 100%;
 }
-
-
 
 .badge-lecture,
 .badge-part {
@@ -236,13 +235,24 @@
   padding: 4px 10px;
   border-radius: 6px;
   font-weight: 700;
-  font-size: 1.2rem;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
   text-align: center;
-  white-space: nowrap;
+}
+
+.badge-lecture {
+  font-size: 1rem;
+  line-height: 1.2;
+  white-space: normal;
+  max-width: 90%;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .badge-part {
   font-size: 1rem;
   padding: 3px 8px;
+  white-space: nowrap;
 }

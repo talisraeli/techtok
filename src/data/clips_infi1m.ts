@@ -1,10 +1,3 @@
-/* ============================================
-   TechTok — Auto-generated Clip Data
-   ============================================
-   
-   Playlist: אינפי 1מ׳ (PLW3u28VuDAHLBQrejV70zRa6sesxkPmgA)
-   ============================================ */
-
 import type { Clip } from '../types';
 
 export const clips: Clip[] = [
@@ -19,7 +12,8 @@ export const clips: Clip[] = [
     "endSeconds": 121,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "הצגת הקורס ומושגי יסוד"
+    "description": "הצגת הקורס ומושגי יסוד",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -32,7 +26,8 @@ export const clips: Clip[] = [
     "endSeconds": 151,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "הסבר מהם משפט והוכחה"
+    "description": "הסבר מהם משפט והוכחה",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -45,7 +40,8 @@ export const clips: Clip[] = [
     "endSeconds": 238,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "נוסח משפט פרמה"
+    "description": "נוסח משפט פרמה",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -58,7 +54,8 @@ export const clips: Clip[] = [
     "endSeconds": 370,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "מושגי יסוד: פונקציה וקטע פתוח"
+    "description": "מושגי יסוד: פונקציה וקטע פתוח",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -71,7 +68,8 @@ export const clips: Clip[] = [
     "endSeconds": 486,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "מושגים: נקודות קיצון וסימן לכל"
+    "description": "מושגים: נקודות קיצון וסימן לכל",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -84,7 +82,8 @@ export const clips: Clip[] = [
     "endSeconds": 602,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "מושגים: פונקציה גזירה ונגזרת"
+    "description": "מושגים: פונקציה גזירה ונגזרת",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -97,7 +96,8 @@ export const clips: Clip[] = [
     "endSeconds": 742,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "הוכחה אינטואיטיבית למשפט פרמה"
+    "description": "הוכחה אינטואיטיבית למשפט פרמה",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -110,7 +110,8 @@ export const clips: Clip[] = [
     "endSeconds": 830,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "שימוש מעשי במציאת קיצון"
+    "description": "שימוש מעשי במציאת קיצון",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -123,7 +124,8 @@ export const clips: Clip[] = [
     "endSeconds": 922,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "נוסח משפט רול"
+    "description": "נוסח משפט רול",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -136,7 +138,8 @@ export const clips: Clip[] = [
     "endSeconds": 1039,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "מושגים: פונקציה רציפה וקטע סגור"
+    "description": "מושגים: פונקציה רציפה וקטע סגור",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -149,7 +152,8 @@ export const clips: Clip[] = [
     "endSeconds": 1095,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "דיון בתנאי משפט רול"
+    "description": "דיון בתנאי משפט רול",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -162,7 +166,8 @@ export const clips: Clip[] = [
     "endSeconds": 1342,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "הוכחה אינטואיטיבית למשפט רול"
+    "description": "הוכחה אינטואיטיבית למשפט רול",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -175,7 +180,8 @@ export const clips: Clip[] = [
     "endSeconds": 1459,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "שאלות על קצוות וקיצון"
+    "description": "שאלות על קצוות וקיצון",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -188,7 +194,8 @@ export const clips: Clip[] = [
     "endSeconds": 1581,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "נוסח משפט לגראנז'"
+    "description": "נוסח משפט לגראנז'",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -201,7 +208,8 @@ export const clips: Clip[] = [
     "endSeconds": 1837,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "הוכחה אינטואיטיבית למשפט לגראנז'"
+    "description": "הוכחה אינטואיטיבית למשפט לגראנז'",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -214,7 +222,8 @@ export const clips: Clip[] = [
     "endSeconds": 1994,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "לגראנז' כהכללה של רול"
+    "description": "לגראנז' כהכללה של רול",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -227,7 +236,8 @@ export const clips: Clip[] = [
     "endSeconds": 2189,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "נוסח משפט קושי"
+    "description": "נוסח משפט קושי",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -240,7 +250,8 @@ export const clips: Clip[] = [
     "endSeconds": 2349,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "תנאים טכניים במשפט קושי"
+    "description": "תנאים טכניים במשפט קושי",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -253,7 +264,8 @@ export const clips: Clip[] = [
     "endSeconds": 2567,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "קושי כהכללה של לגראנז'"
+    "description": "קושי כהכללה של לגראנז'",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -266,7 +278,8 @@ export const clips: Clip[] = [
     "endSeconds": 2772,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "היסטוריה ופער בין המשפטים"
+    "description": "היסטוריה ופער בין המשפטים",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -279,7 +292,8 @@ export const clips: Clip[] = [
     "endSeconds": 3018,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "הסבר על אינפיניטסימלים"
+    "description": "הסבר על אינפיניטסימלים",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -292,7 +306,8 @@ export const clips: Clip[] = [
     "endSeconds": 3230,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "פורמליזציה: מושג הגבול"
+    "description": "פורמליזציה: מושג הגבול",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -305,7 +320,8 @@ export const clips: Clip[] = [
     "endSeconds": 3366,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "קשיי הקורס: מושג הגבול"
+    "description": "קשיי הקורס: מושג הגבול",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -318,7 +334,8 @@ export const clips: Clip[] = [
     "endSeconds": 3566,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "הגדרת גבול אפסילון-דלתא"
+    "description": "הגדרת גבול אפסילון-דלתא",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -331,7 +348,8 @@ export const clips: Clip[] = [
     "endSeconds": 3694,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "מקור השם ודגש תיאורטי"
+    "description": "מקור השם ודגש תיאורטי",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -344,7 +362,8 @@ export const clips: Clip[] = [
     "endSeconds": 3811,
     "lectureName": "הרצאה 1",
     "lectureNumber": 1,
-    "description": "אינפיניטסימלים כיום וסיכום"
+    "description": "אינפיניטסימלים כיום וסיכום",
+    "videoTitle": "01 - הקדמה"
   },
   {
     "courseId": "infi-1m",
@@ -357,7 +376,8 @@ export const clips: Clip[] = [
     "endSeconds": 65,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הצגת הקורס ושפה מתמטית"
+    "description": "הצגת הקורס ושפה מתמטית",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -370,7 +390,8 @@ export const clips: Clip[] = [
     "endSeconds": 146,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הגדרת מספרים טבעיים"
+    "description": "הגדרת מספרים טבעיים",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -383,7 +404,8 @@ export const clips: Clip[] = [
     "endSeconds": 221,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הגדרת מספרים שלמים"
+    "description": "הגדרת מספרים שלמים",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -396,7 +418,8 @@ export const clips: Clip[] = [
     "endSeconds": 272,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הגדרת מספרים רציונליים"
+    "description": "הגדרת מספרים רציונליים",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -409,7 +432,8 @@ export const clips: Clip[] = [
     "endSeconds": 363,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "קבוצות מספרים ופעולות"
+    "description": "קבוצות מספרים ופעולות",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -422,7 +446,8 @@ export const clips: Clip[] = [
     "endSeconds": 488,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הגדרת מספרים ממשיים"
+    "description": "הגדרת מספרים ממשיים",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -435,7 +460,8 @@ export const clips: Clip[] = [
     "endSeconds": 597,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הצגת הוכחות מתמטיות"
+    "description": "הצגת הוכחות מתמטיות",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -448,7 +474,8 @@ export const clips: Clip[] = [
     "endSeconds": 622,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "משפט: n אי-זוגי, n^2 אי-זוגי"
+    "description": "משפט: n אי-זוגי, n^2 אי-זוגי",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -461,7 +488,8 @@ export const clips: Clip[] = [
     "endSeconds": 778,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הוכחה: n אי-זוגי, n^2 אי-זוגי"
+    "description": "הוכחה: n אי-זוגי, n^2 אי-זוגי",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -474,7 +502,8 @@ export const clips: Clip[] = [
     "endSeconds": 810,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "משפט: n^2 זוגי, n זוגי"
+    "description": "משפט: n^2 זוגי, n זוגי",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -487,7 +516,8 @@ export const clips: Clip[] = [
     "endSeconds": 1052,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "שוויון לוגי: קונטרה-פוזיטיבית"
+    "description": "שוויון לוגי: קונטרה-פוזיטיבית",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -500,7 +530,8 @@ export const clips: Clip[] = [
     "endSeconds": 1229,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "היסטוריה: מספרים אי-רציונליים"
+    "description": "היסטוריה: מספרים אי-רציונליים",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -513,7 +544,8 @@ export const clips: Clip[] = [
     "endSeconds": 1297,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "משפט: שורש 2 אי-רציונלי"
+    "description": "משפט: שורש 2 אי-רציונלי",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -526,7 +558,8 @@ export const clips: Clip[] = [
     "endSeconds": 1420,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הוכחה: שורש 2 אי-רציונלי (הכנה)"
+    "description": "הוכחה: שורש 2 אי-רציונלי (הכנה)",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -539,7 +572,8 @@ export const clips: Clip[] = [
     "endSeconds": 1558,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הסקת m זוגי מ-m^2 = 2n^2."
+    "description": "הסקת m זוגי מ-m^2 = 2n^2.",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -552,7 +586,8 @@ export const clips: Clip[] = [
     "endSeconds": 1690,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "m זוגי גורר n זוגי, סתירה."
+    "description": "m זוגי גורר n זוגי, סתירה.",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -565,7 +600,8 @@ export const clips: Clip[] = [
     "endSeconds": 1716,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "Q הוא תת-קבוצה אמיתית של R."
+    "description": "Q הוא תת-קבוצה אמיתית של R.",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -578,7 +614,8 @@ export const clips: Clip[] = [
     "endSeconds": 1827,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הצגת מושג צפיפות הרציונליים."
+    "description": "הצגת מושג צפיפות הרציונליים.",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -591,7 +628,8 @@ export const clips: Clip[] = [
     "endSeconds": 1910,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "Q ו-R כשדות אלגבריים."
+    "description": "Q ו-R כשדות אלגבריים.",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -604,7 +642,8 @@ export const clips: Clip[] = [
     "endSeconds": 2092,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הוכחת צפיפות רציונליים בעזרת ארכימדס."
+    "description": "הוכחת צפיפות רציונליים בעזרת ארכימדס.",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -617,7 +656,8 @@ export const clips: Clip[] = [
     "endSeconds": 2167,
     "lectureName": "הרצאה 2",
     "lectureNumber": 2,
-    "description": "הסבר גיאומטרי להוכחת צפיפות רציונליים."
+    "description": "הסבר גיאומטרי להוכחת צפיפות רציונליים.",
+    "videoTitle": "02 - קבוצות של מספרים, הוכחות מתמטיות"
   },
   {
     "courseId": "infi-1m",
@@ -630,7 +670,8 @@ export const clips: Clip[] = [
     "endSeconds": 32,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "סקירת מושגים: ערך מוחלט, סופרמום, סדרות, גבולות."
+    "description": "סקירת מושגים: ערך מוחלט, סופרמום, סדרות, גבולות.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -643,7 +684,8 @@ export const clips: Clip[] = [
     "endSeconds": 53,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "דוגמאות לערך מוחלט חיובי ושלילי."
+    "description": "דוגמאות לערך מוחלט חיובי ושלילי.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -656,7 +698,8 @@ export const clips: Clip[] = [
     "endSeconds": 110,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרה פורמלית מפוצלת של ערך מוחלט."
+    "description": "הגדרה פורמלית מפוצלת של ערך מוחלט.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -669,7 +712,8 @@ export const clips: Clip[] = [
     "endSeconds": 160,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרה כ-מקסימום של x ו-x-."
+    "description": "הגדרה כ-מקסימום של x ו-x-.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -682,7 +726,8 @@ export const clips: Clip[] = [
     "endSeconds": 200,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "מרחק ממספר אפס על ציר המספרים."
+    "description": "מרחק ממספר אפס על ציר המספרים.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -695,7 +740,8 @@ export const clips: Clip[] = [
     "endSeconds": 250,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "תכונות מתמטיות דורשות הוכחה פורמלית."
+    "description": "תכונות מתמטיות דורשות הוכחה פורמלית.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -708,7 +754,8 @@ export const clips: Clip[] = [
     "endSeconds": 315,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הוכחת |x| >= 0 מההגדרה."
+    "description": "הוכחת |x| >= 0 מההגדרה.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -721,7 +768,8 @@ export const clips: Clip[] = [
     "endSeconds": 375,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הוכחת |x| גדול מ-x ו-x-."
+    "description": "הוכחת |x| גדול מ-x ו-x-.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -734,7 +782,8 @@ export const clips: Clip[] = [
     "endSeconds": 425,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הוכחת סימטריה: |x| = |-x|."
+    "description": "הוכחת סימטריה: |x| = |-x|.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -747,7 +796,8 @@ export const clips: Clip[] = [
     "endSeconds": 501,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הוכחת |x|=0 אמ\"ם x=0."
+    "description": "הוכחת |x|=0 אמ\"ם x=0.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -760,7 +810,8 @@ export const clips: Clip[] = [
     "endSeconds": 597,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "|xy| = |x||y| עם בדיקת מקרים."
+    "description": "|xy| = |x||y| עם בדיקת מקרים.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -773,7 +824,8 @@ export const clips: Clip[] = [
     "endSeconds": 622,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הצגת אי-שוויון המשולש."
+    "description": "הצגת אי-שוויון המשולש.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -786,7 +838,8 @@ export const clips: Clip[] = [
     "endSeconds": 700,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הסבר גיאומטרי לאי-שוויון המשולש."
+    "description": "הסבר גיאומטרי לאי-שוויון המשולש.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -799,7 +852,8 @@ export const clips: Clip[] = [
     "endSeconds": 830,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הוכחה פורמלית לאי-שוויון המשולש."
+    "description": "הוכחה פורמלית לאי-שוויון המשולש.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -812,7 +866,8 @@ export const clips: Clip[] = [
     "endSeconds": 888,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הצגת אי-שוויון המשולש ההפוך."
+    "description": "הצגת אי-שוויון המשולש ההפוך.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -825,7 +880,8 @@ export const clips: Clip[] = [
     "endSeconds": 1042,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הצגה ופרשנות גיאומטרית ל- |x| < m."
+    "description": "הצגה ופרשנות גיאומטרית ל- |x| < m.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -838,7 +894,8 @@ export const clips: Clip[] = [
     "endSeconds": 1129,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "מרחק בין x ל-y על ציר המספרים."
+    "description": "מרחק בין x ל-y על ציר המספרים.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -851,7 +908,8 @@ export const clips: Clip[] = [
     "endSeconds": 1164,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרת קטעים וסביבות, חיוני לגבולות."
+    "description": "הגדרת קטעים וסביבות, חיוני לגבולות.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -864,7 +922,8 @@ export const clips: Clip[] = [
     "endSeconds": 1203,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרה פורמלית לקטע פתוח (a,b)."
+    "description": "הגדרה פורמלית לקטע פתוח (a,b).",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -877,7 +936,8 @@ export const clips: Clip[] = [
     "endSeconds": 1230,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרה פורמלית לקטע סגור [a,b]."
+    "description": "הגדרה פורמלית לקטע סגור [a,b].",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -890,7 +950,8 @@ export const clips: Clip[] = [
     "endSeconds": 1339,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "קטעים חצי-פתוחים וקטעים אינסופיים (קרניים)."
+    "description": "קטעים חצי-פתוחים וקטעים אינסופיים (קרניים).",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -903,7 +964,8 @@ export const clips: Clip[] = [
     "endSeconds": 1469,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרה פורמלית של סביבת אפסילון ל-x0."
+    "description": "הגדרה פורמלית של סביבת אפסילון ל-x0.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -916,7 +978,8 @@ export const clips: Clip[] = [
     "endSeconds": 1642,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הצגת טענת שקילות ואינטואיציה גיאומטרית."
+    "description": "הצגת טענת שקילות ואינטואיציה גיאומטרית.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -929,7 +992,8 @@ export const clips: Clip[] = [
     "endSeconds": 1801,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הוכחה פורמלית לשקילות עם תכונה 8."
+    "description": "הוכחה פורמלית לשקילות עם תכונה 8.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -942,7 +1006,8 @@ export const clips: Clip[] = [
     "endSeconds": 1819,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "חשיבות תכונה 8 בהוכחות."
+    "description": "חשיבות תכונה 8 בהוכחות.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -955,7 +1020,8 @@ export const clips: Clip[] = [
     "endSeconds": 1980,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרה פורמלית לסביבת אפסילון מנוקבת (ללא x0)."
+    "description": "הגדרה פורמלית לסביבת אפסילון מנוקבת (ללא x0).",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -968,7 +1034,8 @@ export const clips: Clip[] = [
     "endSeconds": 2130,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הדמיה גיאומטרית של סביבה מנוקבת."
+    "description": "הדמיה גיאומטרית של סביבה מנוקבת.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -981,7 +1048,8 @@ export const clips: Clip[] = [
     "endSeconds": 2244,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הצגת מושג החסימות לקבוצות ממשיות."
+    "description": "הצגת מושג החסימות לקבוצות ממשיות.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -994,7 +1062,8 @@ export const clips: Clip[] = [
     "endSeconds": 2348,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרה פורמלית לקבוצה חסומה מלעיל."
+    "description": "הגדרה פורמלית לקבוצה חסומה מלעיל.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -1007,7 +1076,8 @@ export const clips: Clip[] = [
     "endSeconds": 2421,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הגדרה פורמלית לקבוצה חסומה מלרע."
+    "description": "הגדרה פורמלית לקבוצה חסומה מלרע.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -1020,7 +1090,8 @@ export const clips: Clip[] = [
     "endSeconds": 2433,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "קבוצה חסומה מלעיל ומלרע."
+    "description": "קבוצה חסומה מלעיל ומלרע.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -1033,7 +1104,8 @@ export const clips: Clip[] = [
     "endSeconds": 2690,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "דוגמאות לחסימות שונות: טבעיים, שלמים, קטעים."
+    "description": "דוגמאות לחסימות שונות: טבעיים, שלמים, קטעים.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -1046,7 +1118,8 @@ export const clips: Clip[] = [
     "endSeconds": 2750,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "משפט חסימות: A חסומה אמ\"ם |x| <= K."
+    "description": "משפט חסימות: A חסומה אמ\"ם |x| <= K.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -1059,7 +1132,8 @@ export const clips: Clip[] = [
     "endSeconds": 2851,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הוכחה לכיוון הראשון של המשפט."
+    "description": "הוכחה לכיוון הראשון של המשפט.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -1072,7 +1146,8 @@ export const clips: Clip[] = [
     "endSeconds": 3233,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "הוכחה לכיוון השני של המשפט."
+    "description": "הוכחה לכיוון השני של המשפט.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -1085,7 +1160,8 @@ export const clips: Clip[] = [
     "endSeconds": 3265,
     "lectureName": "הרצאה 3",
     "lectureNumber": 3,
-    "description": "סיכום והצגת הנושא הבא."
+    "description": "סיכום והצגת הנושא הבא.",
+    "videoTitle": "03 - ערך מוחלט, קטעים וסביבות, קבוצות חסומות"
   },
   {
     "courseId": "infi-1m",
@@ -1098,7 +1174,8 @@ export const clips: Clip[] = [
     "endSeconds": 92,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הגדרות סופרמום ומקסימום עם סימון."
+    "description": "הגדרות סופרמום ומקסימום עם סימון.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1111,7 +1188,8 @@ export const clips: Clip[] = [
     "endSeconds": 149,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הגדרות אינפימום ומינימום כדואליים."
+    "description": "הגדרות אינפימום ומינימום כדואליים.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1124,7 +1202,8 @@ export const clips: Clip[] = [
     "endSeconds": 249,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "דוגמה ל-Inf(N) ו-Min(N)."
+    "description": "דוגמה ל-Inf(N) ו-Min(N).",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1137,7 +1216,8 @@ export const clips: Clip[] = [
     "endSeconds": 294,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "דיון על חוסר גבולות של Z."
+    "description": "דיון על חוסר גבולות של Z.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1150,7 +1230,8 @@ export const clips: Clip[] = [
     "endSeconds": 375,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "דוגמה למושגים בקטע חצי-פתוח."
+    "description": "דוגמה למושגים בקטע חצי-פתוח.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1163,7 +1244,8 @@ export const clips: Clip[] = [
     "endSeconds": 415,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "דוגמה למושגים בקטע פתוח."
+    "description": "דוגמה למושגים בקטע פתוח.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1176,7 +1258,8 @@ export const clips: Clip[] = [
     "endSeconds": 471,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הבהרה על הקשר בין מקסימום לסופרמום."
+    "description": "הבהרה על הקשר בין מקסימום לסופרמום.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1189,7 +1272,8 @@ export const clips: Clip[] = [
     "endSeconds": 694,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הגדרה פורמלית של סופרמום עם אפסילון."
+    "description": "הגדרה פורמלית של סופרמום עם אפסילון.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1202,7 +1286,8 @@ export const clips: Clip[] = [
     "endSeconds": 855,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הצגת והגדרת אקסיומת השלמות."
+    "description": "הצגת והגדרת אקסיומת השלמות.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1215,7 +1300,8 @@ export const clips: Clip[] = [
     "endSeconds": 1028,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "דוגמה לחשיבות אקסיומת השלמות."
+    "description": "דוגמה לחשיבות אקסיומת השלמות.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1228,7 +1314,8 @@ export const clips: Clip[] = [
     "endSeconds": 1188,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הצגת משפט קיום שורשים."
+    "description": "הצגת משפט קיום שורשים.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1241,7 +1328,8 @@ export const clips: Clip[] = [
     "endSeconds": 1304,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הסבר על הסימון והוכחה עבור n=2."
+    "description": "הסבר על הסימון והוכחה עבור n=2.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1254,7 +1342,8 @@ export const clips: Clip[] = [
     "endSeconds": 1398,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "סקירה של אסטרטגיית ההוכחה."
+    "description": "סקירה של אסטרטגיית ההוכחה.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1267,7 +1356,8 @@ export const clips: Clip[] = [
     "endSeconds": 1582,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "שלב ראשון: הוכחת A אינה ריקה."
+    "description": "שלב ראשון: הוכחת A אינה ריקה.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1280,7 +1370,8 @@ export const clips: Clip[] = [
     "endSeconds": 1727,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "שלב שני: הוכחת A חסומה מלעיל."
+    "description": "שלב שני: הוכחת A חסומה מלעיל.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1293,7 +1384,8 @@ export const clips: Clip[] = [
     "endSeconds": 1825,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "יישום אקסיומת השלמות והצבת יעדים."
+    "description": "יישום אקסיומת השלמות והצבת יעדים.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1306,7 +1398,8 @@ export const clips: Clip[] = [
     "endSeconds": 2359,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הוכחה בשלילה ש-y^2 >= x."
+    "description": "הוכחה בשלילה ש-y^2 >= x.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1319,7 +1412,8 @@ export const clips: Clip[] = [
     "endSeconds": 2720,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הוכחה בשלילה ש-y^2 <= x."
+    "description": "הוכחה בשלילה ש-y^2 <= x.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1332,7 +1426,8 @@ export const clips: Clip[] = [
     "endSeconds": 2840,
     "lectureName": "הרצאה 4",
     "lectureNumber": 4,
-    "description": "הוכחת יחידות השורש ה-N-י."
+    "description": "הוכחת יחידות השורש ה-N-י.",
+    "videoTitle": "04 - סופרמום ואינפימום"
   },
   {
     "courseId": "infi-1m",
@@ -1345,7 +1440,8 @@ export const clips: Clip[] = [
     "endSeconds": 36,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "סקירה על סדרות ומושג הגבול."
+    "description": "סקירה על סדרות ומושג הגבול.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1358,7 +1454,8 @@ export const clips: Clip[] = [
     "endSeconds": 202,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "הגדרה פורמלית של סדרה וסימוניה."
+    "description": "הגדרה פורמלית של סדרה וסימוניה.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1371,7 +1468,8 @@ export const clips: Clip[] = [
     "endSeconds": 1445,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "דוגמאות מקיפות לסוגי סדרות שונים."
+    "description": "דוגמאות מקיפות לסוגי סדרות שונים.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1384,7 +1482,8 @@ export const clips: Clip[] = [
     "endSeconds": 1818,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "מבוא אינטואיטיבי לגבול ומגבלותיו."
+    "description": "מבוא אינטואיטיבי לגבול ומגבלותיו.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1397,7 +1496,8 @@ export const clips: Clip[] = [
     "endSeconds": 2374,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "הגדרה מתמטית מדויקת של גבול סדרה."
+    "description": "הגדרה מתמטית מדויקת של גבול סדרה.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1410,7 +1510,8 @@ export const clips: Clip[] = [
     "endSeconds": 2520,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "הצגת סימונים ומונחים לגבולות סדרות."
+    "description": "הצגת סימונים ומונחים לגבולות סדרות.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1423,7 +1524,8 @@ export const clips: Clip[] = [
     "endSeconds": 2598,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "הבהרת משמעות ה-'N' בהגדרת הגבול."
+    "description": "הבהרת משמעות ה-'N' בהגדרת הגבול.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1436,7 +1538,8 @@ export const clips: Clip[] = [
     "endSeconds": 2803,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "הוכחה פורמלית לגבול סדרה קבועה."
+    "description": "הוכחה פורמלית לגבול סדרה קבועה.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1449,7 +1552,8 @@ export const clips: Clip[] = [
     "endSeconds": 3233,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "הוכחה פורמלית לגבול של 1/n."
+    "description": "הוכחה פורמלית לגבול של 1/n.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1462,7 +1566,8 @@ export const clips: Clip[] = [
     "endSeconds": 3476,
     "lectureName": "הרצאה 5",
     "lectureNumber": 5,
-    "description": "שתי הערות מפתח על גבולות סדרות."
+    "description": "שתי הערות מפתח על גבולות סדרות.",
+    "videoTitle": "05 - גבול של סדרה"
   },
   {
     "courseId": "infi-1m",
@@ -1475,7 +1580,8 @@ export const clips: Clip[] = [
     "endSeconds": 30,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "סקירה וסיכום תוצאות מהרצאה קודמת."
+    "description": "סקירה וסיכום תוצאות מהרצאה קודמת.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1488,7 +1594,8 @@ export const clips: Clip[] = [
     "endSeconds": 239,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "סקירה מפורטת של הגדרת אפסילון-N."
+    "description": "סקירה מפורטת של הגדרת אפסילון-N.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1501,7 +1608,8 @@ export const clips: Clip[] = [
     "endSeconds": 337,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הצגת שיטות ומשפטים לחישוב גבולות."
+    "description": "הצגת שיטות ומשפטים לחישוב גבולות.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1514,7 +1622,8 @@ export const clips: Clip[] = [
     "endSeconds": 414,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הצגת משפט 'חשבון גבולות' ותכונותיו."
+    "description": "הצגת משפט 'חשבון גבולות' ותכונותיו.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1527,7 +1636,8 @@ export const clips: Clip[] = [
     "endSeconds": 475,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הצגת משפט גבול הערך המוחלט."
+    "description": "הצגת משפט גבול הערך המוחלט.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1540,7 +1650,8 @@ export const clips: Clip[] = [
     "endSeconds": 526,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הצגת משפט גבול לאפס וערך מוחלט."
+    "description": "הצגת משפט גבול לאפס וערך מוחלט.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1553,7 +1664,8 @@ export const clips: Clip[] = [
     "endSeconds": 588,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הצגת משפט גבול השורש הריבועי."
+    "description": "הצגת משפט גבול השורש הריבועי.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1566,7 +1678,8 @@ export const clips: Clip[] = [
     "endSeconds": 701,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "דוגמה לחישוב גבול באמצעות משפטים."
+    "description": "דוגמה לחישוב גבול באמצעות משפטים.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1579,7 +1692,8 @@ export const clips: Clip[] = [
     "endSeconds": 981,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "דוגמה מורכבת ליישום משפטי גבולות."
+    "description": "דוגמה מורכבת ליישום משפטי גבולות.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1592,7 +1706,8 @@ export const clips: Clip[] = [
     "endSeconds": 1040,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "חשיבות הבנת הוכחות משפטים ותרגיל."
+    "description": "חשיבות הבנת הוכחות משפטים ותרגיל.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1605,7 +1720,8 @@ export const clips: Clip[] = [
     "endSeconds": 1527,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הוכחת אפסילון-N לגבול סכום סדרות."
+    "description": "הוכחת אפסילון-N לגבול סכום סדרות.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1618,7 +1734,8 @@ export const clips: Clip[] = [
     "endSeconds": 1861,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הוכחת אפסילון-N לערך המוחלט."
+    "description": "הוכחת אפסילון-N לערך המוחלט.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1631,7 +1748,8 @@ export const clips: Clip[] = [
     "endSeconds": 2047,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הוכחה שההיפוך של משפט 5 שגוי."
+    "description": "הוכחה שההיפוך של משפט 5 שגוי.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1644,7 +1762,8 @@ export const clips: Clip[] = [
     "endSeconds": 2116,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "חזרה על הוכחות שהוטלו לסטודנטים."
+    "description": "חזרה על הוכחות שהוטלו לסטודנטים.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1657,7 +1776,8 @@ export const clips: Clip[] = [
     "endSeconds": 3032,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הוכחת אפסילון-N לגבול שורש ריבועי."
+    "description": "הוכחת אפסילון-N לגבול שורש ריבועי.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1670,7 +1790,8 @@ export const clips: Clip[] = [
     "endSeconds": 3179,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "הבהרה ודיון בטכניקות הוכחה ספציפיות."
+    "description": "הבהרה ודיון בטכניקות הוכחה ספציפיות.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1683,7 +1804,8 @@ export const clips: Clip[] = [
     "endSeconds": 3287,
     "lectureName": "הרצאה 7",
     "lectureNumber": 7,
-    "description": "סיכום מהיר של משפטים והודעה על הפסקה."
+    "description": "סיכום מהיר של משפטים והודעה על הפסקה.",
+    "videoTitle": "07 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1696,7 +1818,8 @@ export const clips: Clip[] = [
     "endSeconds": 30,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "הכנה להוכחת גבול מכפלת סדרות."
+    "description": "הכנה להוכחת גבול מכפלת סדרות.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1709,7 +1832,8 @@ export const clips: Clip[] = [
     "endSeconds": 900,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "הוכחת אפסילון-דלתא לגבול מכפלת סדרות."
+    "description": "הוכחת אפסילון-דלתא לגבול מכפלת סדרות.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1722,7 +1846,8 @@ export const clips: Clip[] = [
     "endSeconds": 947,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "התבוננות במורכבות ההוכחות הבאות."
+    "description": "התבוננות במורכבות ההוכחות הבאות.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1735,7 +1860,8 @@ export const clips: Clip[] = [
     "endSeconds": 1084,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "מבוא למשפט חדש על סדרה חסומה."
+    "description": "מבוא למשפט חדש על סדרה חסומה.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1748,7 +1874,8 @@ export const clips: Clip[] = [
     "endSeconds": 1264,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "יישום משפט חסום כפול אפס."
+    "description": "יישום משפט חסום כפול אפס.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1761,7 +1888,8 @@ export const clips: Clip[] = [
     "endSeconds": 1531,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "הוכחת אפסילון-דלתא למשפט הנ\"ל."
+    "description": "הוכחת אפסילון-דלתא למשפט הנ\"ל.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1774,7 +1902,8 @@ export const clips: Clip[] = [
     "endSeconds": 1696,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "הצגת משפט הסנדוויץ' (כליאה)."
+    "description": "הצגת משפט הסנדוויץ' (כליאה).",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1787,7 +1916,8 @@ export const clips: Clip[] = [
     "endSeconds": 1887,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "יישום משפט הסנדוויץ' בדוגמה."
+    "description": "יישום משפט הסנדוויץ' בדוגמה.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1800,7 +1930,8 @@ export const clips: Clip[] = [
     "endSeconds": 2220,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "הוכחת אפסילון-דלתא למשפט הסנדוויץ'."
+    "description": "הוכחת אפסילון-דלתא למשפט הסנדוויץ'.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1813,7 +1944,8 @@ export const clips: Clip[] = [
     "endSeconds": 2317,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "חשיבות תרגול עצמאי של הוכחות."
+    "description": "חשיבות תרגול עצמאי של הוכחות.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1826,7 +1958,8 @@ export const clips: Clip[] = [
     "endSeconds": 2643,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "חקירה ראשונית של גבול n! / n^n."
+    "description": "חקירה ראשונית של גבול n! / n^n.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1839,7 +1972,8 @@ export const clips: Clip[] = [
     "endSeconds": 2950,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "הוכחת אי-שוויון ודיון בטעויות נפוצות."
+    "description": "הוכחת אי-שוויון ודיון בטעויות נפוצות.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1852,7 +1986,8 @@ export const clips: Clip[] = [
     "endSeconds": 2966,
     "lectureName": "הרצאה 8",
     "lectureNumber": 8,
-    "description": "סיכום והצגת הנושא הבא: גבול מנה."
+    "description": "סיכום והצגת הנושא הבא: גבול מנה.",
+    "videoTitle": "08 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -1865,7 +2000,8 @@ export const clips: Clip[] = [
     "endSeconds": 66,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "הצגת משפט גבול המנה ותנאיו."
+    "description": "הצגת משפט גבול המנה ותנאיו.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1878,7 +2014,8 @@ export const clips: Clip[] = [
     "endSeconds": 157,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "מתודולוגיה כללית להוכחות אפסילון-דלתא."
+    "description": "מתודולוגיה כללית להוכחות אפסילון-דלתא.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1891,7 +2028,8 @@ export const clips: Clip[] = [
     "endSeconds": 671,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "צעדים אלגבריים ראשוניים בהוכחה."
+    "description": "צעדים אלגבריים ראשוניים בהוכחה.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1904,7 +2042,8 @@ export const clips: Clip[] = [
     "endSeconds": 887,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "פתרון רעיוני לבעיית חסימת המכנה."
+    "description": "פתרון רעיוני לבעיית חסימת המכנה.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1917,7 +2056,8 @@ export const clips: Clip[] = [
     "endSeconds": 1438,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "הוכחה פורמלית לחסימת המכנה מלמטה."
+    "description": "הוכחה פורמלית לחסימת המכנה מלמטה.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1930,7 +2070,8 @@ export const clips: Clip[] = [
     "endSeconds": 2154,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "השלמת ההוכחה באמצעות בחירת אפסילונים."
+    "description": "השלמת ההוכחה באמצעות בחירת אפסילונים.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1943,7 +2084,8 @@ export const clips: Clip[] = [
     "endSeconds": 2580,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "דיון במשפט על סדרה מתכנסת לגבול חיובי."
+    "description": "דיון במשפט על סדרה מתכנסת לגבול חיובי.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1956,7 +2098,8 @@ export const clips: Clip[] = [
     "endSeconds": 3039,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "הוכחת משפט שמירת גבולות אי-שוויונים."
+    "description": "הוכחת משפט שמירת גבולות אי-שוויונים.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1969,7 +2112,8 @@ export const clips: Clip[] = [
     "endSeconds": 3207,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "מסקנה ישירה ממשפט קודם."
+    "description": "מסקנה ישירה ממשפט קודם.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1982,7 +2126,8 @@ export const clips: Clip[] = [
     "endSeconds": 3671,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "דוגמה נגדית לאי-שוויונים חמורים בגבולות."
+    "description": "דוגמה נגדית לאי-שוויונים חמורים בגבולות.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -1995,7 +2140,8 @@ export const clips: Clip[] = [
     "endSeconds": 3690,
     "lectureName": "הרצאה 9",
     "lectureNumber": 9,
-    "description": "הערות סיכום והודעה על הפסקה."
+    "description": "הערות סיכום והודעה על הפסקה.",
+    "videoTitle": "09 - עוד משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -2008,7 +2154,8 @@ export const clips: Clip[] = [
     "endSeconds": 110,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הגדרת מבחן השורש לסדרות חיוביות."
+    "description": "הגדרת מבחן השורש לסדרות חיוביות.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2021,7 +2168,8 @@ export const clips: Clip[] = [
     "endSeconds": 244,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הסבר מדוע Q=1 אינו מכריע במבחן השורש."
+    "description": "הסבר מדוע Q=1 אינו מכריע במבחן השורש.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2034,7 +2182,8 @@ export const clips: Clip[] = [
     "endSeconds": 334,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "דיון בטרמינולוגיה חלופית לסדרות."
+    "description": "דיון בטרמינולוגיה חלופית לסדרות.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2047,7 +2196,8 @@ export const clips: Clip[] = [
     "endSeconds": 298,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הצגת מבחן המנה לסדרות חיוביות."
+    "description": "הצגת מבחן המנה לסדרות חיוביות.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2060,7 +2210,8 @@ export const clips: Clip[] = [
     "endSeconds": 502,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "דוגמה לגבול של n^1000 / (1.01)^n."
+    "description": "דוגמה לגבול של n^1000 / (1.01)^n.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2073,7 +2224,8 @@ export const clips: Clip[] = [
     "endSeconds": 791,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "חישוב גבול באמצעות מבחן המנה."
+    "description": "חישוב גבול באמצעות מבחן המנה.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2086,7 +2238,8 @@ export const clips: Clip[] = [
     "endSeconds": 844,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הבהרה לגבי הוכחות מבחני השורש והמנה."
+    "description": "הבהרה לגבי הוכחות מבחני השורש והמנה.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2099,7 +2252,8 @@ export const clips: Clip[] = [
     "endSeconds": 1224,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הוכחת התכנסות עבור Q<1."
+    "description": "הוכחת התכנסות עבור Q<1.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2112,7 +2266,8 @@ export const clips: Clip[] = [
     "endSeconds": 1552,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הוכחת התבדרות עבור Q>1."
+    "description": "הוכחת התבדרות עבור Q>1.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2125,7 +2280,8 @@ export const clips: Clip[] = [
     "endSeconds": 1711,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הוכחת מבחן המנה."
+    "description": "הוכחת מבחן המנה.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2138,7 +2294,8 @@ export const clips: Clip[] = [
     "endSeconds": 1790,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "דיון בשימושיות המבחנים."
+    "description": "דיון בשימושיות המבחנים.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2151,7 +2308,8 @@ export const clips: Clip[] = [
     "endSeconds": 2098,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הגדרות סדרות מונוטוניות ודוגמאות."
+    "description": "הגדרות סדרות מונוטוניות ודוגמאות.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2164,7 +2322,8 @@ export const clips: Clip[] = [
     "endSeconds": 2210,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הערה חשובה על מונוטוניות חלקית."
+    "description": "הערה חשובה על מונוטוניות חלקית.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2177,7 +2336,8 @@ export const clips: Clip[] = [
     "endSeconds": 2357,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "דוגמאות לסדרות מונוטוניות."
+    "description": "דוגמאות לסדרות מונוטוניות.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2190,7 +2350,8 @@ export const clips: Clip[] = [
     "endSeconds": 2690,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "הוכחת ירידה עבור n^2 / 2^n."
+    "description": "הוכחת ירידה עבור n^2 / 2^n.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2203,7 +2364,8 @@ export const clips: Clip[] = [
     "endSeconds": 2740,
     "lectureName": "הרצאה 12",
     "lectureNumber": 12,
-    "description": "תרגיל על מונוטוניות סדרה."
+    "description": "תרגיל על מונוטוניות סדרה.",
+    "videoTitle": "12 - מבחני המנה והשורש, סדרות מונוטוניות"
   },
   {
     "courseId": "infi-1m",
@@ -2216,7 +2378,8 @@ export const clips: Clip[] = [
     "endSeconds": 31,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "חזרה על הגדרת סדרות מונוטוניות."
+    "description": "חזרה על הגדרת סדרות מונוטוניות.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2229,7 +2392,8 @@ export const clips: Clip[] = [
     "endSeconds": 112,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הצגת משפט ההתכנסות המונוטונית."
+    "description": "הצגת משפט ההתכנסות המונוטונית.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2242,7 +2406,8 @@ export const clips: Clip[] = [
     "endSeconds": 204,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הבדל בין סדרות מתכנסות למונוטוניות."
+    "description": "הבדל בין סדרות מתכנסות למונוטוניות.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2255,7 +2420,8 @@ export const clips: Clip[] = [
     "endSeconds": 291,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "אופיו של המשפט ומשמעותו."
+    "description": "אופיו של המשפט ומשמעותו.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2268,7 +2434,8 @@ export const clips: Clip[] = [
     "endSeconds": 432,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "אינטואיציה להוכחה."
+    "description": "אינטואיציה להוכחה.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2281,7 +2448,8 @@ export const clips: Clip[] = [
     "endSeconds": 675,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הוכחה פורמלית לסדרה עולה חסומה."
+    "description": "הוכחה פורמלית לסדרה עולה חסומה.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2294,7 +2462,8 @@ export const clips: Clip[] = [
     "endSeconds": 791,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "התאמת ההוכחה לסדרה יורדת."
+    "description": "התאמת ההוכחה לסדרה יורדת.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2307,7 +2476,8 @@ export const clips: Clip[] = [
     "endSeconds": 907,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "משפט על התכנסות סדרות מונוטוניות."
+    "description": "משפט על התכנסות סדרות מונוטוניות.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2320,7 +2490,8 @@ export const clips: Clip[] = [
     "endSeconds": 1111,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הוכחה עבור המובן הרחב."
+    "description": "הוכחה עבור המובן הרחב.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2333,7 +2504,8 @@ export const clips: Clip[] = [
     "endSeconds": 1180,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "סיכום תרחישי התכנסות."
+    "description": "סיכום תרחישי התכנסות.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2346,7 +2518,8 @@ export const clips: Clip[] = [
     "endSeconds": 1349,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הצגת סדרה רקורסיבית."
+    "description": "הצגת סדרה רקורסיבית.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2359,7 +2532,8 @@ export const clips: Clip[] = [
     "endSeconds": 1522,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "חישוב הגבול של הסדרה."
+    "description": "חישוב הגבול של הסדרה.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2372,7 +2546,8 @@ export const clips: Clip[] = [
     "endSeconds": 1742,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "אזהרה מחישוב גבול ללא הוכחה."
+    "description": "אזהרה מחישוב גבול ללא הוכחה.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2385,7 +2560,8 @@ export const clips: Clip[] = [
     "endSeconds": 1994,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הצגת המספר e כגבול סדרה."
+    "description": "הצגת המספר e כגבול סדרה.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2398,7 +2574,8 @@ export const clips: Clip[] = [
     "endSeconds": 2144,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "סקירת משפט הבינום."
+    "description": "סקירת משפט הבינום.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2411,7 +2588,8 @@ export const clips: Clip[] = [
     "endSeconds": 2588,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הוכחת חסימות הסדרה. (חלק א׳)"
+    "description": "הוכחת חסימות הסדרה. (חלק א׳)",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2424,7 +2602,8 @@ export const clips: Clip[] = [
     "endSeconds": 2787,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הוכחת למת עזר."
+    "description": "הוכחת למת עזר.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2437,7 +2616,8 @@ export const clips: Clip[] = [
     "endSeconds": 3028,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הוכחת חסימות הסדרה. (חלק ב׳)"
+    "description": "הוכחת חסימות הסדרה. (חלק ב׳)",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2450,7 +2630,8 @@ export const clips: Clip[] = [
     "endSeconds": 3377,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "הוכחת מונוטוניות הסדרה."
+    "description": "הוכחת מונוטוניות הסדרה.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2463,7 +2644,8 @@ export const clips: Clip[] = [
     "endSeconds": 3441,
     "lectureName": "הרצאה 13",
     "lectureNumber": 13,
-    "description": "סיכום והתכנסות הסדרה ל-e."
+    "description": "סיכום והתכנסות הסדרה ל-e.",
+    "videoTitle": "13 - סדרות מונוטוניות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -2476,7 +2658,8 @@ export const clips: Clip[] = [
     "endSeconds": 57,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "הסבר מהי למה והצגת למת קנטור."
+    "description": "הסבר מהי למה והצגת למת קנטור.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2489,7 +2672,8 @@ export const clips: Clip[] = [
     "endSeconds": 250,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "הצגת ניסוח אלגברי של הלמה."
+    "description": "הצגת ניסוח אלגברי של הלמה.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2502,7 +2686,8 @@ export const clips: Clip[] = [
     "endSeconds": 374,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "הוכחה לניסוח האלגברי."
+    "description": "הוכחה לניסוח האלגברי.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2515,7 +2700,8 @@ export const clips: Clip[] = [
     "endSeconds": 538,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "הצגת ניסוח גיאומטרי של הלמה."
+    "description": "הצגת ניסוח גיאומטרי של הלמה.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2528,7 +2714,8 @@ export const clips: Clip[] = [
     "endSeconds": 926,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "הוכחה לניסוח הגיאומטרי."
+    "description": "הוכחה לניסוח הגיאומטרי.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2541,7 +2728,8 @@ export const clips: Clip[] = [
     "endSeconds": 1155,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "חשיבות הקטעים הסגורים בלמה."
+    "description": "חשיבות הקטעים הסגורים בלמה.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2554,7 +2742,8 @@ export const clips: Clip[] = [
     "endSeconds": 1253,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "הגדרה פורמלית של תת-סדרה."
+    "description": "הגדרה פורמלית של תת-סדרה.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2567,7 +2756,8 @@ export const clips: Clip[] = [
     "endSeconds": 1685,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "דוגמאות וסימוני תת-סדרות."
+    "description": "דוגמאות וסימוני תת-סדרות.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2580,7 +2770,8 @@ export const clips: Clip[] = [
     "endSeconds": 1860,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "משפט על התכנסות תת-סדרות."
+    "description": "משפט על התכנסות תת-סדרות.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2593,7 +2784,8 @@ export const clips: Clip[] = [
     "endSeconds": 2023,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "מסקנה על התבדרות."
+    "description": "מסקנה על התבדרות.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2606,7 +2798,8 @@ export const clips: Clip[] = [
     "endSeconds": 2083,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "הגדרת גבול חלקי."
+    "description": "הגדרת גבול חלקי.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2619,7 +2812,8 @@ export const clips: Clip[] = [
     "endSeconds": 2220,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "דוגמת סדרה המכילה תת-סדרות המתכנסות לכל מספר טבעי."
+    "description": "דוגמת סדרה המכילה תת-סדרות המתכנסות לכל מספר טבעי.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2632,7 +2826,8 @@ export const clips: Clip[] = [
     "endSeconds": 2694,
     "lectureName": "הרצאה 14",
     "lectureNumber": 14,
-    "description": "תרגיל בבניית סדרה ומשפט בולצאנו-ויירשטראס."
+    "description": "תרגיל בבניית סדרה ומשפט בולצאנו-ויירשטראס.",
+    "videoTitle": "14 - הלמה של קנטור, תתי סדרות"
   },
   {
     "courseId": "infi-1m",
@@ -2645,7 +2840,8 @@ export const clips: Clip[] = [
     "endSeconds": 19,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הצגת קריטריון קושי ומשמעותו."
+    "description": "הצגת קריטריון קושי ומשמעותו.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2658,7 +2854,8 @@ export const clips: Clip[] = [
     "endSeconds": 172,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הגדרה פורמלית של סדרת קושי."
+    "description": "הגדרה פורמלית של סדרת קושי.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2671,7 +2868,8 @@ export const clips: Clip[] = [
     "endSeconds": 184,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הסבר אינטואיטיבי להגדרת סדרת קושי."
+    "description": "הסבר אינטואיטיבי להגדרת סדרת קושי.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2684,7 +2882,8 @@ export const clips: Clip[] = [
     "endSeconds": 210,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הצגת המשפט: סדרת קושי חסומה."
+    "description": "הצגת המשפט: סדרת קושי חסומה.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2697,7 +2896,8 @@ export const clips: Clip[] = [
     "endSeconds": 569,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הוכחה שכל סדרת קושי חסומה."
+    "description": "הוכחה שכל סדרת קושי חסומה.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2710,7 +2910,8 @@ export const clips: Clip[] = [
     "endSeconds": 593,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הצגת המשפט המרכזי על סדרות קושי מתכנסות."
+    "description": "הצגת המשפט המרכזי על סדרות קושי מתכנסות.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2723,7 +2924,8 @@ export const clips: Clip[] = [
     "endSeconds": 675,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "קריטריון קושי כהגדרה חלופית להתכנסות."
+    "description": "קריטריון קושי כהגדרה חלופית להתכנסות.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2736,7 +2938,8 @@ export const clips: Clip[] = [
     "endSeconds": 898,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "קריטריון קושי, שלמות R לעומת Q."
+    "description": "קריטריון קושי, שלמות R לעומת Q.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2749,7 +2952,8 @@ export const clips: Clip[] = [
     "endSeconds": 975,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הבדל בין תנאי קושי להתכנסות."
+    "description": "הבדל בין תנאי קושי להתכנסות.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2762,7 +2966,8 @@ export const clips: Clip[] = [
     "endSeconds": 1270,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "דוגמה לסדרה מתבדרת עם תנאי חלש."
+    "description": "דוגמה לסדרה מתבדרת עם תנאי חלש.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2775,7 +2980,8 @@ export const clips: Clip[] = [
     "endSeconds": 1447,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הוכחה: סדרה מתכנסת היא סדרת קושי."
+    "description": "הוכחה: סדרה מתכנסת היא סדרת קושי.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2788,7 +2994,8 @@ export const clips: Clip[] = [
     "endSeconds": 1846,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "הוכחה: סדרת קושי היא סדרה מתכנסת."
+    "description": "הוכחה: סדרת קושי היא סדרה מתכנסת.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2801,7 +3008,8 @@ export const clips: Clip[] = [
     "endSeconds": 2066,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "ניסוח חלופי להגדרת קושי."
+    "description": "ניסוח חלופי להגדרת קושי.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2814,7 +3022,8 @@ export const clips: Clip[] = [
     "endSeconds": 2656,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "דוגמה: הוכחת התכנסות סדרה עם קריטריון קושי."
+    "description": "דוגמה: הוכחת התכנסות סדרה עם קריטריון קושי.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2827,7 +3036,8 @@ export const clips: Clip[] = [
     "endSeconds": 2711,
     "lectureName": "הרצאה 17",
     "lectureNumber": 17,
-    "description": "תרגיל: הוכחת התבדרות טור הרמוני בקושי."
+    "description": "תרגיל: הוכחת התבדרות טור הרמוני בקושי.",
+    "videoTitle": "17 - סדרות קושי"
   },
   {
     "courseId": "infi-1m",
@@ -2840,7 +3050,8 @@ export const clips: Clip[] = [
     "endSeconds": 41,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "הצגת למת היינה-בורל."
+    "description": "הצגת למת היינה-בורל.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2853,7 +3064,8 @@ export const clips: Clip[] = [
     "endSeconds": 116,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "הגדרה פורמלית של כיסוי."
+    "description": "הגדרה פורמלית של כיסוי.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2866,7 +3078,8 @@ export const clips: Clip[] = [
     "endSeconds": 291,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "הסבר אינטואיטיבי למושג כיסוי."
+    "description": "הסבר אינטואיטיבי למושג כיסוי.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2879,7 +3092,8 @@ export const clips: Clip[] = [
     "endSeconds": 523,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "הגדרות: כיסוי פתוח, סופי, ותת-כיסוי."
+    "description": "הגדרות: כיסוי פתוח, סופי, ותת-כיסוי.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2892,7 +3106,8 @@ export const clips: Clip[] = [
     "endSeconds": 911,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "דוגמה לתת-כיסוי פתוח סופי."
+    "description": "דוגמה לתת-כיסוי פתוח סופי.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2905,7 +3120,8 @@ export const clips: Clip[] = [
     "endSeconds": 1006,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "דוגמה לכיסוי פתוח ללא תת-כיסוי סופי."
+    "description": "דוגמה לכיסוי פתוח ללא תת-כיסוי סופי.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2918,7 +3134,8 @@ export const clips: Clip[] = [
     "endSeconds": 1125,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "ניסוח רשמי של למת היינה-בורל."
+    "description": "ניסוח רשמי של למת היינה-בורל.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2931,7 +3148,8 @@ export const clips: Clip[] = [
     "endSeconds": 1330,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "חשיבות הלמה וקשריה למשפטים אחרים."
+    "description": "חשיבות הלמה וקשריה למשפטים אחרים.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2944,7 +3162,8 @@ export const clips: Clip[] = [
     "endSeconds": 1621,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "דוגמת נגד ללמה עבור קטע לא סגור."
+    "description": "דוגמת נגד ללמה עבור קטע לא סגור.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2957,7 +3176,8 @@ export const clips: Clip[] = [
     "endSeconds": 1801,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "דוגמת נגד ללמה עבור כיסוי לא פתוח."
+    "description": "דוגמת נגד ללמה עבור כיסוי לא פתוח.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2970,7 +3190,8 @@ export const clips: Clip[] = [
     "endSeconds": 3240,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "הוכחת למת היינה-בורל."
+    "description": "הוכחת למת היינה-בורל.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2983,7 +3204,8 @@ export const clips: Clip[] = [
     "endSeconds": 3516,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "בולצאנו-ויירשטראס וקשרו להיינה-בורל."
+    "description": "בולצאנו-ויירשטראס וקשרו להיינה-בורל.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -2996,7 +3218,8 @@ export const clips: Clip[] = [
     "endSeconds": 4227,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "הוכחת בולצאנו-ויירשטראס עם למת היינה-בורל."
+    "description": "הוכחת בולצאנו-ויירשטראס עם למת היינה-בורל.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -3009,7 +3232,8 @@ export const clips: Clip[] = [
     "endSeconds": 4800,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "תרגיל: הוכחת קיום אי-רציונליים באמצעות היינה-בורל."
+    "description": "תרגיל: הוכחת קיום אי-רציונליים באמצעות היינה-בורל.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -3022,7 +3246,8 @@ export const clips: Clip[] = [
     "endSeconds": 4956,
     "lectureName": "הרצאה 18",
     "lectureNumber": 18,
-    "description": "סיכום חשיבות הלמה ונושאים עתידיים."
+    "description": "סיכום חשיבות הלמה ונושאים עתידיים.",
+    "videoTitle": "18 - כיסויים והלמה של היינה בורל"
   },
   {
     "courseId": "infi-1m",
@@ -3035,7 +3260,8 @@ export const clips: Clip[] = [
     "endSeconds": 68,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הצגת בניית מספרים ממשיים מסדרות קושי."
+    "description": "הצגת בניית מספרים ממשיים מסדרות קושי.",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3048,7 +3274,8 @@ export const clips: Clip[] = [
     "endSeconds": 234,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הגדרה של סדרת קושי במספרים רציונליים."
+    "description": "הגדרה של סדרת קושי במספרים רציונליים.",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3061,7 +3288,8 @@ export const clips: Clip[] = [
     "endSeconds": 402,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הבנת סדרות קושי ב-Q והשלמתן ל-R."
+    "description": "הבנת סדרות קושי ב-Q והשלמתן ל-R.",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3074,7 +3302,8 @@ export const clips: Clip[] = [
     "endSeconds": 519,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הגדרת יחס שקילות בין סדרות קושי."
+    "description": "הגדרת יחס שקילות בין סדרות קושי.",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3087,7 +3316,8 @@ export const clips: Clip[] = [
     "endSeconds": 746,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "תכונות יחס שקילות מתמטי: רפלקסיביות, סימטריה, טרנזיטיביות."
+    "description": "תכונות יחס שקילות מתמטי: רפלקסיביות, סימטריה, טרנזיטיביות.",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3100,7 +3330,8 @@ export const clips: Clip[] = [
     "endSeconds": 923,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הגדרת חיבור וכפל של סדרות קושי."
+    "description": "הגדרת חיבור וכפל של סדרות קושי.",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3113,7 +3344,8 @@ export const clips: Clip[] = [
     "endSeconds": 1058,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הגדרת יחס סדר בסדרות קושי."
+    "description": "הגדרת יחס סדר בסדרות קושי.",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3126,7 +3358,8 @@ export const clips: Clip[] = [
     "endSeconds": 1240,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הגדרה פורמלית של R כקבוצת מחלקות שקילות."
+    "description": "הגדרה פורמלית של R כקבוצת מחלקות שקילות.",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3139,7 +3372,8 @@ export const clips: Clip[] = [
     "endSeconds": 1417,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "אימות אקסיומות השדה והשלמות"
+    "description": "אימות אקסיומות השדה והשלמות",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3152,7 +3386,8 @@ export const clips: Clip[] = [
     "endSeconds": 1528,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "שילוב רציונליים במערכת החדשה"
+    "description": "שילוב רציונליים במערכת החדשה",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3165,7 +3400,8 @@ export const clips: Clip[] = [
     "endSeconds": 1746,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "ייצוג אי-רציונליים בסדרות קושי"
+    "description": "ייצוג אי-רציונליים בסדרות קושי",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3178,7 +3414,8 @@ export const clips: Clip[] = [
     "endSeconds": 1952,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "השוויון 0.999... = 1 בבנייה זו"
+    "description": "השוויון 0.999... = 1 בבנייה זו",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3191,7 +3428,8 @@ export const clips: Clip[] = [
     "endSeconds": 2208,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "תהליך השלמה כללי במתמטיקה"
+    "description": "תהליך השלמה כללי במתמטיקה",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3204,7 +3442,8 @@ export const clips: Clip[] = [
     "endSeconds": 2601,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הכנת הוכחת אקסיומת השלמות"
+    "description": "הכנת הוכחת אקסיומת השלמות",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3217,7 +3456,8 @@ export const clips: Clip[] = [
     "endSeconds": 3039,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "בניית סדרות רציונליות בשיטת החצייה"
+    "description": "בניית סדרות רציונליות בשיטת החצייה",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3230,7 +3470,8 @@ export const clips: Clip[] = [
     "endSeconds": 3500,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "התכנסות סדרות החצייה"
+    "description": "התכנסות סדרות החצייה",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3243,7 +3484,8 @@ export const clips: Clip[] = [
     "endSeconds": 3944,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "הוכחה ש-u הוא הסופרמום"
+    "description": "הוכחה ש-u הוא הסופרמום",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3256,7 +3498,8 @@ export const clips: Clip[] = [
     "endSeconds": 4138,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "סיכום ובנייה עשרונית אינסופית"
+    "description": "סיכום ובנייה עשרונית אינסופית",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3269,7 +3512,8 @@ export const clips: Clip[] = [
     "endSeconds": 4322,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "בניית R באמצעות פיתוחים עשרוניים"
+    "description": "בניית R באמצעות פיתוחים עשרוניים",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3282,7 +3526,8 @@ export const clips: Clip[] = [
     "endSeconds": 4630,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "אתגר הגדרת שוויון עשרוני"
+    "description": "אתגר הגדרת שוויון עשרוני",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3295,7 +3540,8 @@ export const clips: Clip[] = [
     "endSeconds": 4743,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "קשיי הגדרת פעולות ואקסיומות"
+    "description": "קשיי הגדרת פעולות ואקסיומות",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3308,7 +3554,8 @@ export const clips: Clip[] = [
     "endSeconds": 5018,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "מחזוריות בפיתוחים עשרוניים"
+    "description": "מחזוריות בפיתוחים עשרוניים",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3321,7 +3568,8 @@ export const clips: Clip[] = [
     "endSeconds": 5235,
     "lectureName": "הרצאה 20",
     "lectureNumber": 20,
-    "description": "סיכום בניית ממשיים, רמז לעתיד"
+    "description": "סיכום בניית ממשיים, רמז לעתיד",
+    "videoTitle": "20 - העשרה - המספרים הממשיים - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3334,7 +3582,8 @@ export const clips: Clip[] = [
     "endSeconds": 27,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הגדרת a^x לאי-רציונליים"
+    "description": "הגדרת a^x לאי-רציונליים",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3347,7 +3596,8 @@ export const clips: Clip[] = [
     "endSeconds": 117,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הגדרת חזקות טבעיות"
+    "description": "הגדרת חזקות טבעיות",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3360,7 +3610,8 @@ export const clips: Clip[] = [
     "endSeconds": 144,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "כשלון הגדרת חזקה טבעית לאי-רציונליים"
+    "description": "כשלון הגדרת חזקה טבעית לאי-רציונליים",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3373,7 +3624,8 @@ export const clips: Clip[] = [
     "endSeconds": 234,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הגדרת חזקות שלמות"
+    "description": "הגדרת חזקות שלמות",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3386,7 +3638,8 @@ export const clips: Clip[] = [
     "endSeconds": 423,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "כללי חזקות בסיסיים לטבעיים"
+    "description": "כללי חזקות בסיסיים לטבעיים",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3399,7 +3652,8 @@ export const clips: Clip[] = [
     "endSeconds": 740,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "קיום שורשים n-יים והגדרת x^(1/n)"
+    "description": "קיום שורשים n-יים והגדרת x^(1/n)",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3412,7 +3666,8 @@ export const clips: Clip[] = [
     "endSeconds": 1137,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הגדרת a^q עבור q רציונלי"
+    "description": "הגדרת a^q עבור q רציונלי",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3425,7 +3680,8 @@ export const clips: Clip[] = [
     "endSeconds": 1649,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "כללי חזקות לרציונליים"
+    "description": "כללי חזקות לרציונליים",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3438,7 +3694,8 @@ export const clips: Clip[] = [
     "endSeconds": 1908,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הכנת הוכחת כלל חזקות לרציונליים"
+    "description": "הכנת הוכחת כלל חזקות לרציונליים",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3451,7 +3708,8 @@ export const clips: Clip[] = [
     "endSeconds": 2329,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הוכחת עקביות הגדרת חזקה רציונלית"
+    "description": "הוכחת עקביות הגדרת חזקה רציונלית",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3464,7 +3722,8 @@ export const clips: Clip[] = [
     "endSeconds": 2714,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "סיום הוכחת כלל חזקות לרציונליים"
+    "description": "סיום הוכחת כלל חזקות לרציונליים",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3477,7 +3736,8 @@ export const clips: Clip[] = [
     "endSeconds": 2929,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "חשיבות ההוכחות ושימוש במבחן"
+    "description": "חשיבות ההוכחות ושימוש במבחן",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3490,7 +3750,8 @@ export const clips: Clip[] = [
     "endSeconds": 3010,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "רציונליות מוגדרות, אי-רציונליות נותרו"
+    "description": "רציונליות מוגדרות, אי-רציונליות נותרו",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3503,7 +3764,8 @@ export const clips: Clip[] = [
     "endSeconds": 3357,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הנחות להגדרת a^x ממשי"
+    "description": "הנחות להגדרת a^x ממשי",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3516,7 +3778,8 @@ export const clips: Clip[] = [
     "endSeconds": 3901,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "רעיון אינטואיטיבי, בעיית ההגדרה הטובה"
+    "description": "רעיון אינטואיטיבי, בעיית ההגדרה הטובה",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3529,7 +3792,8 @@ export const clips: Clip[] = [
     "endSeconds": 4559,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הגדרת a^x והוכחת התכנסות"
+    "description": "הגדרת a^x והוכחת התכנסות",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3542,7 +3806,8 @@ export const clips: Clip[] = [
     "endSeconds": 4955,
     "lectureName": "הרצאה 21",
     "lectureNumber": 21,
-    "description": "הוכחת הגדרה טובה וכללים"
+    "description": "הוכחת הגדרה טובה וכללים",
+    "videoTitle": "21 - חזקות ממשיות"
   },
   {
     "courseId": "infi-1m",
@@ -3555,7 +3820,8 @@ export const clips: Clip[] = [
     "endSeconds": 28,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "תזכורת הגדרת a^x ממשי"
+    "description": "תזכורת הגדרת a^x ממשי",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3568,7 +3834,8 @@ export const clips: Clip[] = [
     "endSeconds": 50,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "הוכחת הגדרה טובה"
+    "description": "הוכחת הגדרה טובה",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3581,7 +3848,8 @@ export const clips: Clip[] = [
     "endSeconds": 129,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "גבול a^(tn) ל-1"
+    "description": "גבול a^(tn) ל-1",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3594,7 +3862,8 @@ export const clips: Clip[] = [
     "endSeconds": 354,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "הוכחת למה, גבול a^(tn) ל-1"
+    "description": "הוכחת למה, גבול a^(tn) ל-1",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3607,7 +3876,8 @@ export const clips: Clip[] = [
     "endSeconds": 602,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "הוכחת הגדרה טובה של a^x"
+    "description": "הוכחת הגדרה טובה של a^x",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3620,7 +3890,8 @@ export const clips: Clip[] = [
     "endSeconds": 665,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "a^x מוגדר לכל סדרת רציונליים"
+    "description": "a^x מוגדר לכל סדרת רציונליים",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3633,7 +3904,8 @@ export const clips: Clip[] = [
     "endSeconds": 793,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "הצגת חוקי חזקות ממשיות"
+    "description": "הצגת חוקי חזקות ממשיות",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3646,7 +3918,8 @@ export const clips: Clip[] = [
     "endSeconds": 969,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "הוכחת חוקים, תרגיל התכנסות"
+    "description": "הוכחת חוקים, תרגיל התכנסות",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3659,7 +3932,8 @@ export const clips: Clip[] = [
     "endSeconds": 1174,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "הוכחת חוק חזקות ראשון."
+    "description": "הוכחת חוק חזקות ראשון.",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3672,7 +3946,8 @@ export const clips: Clip[] = [
     "endSeconds": 1495,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "הוכחת חוק מונוטוניות חזקות."
+    "description": "הוכחת חוק מונוטוניות חזקות.",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3685,7 +3960,8 @@ export const clips: Clip[] = [
     "endSeconds": 1826,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "הוכחת רציפות הפונקציה המעריכית."
+    "description": "הוכחת רציפות הפונקציה המעריכית.",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3698,7 +3974,8 @@ export const clips: Clip[] = [
     "endSeconds": 2197,
     "lectureName": "הרצאה 22",
     "lectureNumber": 22,
-    "description": "חשיבות ההקפדה במתמטיקה."
+    "description": "חשיבות ההקפדה במתמטיקה.",
+    "videoTitle": "22 - חזקות ממשיות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -3711,7 +3988,8 @@ export const clips: Clip[] = [
     "endSeconds": 213,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "מבוא למושגי טופולוגיה."
+    "description": "מבוא למושגי טופולוגיה.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3724,7 +4002,8 @@ export const clips: Clip[] = [
     "endSeconds": 430,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "הגדרת נקודת הצטברות."
+    "description": "הגדרת נקודת הצטברות.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3737,7 +4016,8 @@ export const clips: Clip[] = [
     "endSeconds": 492,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "הגדרת נקודה מבודדת."
+    "description": "הגדרת נקודה מבודדת.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3750,7 +4030,8 @@ export const clips: Clip[] = [
     "endSeconds": 683,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לנקודות הצטברות בקטע."
+    "description": "דוגמה לנקודות הצטברות בקטע.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3763,7 +4044,8 @@ export const clips: Clip[] = [
     "endSeconds": 962,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לנקודות הצטברות בסדרה."
+    "description": "דוגמה לנקודות הצטברות בסדרה.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3776,7 +4058,8 @@ export const clips: Clip[] = [
     "endSeconds": 1264,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "קשר גבול סדרה ונקודת הצטברות."
+    "description": "קשר גבול סדרה ונקודת הצטברות.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3789,7 +4072,8 @@ export const clips: Clip[] = [
     "endSeconds": 1422,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "משפט בולצאנו-ויירשטראס."
+    "description": "משפט בולצאנו-ויירשטראס.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3802,7 +4086,8 @@ export const clips: Clip[] = [
     "endSeconds": 1476,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "סימון לקבוצת נקודות הצטברות."
+    "description": "סימון לקבוצת נקודות הצטברות.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3815,7 +4100,8 @@ export const clips: Clip[] = [
     "endSeconds": 1528,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "הגדרת קבוצה סגורה."
+    "description": "הגדרת קבוצה סגורה.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3828,7 +4114,8 @@ export const clips: Clip[] = [
     "endSeconds": 1594,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "הגדרת קבוצה פתוחה."
+    "description": "הגדרת קבוצה פתוחה.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3841,7 +4128,8 @@ export const clips: Clip[] = [
     "endSeconds": 1642,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "הגדרת נקודה פנימית."
+    "description": "הגדרת נקודה פנימית.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3854,7 +4142,8 @@ export const clips: Clip[] = [
     "endSeconds": 1795,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לקטע סגור."
+    "description": "דוגמה לקטע סגור.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3867,7 +4156,8 @@ export const clips: Clip[] = [
     "endSeconds": 1883,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לקטע פתוח."
+    "description": "דוגמה לקטע פתוח.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3880,7 +4170,8 @@ export const clips: Clip[] = [
     "endSeconds": 1920,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לקטע חצי-פתוח."
+    "description": "דוגמה לקטע חצי-פתוח.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3893,7 +4184,8 @@ export const clips: Clip[] = [
     "endSeconds": 1971,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לישר הממשי."
+    "description": "דוגמה לישר הממשי.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3906,7 +4198,8 @@ export const clips: Clip[] = [
     "endSeconds": 2106,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לקבוצה הריקה."
+    "description": "דוגמה לקבוצה הריקה.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3919,7 +4212,8 @@ export const clips: Clip[] = [
     "endSeconds": 2291,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לקבוצות סופיות."
+    "description": "דוגמה לקבוצות סופיות.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3932,7 +4226,8 @@ export const clips: Clip[] = [
     "endSeconds": 2395,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה למספרים הטבעיים."
+    "description": "דוגמה למספרים הטבעיים.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3945,7 +4240,8 @@ export const clips: Clip[] = [
     "endSeconds": 2570,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לקבוצה דיסקרטית {1/n}."
+    "description": "דוגמה לקבוצה דיסקרטית {1/n}.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3958,7 +4254,8 @@ export const clips: Clip[] = [
     "endSeconds": 2648,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה לאיחוד סדרה וגבולה."
+    "description": "דוגמה לאיחוד סדרה וגבולה.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3971,7 +4268,8 @@ export const clips: Clip[] = [
     "endSeconds": 2685,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה למספרים שלמים."
+    "description": "דוגמה למספרים שלמים.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3984,7 +4282,8 @@ export const clips: Clip[] = [
     "endSeconds": 2892,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "דוגמה למספרים רציונליים."
+    "description": "דוגמה למספרים רציונליים.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -3997,7 +4296,8 @@ export const clips: Clip[] = [
     "endSeconds": 3114,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "משפט על משלים של קבוצה סגורה."
+    "description": "משפט על משלים של קבוצה סגורה.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -4010,7 +4310,8 @@ export const clips: Clip[] = [
     "endSeconds": 3379,
     "lectureName": "הרצאה 23",
     "lectureNumber": 23,
-    "description": "הוכחת משפט משלים קבוצה סגורה."
+    "description": "הוכחת משפט משלים קבוצה סגורה.",
+    "videoTitle": "23 - טופולוגיה של הישר הממשי"
   },
   {
     "courseId": "infi-1m",
@@ -4023,7 +4324,8 @@ export const clips: Clip[] = [
     "endSeconds": 58,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הגדרת סגור של קבוצה."
+    "description": "הגדרת סגור של קבוצה.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4036,7 +4338,8 @@ export const clips: Clip[] = [
     "endSeconds": 340,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "תכונות סגור של קבוצה."
+    "description": "תכונות סגור של קבוצה.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4049,7 +4352,8 @@ export const clips: Clip[] = [
     "endSeconds": 734,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הוכחת חלקה הרביעי של תכונת הסגור."
+    "description": "הוכחת חלקה הרביעי של תכונת הסגור.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4062,7 +4366,8 @@ export const clips: Clip[] = [
     "endSeconds": 804,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "סיכום מושג סגור של קבוצה."
+    "description": "סיכום מושג סגור של קבוצה.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4075,7 +4380,8 @@ export const clips: Clip[] = [
     "endSeconds": 1001,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "פעולות על קבוצות פתוחות וסגורות."
+    "description": "פעולות על קבוצות פתוחות וסגורות.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4088,7 +4394,8 @@ export const clips: Clip[] = [
     "endSeconds": 1332,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הוכחת איחוד קבוצות פתוחות."
+    "description": "הוכחת איחוד קבוצות פתוחות.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4101,7 +4408,8 @@ export const clips: Clip[] = [
     "endSeconds": 1805,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הוכחת חיתוך סופי של פתוחות."
+    "description": "הוכחת חיתוך סופי של פתוחות.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4114,7 +4422,8 @@ export const clips: Clip[] = [
     "endSeconds": 2049,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "דוגמה נגדית לחיתוך אינסופי של פתוחות."
+    "description": "דוגמה נגדית לחיתוך אינסופי של פתוחות.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4127,7 +4436,8 @@ export const clips: Clip[] = [
     "endSeconds": 2537,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הסבר על חוקי דה-מורגן."
+    "description": "הסבר על חוקי דה-מורגן.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4140,7 +4450,8 @@ export const clips: Clip[] = [
     "endSeconds": 2852,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הוכחת חיתוך קבוצות סגורות."
+    "description": "הוכחת חיתוך קבוצות סגורות.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4153,7 +4464,8 @@ export const clips: Clip[] = [
     "endSeconds": 2940,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "תרגיל: איחוד סופי של סגורות."
+    "description": "תרגיל: איחוד סופי של סגורות.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4166,7 +4478,8 @@ export const clips: Clip[] = [
     "endSeconds": 3052,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הגדרת פנים של קבוצה."
+    "description": "הגדרת פנים של קבוצה.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4179,7 +4492,8 @@ export const clips: Clip[] = [
     "endSeconds": 3242,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הצגת משפט על תכונות פנים של קבוצה."
+    "description": "הצגת משפט על תכונות פנים של קבוצה.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4192,7 +4506,8 @@ export const clips: Clip[] = [
     "endSeconds": 3300,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הצעת הוכחת משפט הפנים כתרגיל."
+    "description": "הצעת הוכחת משפט הפנים כתרגיל.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4205,7 +4520,8 @@ export const clips: Clip[] = [
     "endSeconds": 3428,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הסבר קצר על הקשר לטופולוגיה."
+    "description": "הסבר קצר על הקשר לטופולוגיה.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4218,7 +4534,8 @@ export const clips: Clip[] = [
     "endSeconds": 3642,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הצגת למת קנטור עבור קבוצות."
+    "description": "הצגת למת קנטור עבור קבוצות.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4231,7 +4548,8 @@ export const clips: Clip[] = [
     "endSeconds": 3839,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "הצגת משפט היינה-בורל לקבוצות."
+    "description": "הצגת משפט היינה-בורל לקבוצות.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4244,7 +4562,8 @@ export const clips: Clip[] = [
     "endSeconds": 4048,
     "lectureName": "הרצאה 24",
     "lectureNumber": 24,
-    "description": "היכרות קצרה עם קבוצת קנטור."
+    "description": "היכרות קצרה עם קבוצת קנטור.",
+    "videoTitle": "24 - טופולוגיה של הישר הממשי - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4257,7 +4576,8 @@ export const clips: Clip[] = [
     "endSeconds": 70,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "סקירה על קבוצת קנטור ותכונותיה."
+    "description": "סקירה על קבוצת קנטור ותכונותיה.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4270,7 +4590,8 @@ export const clips: Clip[] = [
     "endSeconds": 308,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "בנייה איטרטיבית של קבוצת קנטור."
+    "description": "בנייה איטרטיבית של קבוצת קנטור.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4283,7 +4604,8 @@ export const clips: Clip[] = [
     "endSeconds": 447,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "זיהוי נקודות קצה בקבוצת קנטור."
+    "description": "זיהוי נקודות קצה בקבוצת קנטור.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4296,7 +4618,8 @@ export const clips: Clip[] = [
     "endSeconds": 957,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "דוגמה לנקודה שאינה קצה בקבוצת קנטור."
+    "description": "דוגמה לנקודה שאינה קצה בקבוצת קנטור.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4309,7 +4632,8 @@ export const clips: Clip[] = [
     "endSeconds": 1210,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "הוכחה שקבוצת קנטור אינה מכילה קטעים."
+    "description": "הוכחה שקבוצת קנטור אינה מכילה קטעים.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4322,7 +4646,8 @@ export const clips: Clip[] = [
     "endSeconds": 1610,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "ניתוח תכונות טופולוגיות: סגורה וקומפקטית."
+    "description": "ניתוח תכונות טופולוגיות: סגורה וקומפקטית.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4335,7 +4660,8 @@ export const clips: Clip[] = [
     "endSeconds": 2469,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "הגדרה חלופית באמצעות ייצוג טרנרי."
+    "description": "הגדרה חלופית באמצעות ייצוג טרנרי.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4348,7 +4674,8 @@ export const clips: Clip[] = [
     "endSeconds": 2774,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "הוכחה טרנרית שאין נקודות פנים."
+    "description": "הוכחה טרנרית שאין נקודות פנים.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4361,7 +4688,8 @@ export const clips: Clip[] = [
     "endSeconds": 3051,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "הוכחה שכל נקודה היא נקודת הצטברות."
+    "description": "הוכחה שכל נקודה היא נקודת הצטברות.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4374,7 +4702,8 @@ export const clips: Clip[] = [
     "endSeconds": 3251,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "הגדרה והסבר לקבוצה צפופה בשום מקום."
+    "description": "הגדרה והסבר לקבוצה צפופה בשום מקום.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4387,7 +4716,8 @@ export const clips: Clip[] = [
     "endSeconds": 3614,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "הדגמה שמידת לבג היא אפס."
+    "description": "הדגמה שמידת לבג היא אפס.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4400,7 +4730,8 @@ export const clips: Clip[] = [
     "endSeconds": 4322,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "הוכחה שהקבוצה אינה בת מנייה."
+    "description": "הוכחה שהקבוצה אינה בת מנייה.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4413,7 +4744,8 @@ export const clips: Clip[] = [
     "endSeconds": 4600,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "היכרות עם קבוצת קנטור כפרקטל."
+    "description": "היכרות עם קבוצת קנטור כפרקטל.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4426,7 +4758,8 @@ export const clips: Clip[] = [
     "endSeconds": 4721,
     "lectureName": "הרצאה 25",
     "lectureNumber": 25,
-    "description": "סיכום תכונותיה הייחודיות של קבוצת קנטור."
+    "description": "סיכום תכונותיה הייחודיות של קבוצת קנטור.",
+    "videoTitle": "25 - העשרה - קבוצת קנטור"
   },
   {
     "courseId": "infi-1m",
@@ -4439,7 +4772,8 @@ export const clips: Clip[] = [
     "endSeconds": 123,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "היכרות והגדרה פורמלית של פונקציה."
+    "description": "היכרות והגדרה פורמלית של פונקציה.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4452,7 +4786,8 @@ export const clips: Clip[] = [
     "endSeconds": 204,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הסבר פונקציה כ'קופסה שחורה'."
+    "description": "הסבר פונקציה כ'קופסה שחורה'.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4465,7 +4800,8 @@ export const clips: Clip[] = [
     "endSeconds": 258,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "דוגמה לא מתמטית: צבע עיניים."
+    "description": "דוגמה לא מתמטית: צבע עיניים.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4478,7 +4814,8 @@ export const clips: Clip[] = [
     "endSeconds": 314,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הקורס יעסוק בפונקציות ממשיות."
+    "description": "הקורס יעסוק בפונקציות ממשיות.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4491,7 +4828,8 @@ export const clips: Clip[] = [
     "endSeconds": 325,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "אזכור קצר של פונקציות מרוכבות."
+    "description": "אזכור קצר של פונקציות מרוכבות.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4504,7 +4842,8 @@ export const clips: Clip[] = [
     "endSeconds": 430,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הצגת סימון, תחום, טווח וכלל פונקציה."
+    "description": "הצגת סימון, תחום, טווח וכלל פונקציה.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4517,7 +4856,8 @@ export const clips: Clip[] = [
     "endSeconds": 494,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "פונקציות המוגדרות על ידי נוסחה."
+    "description": "פונקציות המוגדרות על ידי נוסחה.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4530,7 +4870,8 @@ export const clips: Clip[] = [
     "endSeconds": 548,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת 'מקור' כקלט ו'תמונה' כפלט."
+    "description": "הגדרת 'מקור' כקלט ו'תמונה' כפלט.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4543,7 +4884,8 @@ export const clips: Clip[] = [
     "endSeconds": 657,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת תמונת הפונקציה (F(D))."
+    "description": "הגדרת תמונת הפונקציה (F(D)).",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4556,7 +4898,8 @@ export const clips: Clip[] = [
     "endSeconds": 724,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הקשר לדוגמאות פונקציות עתידיות."
+    "description": "הקשר לדוגמאות פונקציות עתידיות.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4569,7 +4912,8 @@ export const clips: Clip[] = [
     "endSeconds": 854,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הצגת גרפים של פונקציות לפי דקרט."
+    "description": "הצגת גרפים של פונקציות לפי דקרט.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4582,7 +4926,8 @@ export const clips: Clip[] = [
     "endSeconds": 1118,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הדגמת פונקציה ליניארית, גרף ותחום."
+    "description": "הדגמת פונקציה ליניארית, גרף ותחום.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4595,7 +4940,8 @@ export const clips: Clip[] = [
     "endSeconds": 1151,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "דיון בתמונת הפונקציה הליניארית."
+    "description": "דיון בתמונת הפונקציה הליניארית.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4608,7 +4954,8 @@ export const clips: Clip[] = [
     "endSeconds": 1251,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הדגמת פונקציה ריבועית, גרף ותחום."
+    "description": "הדגמת פונקציה ריבועית, גרף ותחום.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4621,7 +4968,8 @@ export const clips: Clip[] = [
     "endSeconds": 1326,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הדגמת פונקציית ערך מוחלט."
+    "description": "הדגמת פונקציית ערך מוחלט.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4634,7 +4982,8 @@ export const clips: Clip[] = [
     "endSeconds": 1535,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הדגמת פונקציה מפוצלת, גרף ותמונה."
+    "description": "הדגמת פונקציה מפוצלת, גרף ותמונה.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4647,7 +4996,8 @@ export const clips: Clip[] = [
     "endSeconds": 1738,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הדגמת פונקציית רצפה וגרף."
+    "description": "הדגמת פונקציית רצפה וגרף.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4660,7 +5010,8 @@ export const clips: Clip[] = [
     "endSeconds": 1926,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הסבר על מבחן הקו האנכי."
+    "description": "הסבר על מבחן הקו האנכי.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4673,7 +5024,8 @@ export const clips: Clip[] = [
     "endSeconds": 1949,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "דיון בתמונת פונקציית הרצפה."
+    "description": "דיון בתמונת פונקציית הרצפה.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4686,7 +5038,8 @@ export const clips: Clip[] = [
     "endSeconds": 2057,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הדגמת פונקציית סינוס, גרף ותחום."
+    "description": "הדגמת פונקציית סינוס, גרף ותחום.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4699,7 +5052,8 @@ export const clips: Clip[] = [
     "endSeconds": 2416,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הצגת פונקציית דיריכלה ותכונותיה."
+    "description": "הצגת פונקציית דיריכלה ותכונותיה.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4712,7 +5066,8 @@ export const clips: Clip[] = [
     "endSeconds": 2801,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת סינוס וקוסינוס באמצעות מעגל יחידה."
+    "description": "הגדרת סינוס וקוסינוס באמצעות מעגל יחידה.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4725,7 +5080,8 @@ export const clips: Clip[] = [
     "endSeconds": 3305,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת סוגי פונקציות מונוטוניות."
+    "description": "הגדרת סוגי פונקציות מונוטוניות.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4738,7 +5094,8 @@ export const clips: Clip[] = [
     "endSeconds": 3519,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת פונקציה זוגית וסימטריה."
+    "description": "הגדרת פונקציה זוגית וסימטריה.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4751,7 +5108,8 @@ export const clips: Clip[] = [
     "endSeconds": 3800,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת פונקציה אי-זוגית ו-f(0)=0."
+    "description": "הגדרת פונקציה אי-זוגית ו-f(0)=0.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4764,7 +5122,8 @@ export const clips: Clip[] = [
     "endSeconds": 3952,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "רוב הפונקציות אינן זוגיות או אי-זוגיות."
+    "description": "רוב הפונקציות אינן זוגיות או אי-זוגיות.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4777,7 +5136,8 @@ export const clips: Clip[] = [
     "endSeconds": 4500,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת פונקציה מחזורית ודוגמאות."
+    "description": "הגדרת פונקציה מחזורית ודוגמאות.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4790,7 +5150,8 @@ export const clips: Clip[] = [
     "endSeconds": 4621,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת פונקציות חסומות מלמעלה, מלמטה ובכלל."
+    "description": "הגדרת פונקציות חסומות מלמעלה, מלמטה ובכלל.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4803,7 +5164,8 @@ export const clips: Clip[] = [
     "endSeconds": 4853,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "דוגמאות ותרגיל על פונקציות חסומות."
+    "description": "דוגמאות ותרגיל על פונקציות חסומות.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4816,7 +5178,8 @@ export const clips: Clip[] = [
     "endSeconds": 5427,
     "lectureName": "הרצאה 26",
     "lectureNumber": 26,
-    "description": "הגדרת ערכים קיצוניים: סופרמום, אינפימום, מקסימום, מינימום."
+    "description": "הגדרת ערכים קיצוניים: סופרמום, אינפימום, מקסימום, מינימום.",
+    "videoTitle": "26 - פונקציות"
   },
   {
     "courseId": "infi-1m",
@@ -4829,7 +5192,8 @@ export const clips: Clip[] = [
     "endSeconds": 14,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הצגת פעולות מתמטיות על פונקציות."
+    "description": "הצגת פעולות מתמטיות על פונקציות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4842,7 +5206,8 @@ export const clips: Clip[] = [
     "endSeconds": 102,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרת פעולת חיבור של פונקציות."
+    "description": "הגדרת פעולת חיבור של פונקציות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4855,7 +5220,8 @@ export const clips: Clip[] = [
     "endSeconds": 117,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרת פעולת חיסור של פונקציות."
+    "description": "הגדרת פעולת חיסור של פונקציות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4868,7 +5234,8 @@ export const clips: Clip[] = [
     "endSeconds": 141,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרת פעולת כפל של פונקציות."
+    "description": "הגדרת פעולת כפל של פונקציות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4881,7 +5248,8 @@ export const clips: Clip[] = [
     "endSeconds": 216,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרת פעולת חילוק של פונקציות."
+    "description": "הגדרת פעולת חילוק של פונקציות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4894,7 +5262,8 @@ export const clips: Clip[] = [
     "endSeconds": 314,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרת הרכבת פונקציות: f(g(x))."
+    "description": "הגדרת הרכבת פונקציות: f(g(x)).",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4907,7 +5276,8 @@ export const clips: Clip[] = [
     "endSeconds": 419,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "דוגמה להרכבת f(x)=1/x ו-g(x)=sin(x)."
+    "description": "דוגמה להרכבת f(x)=1/x ו-g(x)=sin(x).",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4920,7 +5290,8 @@ export const clips: Clip[] = [
     "endSeconds": 525,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "השפעת התחום והטווח על הרכבה."
+    "description": "השפעת התחום והטווח על הרכבה.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4933,7 +5304,8 @@ export const clips: Clip[] = [
     "endSeconds": 705,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "דוגמאות לתחום הרכבה: 1/sin(x) ו-sin(1/x)."
+    "description": "דוגמאות לתחום הרכבה: 1/sin(x) ו-sin(1/x).",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4946,7 +5318,8 @@ export const clips: Clip[] = [
     "endSeconds": 829,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הצגה חזותית של פונקציות בדיאגרמות."
+    "description": "הצגה חזותית של פונקציות בדיאגרמות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4959,7 +5332,8 @@ export const clips: Clip[] = [
     "endSeconds": 940,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הדגמת מיפויים אסורים בפונקציה."
+    "description": "הדגמת מיפויים אסורים בפונקציה.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4972,7 +5346,8 @@ export const clips: Clip[] = [
     "endSeconds": 1029,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הדגמת מיפויים מותרים בפונקציה."
+    "description": "הדגמת מיפויים מותרים בפונקציה.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4985,7 +5360,8 @@ export const clips: Clip[] = [
     "endSeconds": 1207,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הצגת פונקציות הפוכות ואתגריהן."
+    "description": "הצגת פונקציות הפוכות ואתגריהן.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -4998,7 +5374,8 @@ export const clips: Clip[] = [
     "endSeconds": 1426,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרת פונקציה חד-חד-ערכית."
+    "description": "הגדרת פונקציה חד-חד-ערכית.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5011,7 +5388,8 @@ export const clips: Clip[] = [
     "endSeconds": 1535,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרת פונקציה על (סורג'קטיבית)."
+    "description": "הגדרת פונקציה על (סורג'קטיבית).",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5024,7 +5402,8 @@ export const clips: Clip[] = [
     "endSeconds": 1702,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "דוגמאות והדגמות גרפיות לחד-חד-ערכיות."
+    "description": "דוגמאות והדגמות גרפיות לחד-חד-ערכיות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5037,7 +5416,8 @@ export const clips: Clip[] = [
     "endSeconds": 1843,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגבלת תחום פונקציה ליצירת חד-חד-ערכיות."
+    "description": "הגבלת תחום פונקציה ליצירת חד-חד-ערכיות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5050,7 +5430,8 @@ export const clips: Clip[] = [
     "endSeconds": 1934,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "חשיבות חד-חד-ערכיות להפיכות פונקציה."
+    "description": "חשיבות חד-חד-ערכיות להפיכות פונקציה.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5063,7 +5444,8 @@ export const clips: Clip[] = [
     "endSeconds": 2108,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "מבחן הקו האופקי ובדיקת 'על'."
+    "description": "מבחן הקו האופקי ובדיקת 'על'.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5076,7 +5458,8 @@ export const clips: Clip[] = [
     "endSeconds": 2212,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הסבר חזותי וסימון f⁻¹(x) לפונקציה הפוכה."
+    "description": "הסבר חזותי וסימון f⁻¹(x) לפונקציה הפוכה.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5089,7 +5472,8 @@ export const clips: Clip[] = [
     "endSeconds": 2616,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרה פורמלית של הפיכות פונקציה ותכונותיה."
+    "description": "הגדרה פורמלית של הפיכות פונקציה ותכונותיה.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5102,7 +5486,8 @@ export const clips: Clip[] = [
     "endSeconds": 2708,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "קשר בין הפיכות, חד-חד-ערכיות ו'על'."
+    "description": "קשר בין הפיכות, חד-חד-ערכיות ו'על'.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5115,7 +5500,8 @@ export const clips: Clip[] = [
     "endSeconds": 2810,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "תרגיל: הוכחת חד-חד-ערכיות מפונקציה מונוטונית."
+    "description": "תרגיל: הוכחת חד-חד-ערכיות מפונקציה מונוטונית.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5128,7 +5514,8 @@ export const clips: Clip[] = [
     "endSeconds": 3102,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "גרף פונקציה הפוכה כשיקוף y=x."
+    "description": "גרף פונקציה הפוכה כשיקוף y=x.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5141,7 +5528,8 @@ export const clips: Clip[] = [
     "endSeconds": 3811,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "דוגמאות לגרפים של פונקציות הפוכות."
+    "description": "דוגמאות לגרפים של פונקציות הפוכות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5154,7 +5542,8 @@ export const clips: Clip[] = [
     "endSeconds": 3919,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הצגת פונקציות אלמנטריות כבסיס לחשבון אינפיניטסימלי."
+    "description": "הצגת פונקציות אלמנטריות כבסיס לחשבון אינפיניטסימלי.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5167,7 +5556,8 @@ export const clips: Clip[] = [
     "endSeconds": 4128,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "רשימת משפחות פונקציות: פולינומים, טריגונומטריות ואקספוננציאליות."
+    "description": "רשימת משפחות פונקציות: פולינומים, טריגונומטריות ואקספוננציאליות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5180,7 +5570,8 @@ export const clips: Clip[] = [
     "endSeconds": 4225,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "פונקציות הפוכות: שורש, טריגונומטריות ולוגריתמיות."
+    "description": "פונקציות הפוכות: שורש, טריגונומטריות ולוגריתמיות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5193,7 +5584,8 @@ export const clips: Clip[] = [
     "endSeconds": 4350,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "הגדרת פונקציה אלמנטרית משילוב פעולות."
+    "description": "הגדרת פונקציה אלמנטרית משילוב פעולות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5206,7 +5598,8 @@ export const clips: Clip[] = [
     "endSeconds": 4450,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "דוגמאות לפונקציות לא אלמנטריות: דיריכלה, ערך שלם."
+    "description": "דוגמאות לפונקציות לא אלמנטריות: דיריכלה, ערך שלם.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5219,7 +5612,8 @@ export const clips: Clip[] = [
     "endSeconds": 4501,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "האם פונקציית הערך המוחלט אלמנטרית?"
+    "description": "האם פונקציית הערך המוחלט אלמנטרית?",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5232,7 +5626,8 @@ export const clips: Clip[] = [
     "endSeconds": 4549,
     "lectureName": "הרצאה 27",
     "lectureNumber": 27,
-    "description": "סיכום, מטלה ולקראת גבולות פונקציות."
+    "description": "סיכום, מטלה ולקראת גבולות פונקציות.",
+    "videoTitle": "27 - פונקציות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5245,7 +5640,8 @@ export const clips: Clip[] = [
     "endSeconds": 85,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הבנה אינטואיטיבית של גבול פונקציה."
+    "description": "הבנה אינטואיטיבית של גבול פונקציה.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5258,7 +5654,8 @@ export const clips: Clip[] = [
     "endSeconds": 118,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הצורך בהגדרה מדויקת יותר."
+    "description": "הצורך בהגדרה מדויקת יותר.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5271,7 +5668,8 @@ export const clips: Clip[] = [
     "endSeconds": 200,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "ההבדל בין ערך גבול לערך פונקציה."
+    "description": "ההבדל בין ערך גבול לערך פונקציה.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5284,7 +5682,8 @@ export const clips: Clip[] = [
     "endSeconds": 426,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הגדרת אפסילון-דלתא באופן גרפי."
+    "description": "הגדרת אפסילון-דלתא באופן גרפי.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5297,7 +5696,8 @@ export const clips: Clip[] = [
     "endSeconds": 666,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הגדרת אפסילון-דלתא מדויקת וכתובה."
+    "description": "הגדרת אפסילון-דלתא מדויקת וכתובה.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5310,7 +5710,8 @@ export const clips: Clip[] = [
     "endSeconds": 688,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "התנהגות הפונקציה ב-'a' לא רלוונטית."
+    "description": "התנהגות הפונקציה ב-'a' לא רלוונטית.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5323,7 +5724,8 @@ export const clips: Clip[] = [
     "endSeconds": 799,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "שתי גישות להוכחת משפטי גבול."
+    "description": "שתי גישות להוכחת משפטי גבול.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5336,7 +5738,8 @@ export const clips: Clip[] = [
     "endSeconds": 1002,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הערות חשובות להגדרת אפסילון-דלתא."
+    "description": "הערות חשובות להגדרת אפסילון-דלתא.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5349,7 +5752,8 @@ export const clips: Clip[] = [
     "endSeconds": 1324,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הוכחת גבול (x-1)/2 באמצעות אפסילון-דלתא."
+    "description": "הוכחת גבול (x-1)/2 באמצעות אפסילון-דלתא.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5362,7 +5766,8 @@ export const clips: Clip[] = [
     "endSeconds": 1396,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הכנה להוכחת גבול sin(x)."
+    "description": "הכנה להוכחת גבול sin(x).",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5375,7 +5780,8 @@ export const clips: Clip[] = [
     "endSeconds": 1720,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הוכחת גבול sin(x) באפסילון-דלתא."
+    "description": "הוכחת גבול sin(x) באפסילון-דלתא.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5388,7 +5794,8 @@ export const clips: Clip[] = [
     "endSeconds": 2260,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הוכחה גיאומטרית ל-|sin(x)| <= |x|."
+    "description": "הוכחה גיאומטרית ל-|sin(x)| <= |x|.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5401,7 +5808,8 @@ export const clips: Clip[] = [
     "endSeconds": 2390,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הכנה להוכחת גבול x^2."
+    "description": "הכנה להוכחת גבול x^2.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5414,7 +5822,8 @@ export const clips: Clip[] = [
     "endSeconds": 2772,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "הוכחת גבול x^2 באפסילון-דלתא."
+    "description": "הוכחת גבול x^2 באפסילון-דלתא.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5427,7 +5836,8 @@ export const clips: Clip[] = [
     "endSeconds": 3062,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "גבול פונקציה אלמנטרית: f(a)."
+    "description": "גבול פונקציה אלמנטרית: f(a).",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5440,7 +5850,8 @@ export const clips: Clip[] = [
     "endSeconds": 3161,
     "lectureName": "הרצאה 29",
     "lectureNumber": 29,
-    "description": "אסטרטגיה להוכחת משפט על פונקציות אלמנטריות."
+    "description": "אסטרטגיה להוכחת משפט על פונקציות אלמנטריות.",
+    "videoTitle": "29 - גבול של פונקציה - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5453,7 +5864,8 @@ export const clips: Clip[] = [
     "endSeconds": 48,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "סקירת משפטי גבול לפונקציות בנקודה."
+    "description": "סקירת משפטי גבול לפונקציות בנקודה.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5466,7 +5878,8 @@ export const clips: Clip[] = [
     "endSeconds": 139,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "חזרה על הגדרת אפסילון-דלתא."
+    "description": "חזרה על הגדרת אפסילון-דלתא.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5479,7 +5892,8 @@ export const clips: Clip[] = [
     "endSeconds": 183,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "גבול של פונקציה, אם קיים, יחיד."
+    "description": "גבול של פונקציה, אם קיים, יחיד.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5492,7 +5906,8 @@ export const clips: Clip[] = [
     "endSeconds": 458,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "הוכחה ליחידות הגבול בסתירה."
+    "description": "הוכחה ליחידות הגבול בסתירה.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5505,7 +5920,8 @@ export const clips: Clip[] = [
     "endSeconds": 509,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "פונקציה בעלת גבול חסומה בסביבה מנוקבת."
+    "description": "פונקציה בעלת גבול חסומה בסביבה מנוקבת.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5518,7 +5934,8 @@ export const clips: Clip[] = [
     "endSeconds": 657,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "הוכחת חסימות פונקציה בעלת גבול."
+    "description": "הוכחת חסימות פונקציה בעלת גבול.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5531,7 +5948,8 @@ export const clips: Clip[] = [
     "endSeconds": 718,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "תרגיל על חסימות בסביבה מלאה."
+    "description": "תרגיל על חסימות בסביבה מלאה.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5544,7 +5962,8 @@ export const clips: Clip[] = [
     "endSeconds": 910,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "שלילת הגדרת אפסילון-דלתא."
+    "description": "שלילת הגדרת אפסילון-דלתא.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5557,7 +5976,8 @@ export const clips: Clip[] = [
     "endSeconds": 1102,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "פונקציית רצפה: גבול אינו קיים."
+    "description": "פונקציית רצפה: גבול אינו קיים.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5570,7 +5990,8 @@ export const clips: Clip[] = [
     "endSeconds": 1206,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "פונקציה 1/x: גבול אינו קיים."
+    "description": "פונקציה 1/x: גבול אינו קיים.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5583,7 +6004,8 @@ export const clips: Clip[] = [
     "endSeconds": 1676,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "פונקציה sin(1/x): אין גבול באפס."
+    "description": "פונקציה sin(1/x): אין גבול באפס.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5596,7 +6018,8 @@ export const clips: Clip[] = [
     "endSeconds": 1746,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "היקף תחולת משפט החסימות."
+    "description": "היקף תחולת משפט החסימות.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5609,7 +6032,8 @@ export const clips: Clip[] = [
     "endSeconds": 1871,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "גבול חיובי גורר חיוביות בסביבה."
+    "description": "גבול חיובי גורר חיוביות בסביבה.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5622,7 +6046,8 @@ export const clips: Clip[] = [
     "endSeconds": 2136,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "משפטי חשבון גבולות: סכום, מכפלה, מנה."
+    "description": "משפטי חשבון גבולות: סכום, מכפלה, מנה.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5635,7 +6060,8 @@ export const clips: Clip[] = [
     "endSeconds": 2520,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "הוכחת גבול כפל בסקלר באפסילון-דלתא."
+    "description": "הוכחת גבול כפל בסקלר באפסילון-דלתא.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5648,7 +6074,8 @@ export const clips: Clip[] = [
     "endSeconds": 3101,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "הוכחת גבול מכפלה באפסילון-דלתא."
+    "description": "הוכחת גבול מכפלה באפסילון-דלתא.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5661,7 +6088,8 @@ export const clips: Clip[] = [
     "endSeconds": 3137,
     "lectureName": "הרצאה 30",
     "lectureNumber": 30,
-    "description": "הצגת שיטה חלופית להוכחת גבולות."
+    "description": "הצגת שיטה חלופית להוכחת גבולות.",
+    "videoTitle": "30 - משפטי גבולות"
   },
   {
     "courseId": "infi-1m",
@@ -5674,7 +6102,8 @@ export const clips: Clip[] = [
     "endSeconds": 20,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "סקירה ועידוד להוכחת משפטי גבול."
+    "description": "סקירה ועידוד להוכחת משפטי גבול.",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5687,7 +6116,8 @@ export const clips: Clip[] = [
     "endSeconds": 107,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "f(x)->0 אם ורק אם |f(x)|->0."
+    "description": "f(x)->0 אם ורק אם |f(x)|->0.",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5700,7 +6130,8 @@ export const clips: Clip[] = [
     "endSeconds": 136,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "אם f(x)->L, אז |f(x)|->|L|."
+    "description": "אם f(x)->L, אז |f(x)|->|L|.",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5713,7 +6144,8 @@ export const clips: Clip[] = [
     "endSeconds": 294,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "משפטים על יחס סדר בין פונקציות וגבולותיהן."
+    "description": "משפטים על יחס סדר בין פונקציות וגבולותיהן.",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5726,7 +6158,8 @@ export const clips: Clip[] = [
     "endSeconds": 339,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "אי-שוויון חזק בפונקציות לא גורר בגבולות."
+    "description": "אי-שוויון חזק בפונקציות לא גורר בגבולות.",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5739,7 +6172,8 @@ export const clips: Clip[] = [
     "endSeconds": 373,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "דוגמה לאי-שוויון חזק וגבול"
+    "description": "דוגמה לאי-שוויון חזק וגבול",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5752,7 +6186,8 @@ export const clips: Clip[] = [
     "endSeconds": 458,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "מכפלת חסומה בפונקציה ששואפת לאפס"
+    "description": "מכפלת חסומה בפונקציה ששואפת לאפס",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5765,7 +6200,8 @@ export const clips: Clip[] = [
     "endSeconds": 514,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "כליאת פונקציה בין שתי פונקציות"
+    "description": "כליאת פונקציה בין שתי פונקציות",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5778,7 +6214,8 @@ export const clips: Clip[] = [
     "endSeconds": 541,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "הצגת משפט היינה ושימושיו"
+    "description": "הצגת משפט היינה ושימושיו",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5791,7 +6228,8 @@ export const clips: Clip[] = [
     "endSeconds": 678,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "ניסוח פורמלי של משפט היינה"
+    "description": "ניסוח פורמלי של משפט היינה",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5804,7 +6242,8 @@ export const clips: Clip[] = [
     "endSeconds": 846,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "הסבר אינטואיטיבי וחזותי למשפט"
+    "description": "הסבר אינטואיטיבי וחזותי למשפט",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5817,7 +6256,8 @@ export const clips: Clip[] = [
     "endSeconds": 913,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "אסטרטגיית הוכחה למשפט היינה"
+    "description": "אסטרטגיית הוכחה למשפט היינה",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5830,7 +6270,8 @@ export const clips: Clip[] = [
     "endSeconds": 1225,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "הוכחה שאם קיים גבול, אז קיים גבול לסדרות"
+    "description": "הוכחה שאם קיים גבול, אז קיים גבול לסדרות",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5843,7 +6284,8 @@ export const clips: Clip[] = [
     "endSeconds": 1828,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "הוכחת הכיוון ההפוך באמצעות סתירה"
+    "description": "הוכחת הכיוון ההפוך באמצעות סתירה",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5856,7 +6298,8 @@ export const clips: Clip[] = [
     "endSeconds": 1871,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "חשיבות ההוכחה של משפט היינה"
+    "description": "חשיבות ההוכחה של משפט היינה",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5869,7 +6312,8 @@ export const clips: Clip[] = [
     "endSeconds": 1939,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "הצגת יישומי משפט היינה"
+    "description": "הצגת יישומי משפט היינה",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5882,7 +6326,8 @@ export const clips: Clip[] = [
     "endSeconds": 2207,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "הוכחת גבול מנה בשיטת היינה"
+    "description": "הוכחת גבול מנה בשיטת היינה",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5895,7 +6340,8 @@ export const clips: Clip[] = [
     "endSeconds": 2498,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "הוכחת מכפלת חסומה באפס בשיטת היינה"
+    "description": "הוכחת מכפלת חסומה באפס בשיטת היינה",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5908,7 +6354,8 @@ export const clips: Clip[] = [
     "endSeconds": 2574,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "שימוש ראשון: הוכחת משפטי גבול"
+    "description": "שימוש ראשון: הוכחת משפטי גבול",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5921,7 +6368,8 @@ export const clips: Clip[] = [
     "endSeconds": 2688,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "שימוש שני: הפרכת קיום גבול"
+    "description": "שימוש שני: הפרכת קיום גבול",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5934,7 +6382,8 @@ export const clips: Clip[] = [
     "endSeconds": 2902,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "הוכחת אי-קיום גבול ל-sin(1/x)"
+    "description": "הוכחת אי-קיום גבול ל-sin(1/x)",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5947,7 +6396,8 @@ export const clips: Clip[] = [
     "endSeconds": 3000,
     "lectureName": "הרצאה 31",
     "lectureNumber": 31,
-    "description": "חשיבות תרגול הוכחות גבולות"
+    "description": "חשיבות תרגול הוכחות גבולות",
+    "videoTitle": "31 - משפטי גבולות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -5960,7 +6410,8 @@ export const clips: Clip[] = [
     "endSeconds": 64,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "מבוא לגבולות חד-צדדיים ואינסופיים"
+    "description": "מבוא לגבולות חד-צדדיים ואינסופיים",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -5973,7 +6424,8 @@ export const clips: Clip[] = [
     "endSeconds": 97,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "דוגמת גבול פונקציית שורש"
+    "description": "דוגמת גבול פונקציית שורש",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -5986,7 +6438,8 @@ export const clips: Clip[] = [
     "endSeconds": 471,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הוכחת גבול פונקציית שורש"
+    "description": "הוכחת גבול פונקציית שורש",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -5999,7 +6452,8 @@ export const clips: Clip[] = [
     "endSeconds": 572,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הצורך בגבולות חד-צדדיים"
+    "description": "הצורך בגבולות חד-צדדיים",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6012,7 +6466,8 @@ export const clips: Clip[] = [
     "endSeconds": 711,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הגדרת גבול חד-צדדי מימין"
+    "description": "הגדרת גבול חד-צדדי מימין",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6025,7 +6480,8 @@ export const clips: Clip[] = [
     "endSeconds": 739,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "תרגיל בהוכחת גבול מימין"
+    "description": "תרגיל בהוכחת גבול מימין",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6038,7 +6494,8 @@ export const clips: Clip[] = [
     "endSeconds": 767,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הגדרת גבול חד-צדדי משמאל"
+    "description": "הגדרת גבול חד-צדדי משמאל",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6051,7 +6508,8 @@ export const clips: Clip[] = [
     "endSeconds": 934,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "דוגמה לגבולות חד-צדדיים"
+    "description": "דוגמה לגבולות חד-צדדיים",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6064,7 +6522,8 @@ export const clips: Clip[] = [
     "endSeconds": 991,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "קשר בין גבולות חד-צדדיים לגבול כללי"
+    "description": "קשר בין גבולות חד-צדדיים לגבול כללי",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6077,7 +6536,8 @@ export const clips: Clip[] = [
     "endSeconds": 1157,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הוכחת כיוון אחד של המשפט"
+    "description": "הוכחת כיוון אחד של המשפט",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6090,7 +6550,8 @@ export const clips: Clip[] = [
     "endSeconds": 1327,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הוכחת הכיוון השני של המשפט"
+    "description": "הוכחת הכיוון השני של המשפט",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6103,7 +6564,8 @@ export const clips: Clip[] = [
     "endSeconds": 1526,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "תרגיל במשפטי גבול חד-צדדיים"
+    "description": "תרגיל במשפטי גבול חד-צדדיים",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6116,7 +6578,8 @@ export const clips: Clip[] = [
     "endSeconds": 1655,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "בדיקת קיום גבול באמצעות גבולות חד-צדדיים"
+    "description": "בדיקת קיום גבול באמצעות גבולות חד-צדדיים",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6129,7 +6592,8 @@ export const clips: Clip[] = [
     "endSeconds": 1746,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "גבולות חד-צדדיים לפונקציות מונוטוניות"
+    "description": "גבולות חד-צדדיים לפונקציות מונוטוניות",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6142,7 +6606,8 @@ export const clips: Clip[] = [
     "endSeconds": 2039,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הסבר אינטואיטיבי למשפט"
+    "description": "הסבר אינטואיטיבי למשפט",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6155,7 +6620,8 @@ export const clips: Clip[] = [
     "endSeconds": 2760,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הצבת הוכחת גבול מימין לפונקציה עולה"
+    "description": "הצבת הוכחת גבול מימין לפונקציה עולה",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6168,7 +6634,8 @@ export const clips: Clip[] = [
     "endSeconds": 3084,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "השלמת הוכחת גבול מימין והבהרות"
+    "description": "השלמת הוכחת גבול מימין והבהרות",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6181,7 +6648,8 @@ export const clips: Clip[] = [
     "endSeconds": 3385,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הצגת הגבול המפורסם sin(x)/x"
+    "description": "הצגת הגבול המפורסם sin(x)/x",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6194,7 +6662,8 @@ export const clips: Clip[] = [
     "endSeconds": 3900,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "הוכחת אי-שוויון גאומטרי"
+    "description": "הוכחת אי-שוויון גאומטרי",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6207,7 +6676,8 @@ export const clips: Clip[] = [
     "endSeconds": 4021,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "השלמת הוכחת הגבול באמצעות סנדוויץ'"
+    "description": "השלמת הוכחת הגבול באמצעות סנדוויץ'",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6220,7 +6690,8 @@ export const clips: Clip[] = [
     "endSeconds": 4271,
     "lectureName": "הרצאה 32",
     "lectureNumber": 32,
-    "description": "מעבר לדיון בגבולות אינסופיים"
+    "description": "מעבר לדיון בגבולות אינסופיים",
+    "videoTitle": "32 - גבולות חד צדדיים"
   },
   {
     "courseId": "infi-1m",
@@ -6233,7 +6704,8 @@ export const clips: Clip[] = [
     "endSeconds": 60,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "סקירת משפט היינה ושימושיו"
+    "description": "סקירת משפט היינה ושימושיו",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6246,7 +6718,8 @@ export const clips: Clip[] = [
     "endSeconds": 95,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "חישוב גבולות סדרות בשיטת היינה"
+    "description": "חישוב גבולות סדרות בשיטת היינה",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6259,7 +6732,8 @@ export const clips: Clip[] = [
     "endSeconds": 236,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "טרנספורמציה של בעיית גבול סדרה."
+    "description": "טרנספורמציה של בעיית גבול סדרה.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6272,7 +6746,8 @@ export const clips: Clip[] = [
     "endSeconds": 349,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "הוכחת גבול באמצעות משפט היינה."
+    "description": "הוכחת גבול באמצעות משפט היינה.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6285,7 +6760,8 @@ export const clips: Clip[] = [
     "endSeconds": 374,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "הבהרות ליישום משפט היינה."
+    "description": "הבהרות ליישום משפט היינה.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6298,7 +6774,8 @@ export const clips: Clip[] = [
     "endSeconds": 440,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "מעבר לגבולות המערבים אינסוף."
+    "description": "מעבר לגבולות המערבים אינסוף.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6311,7 +6788,8 @@ export const clips: Clip[] = [
     "endSeconds": 605,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "הגדרה פורמלית לגבול אינסופי."
+    "description": "הגדרה פורמלית לגבול אינסופי.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6324,7 +6802,8 @@ export const clips: Clip[] = [
     "endSeconds": 706,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "תרגילים בהגדרת גבולות מורחבים."
+    "description": "תרגילים בהגדרת גבולות מורחבים.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6337,7 +6816,8 @@ export const clips: Clip[] = [
     "endSeconds": 943,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "הוכחה לגבול אינסופי."
+    "description": "הוכחה לגבול אינסופי.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6350,7 +6830,8 @@ export const clips: Clip[] = [
     "endSeconds": 1158,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "אלגברת גבולות מורחבים והמגבלות שלה."
+    "description": "אלגברת גבולות מורחבים והמגבלות שלה.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6363,7 +6844,8 @@ export const clips: Clip[] = [
     "endSeconds": 1196,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "מקרים בהם אלגברת גבולות תקפה."
+    "description": "מקרים בהם אלגברת גבולות תקפה.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6376,7 +6858,8 @@ export const clips: Clip[] = [
     "endSeconds": 1291,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "משפט הסנדוויץ' לגבולות אינסופיים."
+    "description": "משפט הסנדוויץ' לגבולות אינסופיים.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6389,7 +6872,8 @@ export const clips: Clip[] = [
     "endSeconds": 1370,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "הגדרה פורמלית לקריטריון קושי."
+    "description": "הגדרה פורמלית לקריטריון קושי.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6402,7 +6886,8 @@ export const clips: Clip[] = [
     "endSeconds": 1467,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "קיום גבול שקול לקריטריון קושי."
+    "description": "קיום גבול שקול לקריטריון קושי.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6415,7 +6900,8 @@ export const clips: Clip[] = [
     "endSeconds": 1662,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "הוכחת כיוון אחד של קריטריון קושי."
+    "description": "הוכחת כיוון אחד של קריטריון קושי.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6428,7 +6914,8 @@ export const clips: Clip[] = [
     "endSeconds": 2224,
     "lectureName": "הרצאה 33",
     "lectureNumber": 33,
-    "description": "הוכחת הכיוון ההפוך של קריטריון קושי."
+    "description": "הוכחת הכיוון ההפוך של קריטריון קושי.",
+    "videoTitle": "33 - גבולות במובן הרחב, תנאי קושי"
   },
   {
     "courseId": "infi-1m",
@@ -6441,7 +6928,8 @@ export const clips: Clip[] = [
     "endSeconds": 82,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הצגת הגדרת רציפות בנקודה."
+    "description": "הצגת הגדרת רציפות בנקודה.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6454,7 +6942,8 @@ export const clips: Clip[] = [
     "endSeconds": 117,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "רציפות היא תכונה נקודתית."
+    "description": "רציפות היא תכונה נקודתית.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6467,7 +6956,8 @@ export const clips: Clip[] = [
     "endSeconds": 266,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הגדרות שקולות לרציפות."
+    "description": "הגדרות שקולות לרציפות.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6480,7 +6970,8 @@ export const clips: Clip[] = [
     "endSeconds": 337,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "פונקציות אלמנטריות הן רציפות."
+    "description": "פונקציות אלמנטריות הן רציפות.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6493,7 +6984,8 @@ export const clips: Clip[] = [
     "endSeconds": 602,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "מתווה להוכחת רציפות פונקציות."
+    "description": "מתווה להוכחת רציפות פונקציות.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6506,7 +6998,8 @@ export const clips: Clip[] = [
     "endSeconds": 986,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הוכחת רציפות הרכבת פונקציות."
+    "description": "הוכחת רציפות הרכבת פונקציות.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6519,7 +7012,8 @@ export const clips: Clip[] = [
     "endSeconds": 1038,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הבחנה בין הרכבת גבולות לרציפות."
+    "description": "הבחנה בין הרכבת גבולות לרציפות.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6532,7 +7026,8 @@ export const clips: Clip[] = [
     "endSeconds": 1098,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הבנה אינטואיטיבית של רציפות."
+    "description": "הבנה אינטואיטיבית של רציפות.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6545,7 +7040,8 @@ export const clips: Clip[] = [
     "endSeconds": 1276,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הגדרה ודוגמה לאי-רציפות סליקה."
+    "description": "הגדרה ודוגמה לאי-רציפות סליקה.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6558,7 +7054,8 @@ export const clips: Clip[] = [
     "endSeconds": 1394,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "דוגמה ל-sin(x)/x ב-x=0."
+    "description": "דוגמה ל-sin(x)/x ב-x=0.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6571,7 +7068,8 @@ export const clips: Clip[] = [
     "endSeconds": 1535,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הגדרה ודוגמה לאי-רציפות קפיצה."
+    "description": "הגדרה ודוגמה לאי-רציפות קפיצה.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6584,7 +7082,8 @@ export const clips: Clip[] = [
     "endSeconds": 1796,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הגדרה ודוגמה לאי-רציפות עיקרית."
+    "description": "הגדרה ודוגמה לאי-רציפות עיקרית.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6597,7 +7096,8 @@ export const clips: Clip[] = [
     "endSeconds": 2073,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "לפונקציות מונוטוניות רק אי-רציפויות קפיצה."
+    "description": "לפונקציות מונוטוניות רק אי-רציפויות קפיצה.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6610,7 +7110,8 @@ export const clips: Clip[] = [
     "endSeconds": 2397,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "הגדרת רציפות חד-צדדית ועל קטעים."
+    "description": "הגדרת רציפות חד-צדדית ועל קטעים.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6623,7 +7124,8 @@ export const clips: Clip[] = [
     "endSeconds": 2520,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "חיזוק האינטואיציה לרציפות בקטע."
+    "description": "חיזוק האינטואיציה לרציפות בקטע.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6636,7 +7138,8 @@ export const clips: Clip[] = [
     "endSeconds": 3033,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "פונקציית דיריכלה אי-רציפה."
+    "description": "פונקציית דיריכלה אי-רציפה.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6649,7 +7152,8 @@ export const clips: Clip[] = [
     "endSeconds": 3574,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "תרגיל בהוכחת רציפות בנקודה."
+    "description": "תרגיל בהוכחת רציפות בנקודה.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6662,7 +7166,8 @@ export const clips: Clip[] = [
     "endSeconds": 3907,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "דוגמה לפונקציה רציפה בנקודה אחת."
+    "description": "דוגמה לפונקציה רציפה בנקודה אחת.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6675,7 +7180,8 @@ export const clips: Clip[] = [
     "endSeconds": 3923,
     "lectureName": "הרצאה 34",
     "lectureNumber": 34,
-    "description": "מעבר למשפטי פונקציות רציפות."
+    "description": "מעבר למשפטי פונקציות רציפות.",
+    "videoTitle": "34 - רציפות"
   },
   {
     "courseId": "infi-1m",
@@ -6688,7 +7194,8 @@ export const clips: Clip[] = [
     "endSeconds": 20,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "הצגת משפט ערך הביניים (שורשים)."
+    "description": "הצגת משפט ערך הביניים (שורשים).",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6701,7 +7208,8 @@ export const clips: Clip[] = [
     "endSeconds": 86,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "ניסוח משפט ערך הביניים (שורשים)."
+    "description": "ניסוח משפט ערך הביניים (שורשים).",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6714,7 +7222,8 @@ export const clips: Clip[] = [
     "endSeconds": 171,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "הדמיה אינטואיטיבית של IVT (שורשים)."
+    "description": "הדמיה אינטואיטיבית של IVT (שורשים).",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6727,7 +7236,8 @@ export const clips: Clip[] = [
     "endSeconds": 420,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "הוכחה בשיטת החצייה."
+    "description": "הוכחה בשיטת החצייה.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6740,7 +7250,8 @@ export const clips: Clip[] = [
     "endSeconds": 564,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "יישום למת קנטור בהוכחה."
+    "description": "יישום למת קנטור בהוכחה.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6753,7 +7264,8 @@ export const clips: Clip[] = [
     "endSeconds": 847,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "השלמת ההוכחה בעזרת רציפות."
+    "description": "השלמת ההוכחה בעזרת רציפות.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6766,7 +7278,8 @@ export const clips: Clip[] = [
     "endSeconds": 1136,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "אלגוריתם שיטת החצייה לקירוב שורשים."
+    "description": "אלגוריתם שיטת החצייה לקירוב שורשים.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6779,7 +7292,8 @@ export const clips: Clip[] = [
     "endSeconds": 1331,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "הדגמת משפט ערך הביניים למציאת שורש."
+    "description": "הדגמת משפט ערך הביניים למציאת שורש.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6792,7 +7306,8 @@ export const clips: Clip[] = [
     "endSeconds": 1560,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "מציאת פתרון למשוואה טרנסצנדנטית."
+    "description": "מציאת פתרון למשוואה טרנסצנדנטית.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6805,7 +7320,8 @@ export const clips: Clip[] = [
     "endSeconds": 1622,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "הוכחת קיום שורש לפולינום ממעלה אי-זוגית."
+    "description": "הוכחת קיום שורש לפולינום ממעלה אי-זוגית.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6818,7 +7334,8 @@ export const clips: Clip[] = [
     "endSeconds": 1858,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "ניסוח פורמלי של משפט ערך הביניים."
+    "description": "ניסוח פורמלי של משפט ערך הביניים.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6831,7 +7348,8 @@ export const clips: Clip[] = [
     "endSeconds": 2071,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "הוכחת משפט ערך הביניים באמצעות צמצום."
+    "description": "הוכחת משפט ערך הביניים באמצעות צמצום.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6844,7 +7362,8 @@ export const clips: Clip[] = [
     "endSeconds": 2162,
     "lectureName": "הרצאה 35",
     "lectureNumber": 35,
-    "description": "סיכום משפט ערך הביניים ושיטות ההוכחה."
+    "description": "סיכום משפט ערך הביניים ושיטות ההוכחה.",
+    "videoTitle": "35 - משפט ערך הביניים"
   },
   {
     "courseId": "infi-1m",
@@ -6857,7 +7376,8 @@ export const clips: Clip[] = [
     "endSeconds": 56,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "היכרות עם נגזרות ומהירות רגעית."
+    "description": "היכרות עם נגזרות ומהירות רגעית.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6870,7 +7390,8 @@ export const clips: Clip[] = [
     "endSeconds": 188,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "הגדרה פורמלית של נגזרת וסימוניה."
+    "description": "הגדרה פורמלית של נגזרת וסימוניה.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6883,7 +7404,8 @@ export const clips: Clip[] = [
     "endSeconds": 202,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "הגדרה נוספת לנגזרת עם h ששואף לאפס."
+    "description": "הגדרה נוספת לנגזרת עם h ששואף לאפס.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6896,7 +7418,8 @@ export const clips: Clip[] = [
     "endSeconds": 1326,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "הנגזרת כשיפוע של קו משיק."
+    "description": "הנגזרת כשיפוע של קו משיק.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6909,7 +7432,8 @@ export const clips: Clip[] = [
     "endSeconds": 1653,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "הגדרת וגזירת משוואת המשיק."
+    "description": "הגדרת וגזירת משוואת המשיק.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6922,7 +7446,8 @@ export const clips: Clip[] = [
     "endSeconds": 1981,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "הפרכת תפיסות מוטעות על משיקים."
+    "description": "הפרכת תפיסות מוטעות על משיקים.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6935,7 +7460,8 @@ export const clips: Clip[] = [
     "endSeconds": 2210,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "חישוב נגזרת של פונקציה קבועה."
+    "description": "חישוב נגזרת של פונקציה קבועה.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6948,7 +7474,8 @@ export const clips: Clip[] = [
     "endSeconds": 2294,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "חישוב נגזרת של פונקציית הזהות."
+    "description": "חישוב נגזרת של פונקציית הזהות.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6961,7 +7488,8 @@ export const clips: Clip[] = [
     "endSeconds": 2679,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "חישוב נגזרת של פונקציית השורש."
+    "description": "חישוב נגזרת של פונקציית השורש.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6974,7 +7502,8 @@ export const clips: Clip[] = [
     "endSeconds": 3147,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "חישוב נגזרת של פונקציית סינוס."
+    "description": "חישוב נגזרת של פונקציית סינוס.",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -6987,7 +7516,8 @@ export const clips: Clip[] = [
     "endSeconds": 3237,
     "lectureName": "הרצאה 38",
     "lectureNumber": 38,
-    "description": "תרגיל חישוב נגזרת של ln(x)."
+    "description": "תרגיל חישוב נגזרת של ln(x).",
+    "videoTitle": "38 - הנגזרת"
   },
   {
     "courseId": "infi-1m",
@@ -7000,7 +7530,8 @@ export const clips: Clip[] = [
     "endSeconds": 37,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "פונקציה גזירה בנקודה היא גם רציפה."
+    "description": "פונקציה גזירה בנקודה היא גם רציפה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7013,7 +7544,8 @@ export const clips: Clip[] = [
     "endSeconds": 102,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "הצבת הגדרת הרציפות להוכחה."
+    "description": "הצבת הגדרת הרציפות להוכחה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7026,7 +7558,8 @@ export const clips: Clip[] = [
     "endSeconds": 131,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "ניסוח מחדש של תנאי הרציפות."
+    "description": "ניסוח מחדש של תנאי הרציפות.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7039,7 +7572,8 @@ export const clips: Clip[] = [
     "endSeconds": 200,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "מניפולציה אלגברית לקישור עם הנגזרת."
+    "description": "מניפולציה אלגברית לקישור עם הנגזרת.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7052,7 +7586,8 @@ export const clips: Clip[] = [
     "endSeconds": 301,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "השלמת ההוכחה והסקת מסקנות."
+    "description": "השלמת ההוכחה והסקת מסקנות.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7065,7 +7600,8 @@ export const clips: Clip[] = [
     "endSeconds": 357,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "אם פונקציה אינה רציפה, היא אינה גזירה."
+    "description": "אם פונקציה אינה רציפה, היא אינה גזירה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7078,7 +7614,8 @@ export const clips: Clip[] = [
     "endSeconds": 448,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "הבהרה לגבי קיום גבול סופי."
+    "description": "הבהרה לגבי קיום גבול סופי.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7091,7 +7628,8 @@ export const clips: Clip[] = [
     "endSeconds": 515,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "האם רציפות גוררת גזירות? מבוא."
+    "description": "האם רציפות גוררת גזירות? מבוא.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7104,7 +7642,8 @@ export const clips: Clip[] = [
     "endSeconds": 591,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "דוגמה נגדית: פונקציית ערך מוחלט."
+    "description": "דוגמה נגדית: פונקציית ערך מוחלט.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7117,7 +7656,8 @@ export const clips: Clip[] = [
     "endSeconds": 700,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "בחינת גזירות |x| לפי ההגדרה."
+    "description": "בחינת גזירות |x| לפי ההגדרה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7130,7 +7670,8 @@ export const clips: Clip[] = [
     "endSeconds": 805,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "מסקנה: |x| אינה גזירה ב-0."
+    "description": "מסקנה: |x| אינה גזירה ב-0.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7143,7 +7684,8 @@ export const clips: Clip[] = [
     "endSeconds": 955,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "הבנה אינטואיטיבית של פונקציות חלקות."
+    "description": "הבנה אינטואיטיבית של פונקציות חלקות.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7156,7 +7698,8 @@ export const clips: Clip[] = [
     "endSeconds": 1154,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "הגדרת הנגזרת מצד ימין."
+    "description": "הגדרת הנגזרת מצד ימין.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7169,7 +7712,8 @@ export const clips: Clip[] = [
     "endSeconds": 1292,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "הגדרת נגזרת משמאל ותנאי גזירות."
+    "description": "הגדרת נגזרת משמאל ותנאי גזירות.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7182,7 +7726,8 @@ export const clips: Clip[] = [
     "endSeconds": 1391,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "היכרות עם כללי הגזירה."
+    "description": "היכרות עם כללי הגזירה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7195,7 +7740,8 @@ export const clips: Clip[] = [
     "endSeconds": 1498,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "כללי גזירת סכום וכפולה בסקלר."
+    "description": "כללי גזירת סכום וכפולה בסקלר.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7208,7 +7754,8 @@ export const clips: Clip[] = [
     "endSeconds": 1611,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "ניסוח כלל המכפלה לגזירה."
+    "description": "ניסוח כלל המכפלה לגזירה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7221,7 +7768,8 @@ export const clips: Clip[] = [
     "endSeconds": 1690,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "ניסוח כלל המנה לגזירה."
+    "description": "ניסוח כלל המנה לגזירה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7234,7 +7782,8 @@ export const clips: Clip[] = [
     "endSeconds": 1791,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "מבוא להוכחת כלל המכפלה."
+    "description": "מבוא להוכחת כלל המכפלה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7247,7 +7796,8 @@ export const clips: Clip[] = [
     "endSeconds": 1913,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "הכנת ההוכחה לכלל המכפלה."
+    "description": "הכנת ההוכחה לכלל המכפלה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7260,7 +7810,8 @@ export const clips: Clip[] = [
     "endSeconds": 2118,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "מניפולציה אלגברית בהוכחת כלל המכפלה."
+    "description": "מניפולציה אלגברית בהוכחת כלל המכפלה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7273,7 +7824,8 @@ export const clips: Clip[] = [
     "endSeconds": 2312,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "השלמת הוכחת כלל המכפלה."
+    "description": "השלמת הוכחת כלל המכפלה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7286,7 +7838,8 @@ export const clips: Clip[] = [
     "endSeconds": 2453,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "תרגיל: הוכחת כלל המנה."
+    "description": "תרגיל: הוכחת כלל המנה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7299,7 +7852,8 @@ export const clips: Clip[] = [
     "endSeconds": 2597,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "נושאים עתידיים: כלל השרשרת, נגזרת פונקציה הפוכה."
+    "description": "נושאים עתידיים: כלל השרשרת, נגזרת פונקציה הפוכה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7312,7 +7866,8 @@ export const clips: Clip[] = [
     "endSeconds": 2707,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "מבוא להגדרה חלופית לגזירות."
+    "description": "מבוא להגדרה חלופית לגזירות.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7325,7 +7880,8 @@ export const clips: Clip[] = [
     "endSeconds": 2914,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "ניסוח משפט הגדרה חלופית לגזירות."
+    "description": "ניסוח משפט הגדרה חלופית לגזירות.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7338,7 +7894,8 @@ export const clips: Clip[] = [
     "endSeconds": 3315,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "הוכחה: מהגדרה חלופית לגזירות."
+    "description": "הוכחה: מהגדרה חלופית לגזירות.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7351,7 +7908,8 @@ export const clips: Clip[] = [
     "endSeconds": 3842,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "הוכחה: מגזירות להגדרה חלופית."
+    "description": "הוכחה: מגזירות להגדרה חלופית.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7364,7 +7922,8 @@ export const clips: Clip[] = [
     "endSeconds": 3912,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "חשיבות ההגדרה לרב-משתנים וכלל השרשרת."
+    "description": "חשיבות ההגדרה לרב-משתנים וכלל השרשרת.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7377,7 +7936,8 @@ export const clips: Clip[] = [
     "endSeconds": 3949,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "מבוא לדוגמת נגזרת טנגנס."
+    "description": "מבוא לדוגמת נגזרת טנגנס.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7390,7 +7950,8 @@ export const clips: Clip[] = [
     "endSeconds": 4020,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "ביטוי טנגנס כמנת סינוס/קוסינוס."
+    "description": "ביטוי טנגנס כמנת סינוס/קוסינוס.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7403,7 +7964,8 @@ export const clips: Clip[] = [
     "endSeconds": 4315,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "חישוב נגזרת טנגנס באמצעות כלל המנה."
+    "description": "חישוב נגזרת טנגנס באמצעות כלל המנה.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7416,7 +7978,8 @@ export const clips: Clip[] = [
     "endSeconds": 4359,
     "lectureName": "הרצאה 39",
     "lectureNumber": 39,
-    "description": "סיכום ודיון על כלל השרשרת."
+    "description": "סיכום ודיון על כלל השרשרת.",
+    "videoTitle": "39 - כללי גזירה"
   },
   {
     "courseId": "infi-1m",
@@ -7429,7 +7992,8 @@ export const clips: Clip[] = [
     "endSeconds": 32,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "סקירת נגזרות, כללים, לקראת כלל השרשרת."
+    "description": "סקירת נגזרות, כללים, לקראת כלל השרשרת.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7442,7 +8006,8 @@ export const clips: Clip[] = [
     "endSeconds": 119,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "ניסוח פורמלי של כלל השרשרת."
+    "description": "ניסוח פורמלי של כלל השרשרת.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7455,7 +8020,8 @@ export const clips: Clip[] = [
     "endSeconds": 196,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "דוגמה: חישוב נגזרת sin(x^2)."
+    "description": "דוגמה: חישוב נגזרת sin(x^2).",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7468,7 +8034,8 @@ export const clips: Clip[] = [
     "endSeconds": 239,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "דוגמה: חישוב נגזרת (sin x)^2."
+    "description": "דוגמה: חישוב נגזרת (sin x)^2.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7481,7 +8048,8 @@ export const clips: Clip[] = [
     "endSeconds": 313,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "דוגמה מורכבת: נגזרת של sqrt(sin(e^x))."
+    "description": "דוגמה מורכבת: נגזרת של sqrt(sin(e^x)).",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7494,7 +8062,8 @@ export const clips: Clip[] = [
     "endSeconds": 569,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "תרגיל: הוכחת כלל השרשרת דרך גבול."
+    "description": "תרגיל: הוכחת כלל השרשרת דרך גבול.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7507,7 +8076,8 @@ export const clips: Clip[] = [
     "endSeconds": 919,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "הכנה להוכחת כלל השרשרת."
+    "description": "הכנה להוכחת כלל השרשרת.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7520,7 +8090,8 @@ export const clips: Clip[] = [
     "endSeconds": 1221,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "יישום הגדרת גזירות שקולה בהוכחה."
+    "description": "יישום הגדרת גזירות שקולה בהוכחה.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7533,7 +8104,8 @@ export const clips: Clip[] = [
     "endSeconds": 1704,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "סיום הוכחת כלל השרשרת."
+    "description": "סיום הוכחת כלל השרשרת.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7546,7 +8118,8 @@ export const clips: Clip[] = [
     "endSeconds": 1919,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "מבוא לנגזרת פונקציה הפוכה ותנאים."
+    "description": "מבוא לנגזרת פונקציה הפוכה ותנאים.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7559,7 +8132,8 @@ export const clips: Clip[] = [
     "endSeconds": 2060,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "ניסוח משפט נגזרת פונקציה הפוכה."
+    "description": "ניסוח משפט נגזרת פונקציה הפוכה.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7572,7 +8146,8 @@ export const clips: Clip[] = [
     "endSeconds": 2325,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "דוגמה: נגזרת e^y כהופכי של ln(x)."
+    "description": "דוגמה: נגזרת e^y כהופכי של ln(x).",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7585,7 +8160,8 @@ export const clips: Clip[] = [
     "endSeconds": 2794,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "דוגמה: נגזרת arcsin(y) וזהויות טריגונומטריות."
+    "description": "דוגמה: נגזרת arcsin(y) וזהויות טריגונומטריות.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7598,7 +8174,8 @@ export const clips: Clip[] = [
     "endSeconds": 2848,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "תרגיל: חישוב נגזרת arctan(y)."
+    "description": "תרגיל: חישוב נגזרת arctan(y).",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7611,7 +8188,8 @@ export const clips: Clip[] = [
     "endSeconds": 3179,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "הוכחת כלל החזקה הכללי באמצעות כלל השרשרת."
+    "description": "הוכחת כלל החזקה הכללי באמצעות כלל השרשרת.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7624,7 +8202,8 @@ export const clips: Clip[] = [
     "endSeconds": 3220,
     "lectureName": "הרצאה 40",
     "lectureNumber": 40,
-    "description": "סיכום ודיון על נגזרות נפוצות."
+    "description": "סיכום ודיון על נגזרות נפוצות.",
+    "videoTitle": "40 - כלל השרשרת"
   },
   {
     "courseId": "infi-1m",
@@ -7637,7 +8216,8 @@ export const clips: Clip[] = [
     "endSeconds": 48,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "סקירת משפט נגזרת פונקציה הפוכה."
+    "description": "סקירת משפט נגזרת פונקציה הפוכה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7650,7 +8230,8 @@ export const clips: Clip[] = [
     "endSeconds": 110,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "מבוא להוכחת נגזרת פונקציה הפוכה."
+    "description": "מבוא להוכחת נגזרת פונקציה הפוכה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7663,7 +8244,8 @@ export const clips: Clip[] = [
     "endSeconds": 261,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "חישוב גבול בנגזרת פונקציה הפוכה."
+    "description": "חישוב גבול בנגזרת פונקציה הפוכה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7676,7 +8258,8 @@ export const clips: Clip[] = [
     "endSeconds": 356,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "בעיית שינוי משתנה הגבול בהוכחה."
+    "description": "בעיית שינוי משתנה הגבול בהוכחה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7689,7 +8272,8 @@ export const clips: Clip[] = [
     "endSeconds": 613,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "הצדקה באמצעות רציפות פונקציה הפוכה."
+    "description": "הצדקה באמצעות רציפות פונקציה הפוכה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7702,7 +8286,8 @@ export const clips: Clip[] = [
     "endSeconds": 668,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "סיום הוכחת נגזרת פונקציה הפוכה."
+    "description": "סיום הוכחת נגזרת פונקציה הפוכה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7715,7 +8300,8 @@ export const clips: Clip[] = [
     "endSeconds": 891,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "הוכחה פחות קפדנית לנגזרת פונקציה הפוכה."
+    "description": "הוכחה פחות קפדנית לנגזרת פונקציה הפוכה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7728,7 +8314,8 @@ export const clips: Clip[] = [
     "endSeconds": 1067,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "הוכחה אינטואיטיבית בסימון לייבניץ."
+    "description": "הוכחה אינטואיטיבית בסימון לייבניץ.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7741,7 +8328,8 @@ export const clips: Clip[] = [
     "endSeconds": 1271,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "כלל השרשרת בסימון לייבניץ."
+    "description": "כלל השרשרת בסימון לייבניץ.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7754,7 +8342,8 @@ export const clips: Clip[] = [
     "endSeconds": 1606,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "הסבר חזותי לנגזרת פונקציה הפוכה."
+    "description": "הסבר חזותי לנגזרת פונקציה הפוכה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7767,7 +8356,8 @@ export const clips: Clip[] = [
     "endSeconds": 1808,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "מבוא וסימון לנגזרות מסדר גבוה."
+    "description": "מבוא וסימון לנגזרות מסדר גבוה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7780,7 +8370,8 @@ export const clips: Clip[] = [
     "endSeconds": 1918,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "כללים פשוטים לנגזרות מסדר גבוה."
+    "description": "כללים פשוטים לנגזרות מסדר גבוה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7793,7 +8384,8 @@ export const clips: Clip[] = [
     "endSeconds": 2179,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "פיתוח והצגת נוסחת לייבניץ לנגזרות מכפלה."
+    "description": "פיתוח והצגת נוסחת לייבניץ לנגזרות מכפלה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7806,7 +8398,8 @@ export const clips: Clip[] = [
     "endSeconds": 2340,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "דוגמה: חישוב נגזרת מסדר גבוה במכפלה."
+    "description": "דוגמה: חישוב נגזרת מסדר גבוה במכפלה.",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7819,7 +8412,8 @@ export const clips: Clip[] = [
     "endSeconds": 2460,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "תרגיל נגזרת מסדר גבוה"
+    "description": "תרגיל נגזרת מסדר גבוה",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7832,7 +8426,8 @@ export const clips: Clip[] = [
     "endSeconds": 2640,
     "lectureName": "הרצאה 41",
     "lectureNumber": 41,
-    "description": "אזהרה: גזירות אינה מבטיחה רציפות נגזרת"
+    "description": "אזהרה: גזירות אינה מבטיחה רציפות נגזרת",
+    "videoTitle": "41 - נגזרת של פונקציה הפוכה"
   },
   {
     "courseId": "infi-1m",
@@ -7845,7 +8440,8 @@ export const clips: Clip[] = [
     "endSeconds": 60,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "הוכחת פונקציה עם נגזרת אפס קבועה"
+    "description": "הוכחת פונקציה עם נגזרת אפס קבועה",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7858,7 +8454,8 @@ export const clips: Clip[] = [
     "endSeconds": 158,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "הוכחה עם משפט לגראנז'"
+    "description": "הוכחה עם משפט לגראנז'",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7871,7 +8468,8 @@ export const clips: Clip[] = [
     "endSeconds": 303,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "מפשט מושגי נגזרות"
+    "description": "מפשט מושגי נגזרות",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7884,7 +8482,8 @@ export const clips: Clip[] = [
     "endSeconds": 366,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "קשר בין סימן הנגזרת למונוטוניות"
+    "description": "קשר בין סימן הנגזרת למונוטוניות",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7897,7 +8496,8 @@ export const clips: Clip[] = [
     "endSeconds": 532,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "הוכחת משפט המונוטוניות"
+    "description": "הוכחת משפט המונוטוניות",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7910,7 +8510,8 @@ export const clips: Clip[] = [
     "endSeconds": 609,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "סיכום והכנה לדוגמאות"
+    "description": "סיכום והכנה לדוגמאות",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7923,7 +8524,8 @@ export const clips: Clip[] = [
     "endSeconds": 662,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "ארקטנגנס פונקציה עולה"
+    "description": "ארקטנגנס פונקציה עולה",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7936,7 +8538,8 @@ export const clips: Clip[] = [
     "endSeconds": 855,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "טעות נפוצה במונוטוניות של 1/x"
+    "description": "טעות נפוצה במונוטוניות של 1/x",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7949,7 +8552,8 @@ export const clips: Clip[] = [
     "endSeconds": 903,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "היישום הנכון ל-1/x"
+    "description": "היישום הנכון ל-1/x",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7962,7 +8566,8 @@ export const clips: Clip[] = [
     "endSeconds": 975,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "האם הכיוון ההפוך נכון?"
+    "description": "האם הכיוון ההפוך נכון?",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7975,7 +8580,8 @@ export const clips: Clip[] = [
     "endSeconds": 1079,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "מונוטוניות לא חזקה והכיוון ההפוך"
+    "description": "מונוטוניות לא חזקה והכיוון ההפוך",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -7988,7 +8594,8 @@ export const clips: Clip[] = [
     "endSeconds": 1154,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "מעבר למשפט קושי"
+    "description": "מעבר למשפט קושי",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8001,7 +8608,8 @@ export const clips: Clip[] = [
     "endSeconds": 1276,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "משפט קושי: הצהרה והוכחה"
+    "description": "משפט קושי: הצהרה והוכחה",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8014,7 +8622,8 @@ export const clips: Clip[] = [
     "endSeconds": 1390,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "המסקנה העיקרית של משפט קושי"
+    "description": "המסקנה העיקרית של משפט קושי",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8027,7 +8636,8 @@ export const clips: Clip[] = [
     "endSeconds": 1559,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "הוכחה שגויה ופונקציית עזר"
+    "description": "הוכחה שגויה ופונקציית עזר",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8040,7 +8650,8 @@ export const clips: Clip[] = [
     "endSeconds": 1658,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "לגראנז' כמקרה פרטי של קושי"
+    "description": "לגראנז' כמקרה פרטי של קושי",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8053,7 +8664,8 @@ export const clips: Clip[] = [
     "endSeconds": 1868,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "היכרות עם עקומות פרמטריות"
+    "description": "היכרות עם עקומות פרמטריות",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8066,7 +8678,8 @@ export const clips: Clip[] = [
     "endSeconds": 1994,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "דוגמה: קטע פרבולה פרמטרית"
+    "description": "דוגמה: קטע פרבולה פרמטרית",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8079,7 +8692,8 @@ export const clips: Clip[] = [
     "endSeconds": 2160,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "דוגמה: מעגל פרמטרי"
+    "description": "דוגמה: מעגל פרמטרי",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8092,7 +8706,8 @@ export const clips: Clip[] = [
     "endSeconds": 2406,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "גזירת שיפוע משיק פרמטרי"
+    "description": "גזירת שיפוע משיק פרמטרי",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8105,7 +8720,8 @@ export const clips: Clip[] = [
     "endSeconds": 2630,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "אינטואיציה גיאומטרית למשפט קושי"
+    "description": "אינטואיציה גיאומטרית למשפט קושי",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8118,7 +8734,8 @@ export const clips: Clip[] = [
     "endSeconds": 2700,
     "lectureName": "הרצאה 43",
     "lectureNumber": 43,
-    "description": "חשיבות משפט קושי"
+    "description": "חשיבות משפט קושי",
+    "videoTitle": "43 - משפטי גזירות - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -8131,7 +8748,8 @@ export const clips: Clip[] = [
     "endSeconds": 10,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "היכרות עם משפט דרבו"
+    "description": "היכרות עם משפט דרבו",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8144,7 +8762,8 @@ export const clips: Clip[] = [
     "endSeconds": 140,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "ניסוח משפט דרבו"
+    "description": "ניסוח משפט דרבו",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8157,7 +8776,8 @@ export const clips: Clip[] = [
     "endSeconds": 128,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "הסבר ראשוני וקשר לערך הביניים"
+    "description": "הסבר ראשוני וקשר לערך הביניים",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8170,7 +8790,8 @@ export const clips: Clip[] = [
     "endSeconds": 287,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "גזירות לא גוררת רציפות נגזרת"
+    "description": "גזירות לא גוררת רציפות נגזרת",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8183,7 +8804,8 @@ export const clips: Clip[] = [
     "endSeconds": 365,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "נגזרת לא בהכרח חסומה"
+    "description": "נגזרת לא בהכרח חסומה",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8196,7 +8818,8 @@ export const clips: Clip[] = [
     "endSeconds": 457,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "הגדרת גזירות בקטע סגור"
+    "description": "הגדרת גזירות בקטע סגור",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8209,7 +8832,8 @@ export const clips: Clip[] = [
     "endSeconds": 481,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "דוגמה לנגזרת לא חסומה"
+    "description": "דוגמה לנגזרת לא חסומה",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8222,7 +8846,8 @@ export const clips: Clip[] = [
     "endSeconds": 805,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "חלק א' בהוכחה: פונקציית עזר"
+    "description": "חלק א' בהוכחה: פונקציית עזר",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8235,7 +8860,8 @@ export const clips: Clip[] = [
     "endSeconds": 1481,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "חלק ב' בהוכחה: אקסטרמום פנימי"
+    "description": "חלק ב' בהוכחה: אקסטרמום פנימי",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8248,7 +8874,8 @@ export const clips: Clip[] = [
     "endSeconds": 1554,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "הבהרות להוכחה"
+    "description": "הבהרות להוכחה",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8261,7 +8888,8 @@ export const clips: Clip[] = [
     "endSeconds": 1909,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "פונקציה קפיצתית אינה נגזרת"
+    "description": "פונקציה קפיצתית אינה נגזרת",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8274,7 +8902,8 @@ export const clips: Clip[] = [
     "endSeconds": 2102,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "הפונקציה 1/x אינה נגזרת"
+    "description": "הפונקציה 1/x אינה נגזרת",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8287,7 +8916,8 @@ export const clips: Clip[] = [
     "endSeconds": 2260,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "פונקציה רציפה תמיד נגזרת"
+    "description": "פונקציה רציפה תמיד נגזרת",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8300,7 +8930,8 @@ export const clips: Clip[] = [
     "endSeconds": 2507,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "מסקנה מדרבו: אי-רציפויות של נגזרות"
+    "description": "מסקנה מדרבו: אי-רציפויות של נגזרות",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8313,7 +8944,8 @@ export const clips: Clip[] = [
     "endSeconds": 2583,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "הבהרה על נגזרת 1/x ו-ln(x)"
+    "description": "הבהרה על נגזרת 1/x ו-ln(x)",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8326,7 +8958,8 @@ export const clips: Clip[] = [
     "endSeconds": 2770,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "הנגזרת רציפה אם גבולה קיים"
+    "description": "הנגזרת רציפה אם גבולה קיים",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8339,7 +8972,8 @@ export const clips: Clip[] = [
     "endSeconds": 2860,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "הערה על גבולות חד-צדדיים של נגזרת."
+    "description": "הערה על גבולות חד-צדדיים של נגזרת.",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8352,7 +8986,8 @@ export const clips: Clip[] = [
     "endSeconds": 3190,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "הוכחה לאי-רציפות מהותית של נגזרות."
+    "description": "הוכחה לאי-רציפות מהותית של נגזרות.",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8365,7 +9000,8 @@ export const clips: Clip[] = [
     "endSeconds": 3242,
     "lectureName": "הרצאה 44",
     "lectureNumber": 44,
-    "description": "סיכום נושאים וצעדים הבאים."
+    "description": "סיכום נושאים וצעדים הבאים.",
+    "videoTitle": "44 - משפט דרבו"
   },
   {
     "courseId": "infi-1m",
@@ -8378,7 +9014,8 @@ export const clips: Clip[] = [
     "endSeconds": 15,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "משפט: גבול נגזרת גורר גזירות."
+    "description": "משפט: גבול נגזרת גורר גזירות.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8391,7 +9028,8 @@ export const clips: Clip[] = [
     "endSeconds": 31,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "אסטרטגיה: השוואת נגזרות חד-צדדיות."
+    "description": "אסטרטגיה: השוואת נגזרות חד-צדדיות.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8404,7 +9042,8 @@ export const clips: Clip[] = [
     "endSeconds": 114,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הכנה למשפט ערך הביניים."
+    "description": "הכנה למשפט ערך הביניים.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8417,7 +9056,8 @@ export const clips: Clip[] = [
     "endSeconds": 151,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "יישום משפט לגרנז'."
+    "description": "יישום משפט לגרנז'.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8430,7 +9070,8 @@ export const clips: Clip[] = [
     "endSeconds": 287,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הסבר סימון בגרנז'."
+    "description": "הסבר סימון בגרנז'.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8443,7 +9084,8 @@ export const clips: Clip[] = [
     "endSeconds": 305,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "חזרה על משפט לגרנז'."
+    "description": "חזרה על משפט לגרנז'.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8456,7 +9098,8 @@ export const clips: Clip[] = [
     "endSeconds": 423,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "ניתוח גבול ארגומנט."
+    "description": "ניתוח גבול ארגומנט.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8469,7 +9112,8 @@ export const clips: Clip[] = [
     "endSeconds": 533,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הוכחת גזירות מימין."
+    "description": "הוכחת גזירות מימין.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8482,7 +9126,8 @@ export const clips: Clip[] = [
     "endSeconds": 599,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "דיון ומעבר לדוגמה."
+    "description": "דיון ומעבר לדוגמה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8495,7 +9140,8 @@ export const clips: Clip[] = [
     "endSeconds": 657,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הגדרת פונקציה לדוגמה."
+    "description": "הגדרת פונקציה לדוגמה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8508,7 +9154,8 @@ export const clips: Clip[] = [
     "endSeconds": 721,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "לא כל פונקציה אלמנטרית גזירה."
+    "description": "לא כל פונקציה אלמנטרית גזירה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8521,7 +9168,8 @@ export const clips: Clip[] = [
     "endSeconds": 840,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "חישוב נגזרת ימנית ב-0."
+    "description": "חישוב נגזרת ימנית ב-0.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8534,7 +9182,8 @@ export const clips: Clip[] = [
     "endSeconds": 933,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "חישוב נגזרת שמאלית ב-0."
+    "description": "חישוב נגזרת שמאלית ב-0.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8547,7 +9196,8 @@ export const clips: Clip[] = [
     "endSeconds": 963,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "מסקנה: `f'(0)` קיים ושווה 0."
+    "description": "מסקנה: `f'(0)` קיים ושווה 0.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8560,7 +9210,8 @@ export const clips: Clip[] = [
     "endSeconds": 1108,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "חישוב `f'(x)` עבור `x` שונה מ-0."
+    "description": "חישוב `f'(x)` עבור `x` שונה מ-0.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8573,7 +9224,8 @@ export const clips: Clip[] = [
     "endSeconds": 1211,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הבדל: גזירה לפי הגדרה מול כללים."
+    "description": "הבדל: גזירה לפי הגדרה מול כללים.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8586,7 +9238,8 @@ export const clips: Clip[] = [
     "endSeconds": 1320,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הנגזרת `f'(x)` אינה חסומה."
+    "description": "הנגזרת `f'(x)` אינה חסומה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8599,7 +9252,8 @@ export const clips: Clip[] = [
     "endSeconds": 1420,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "תנודות לא חסומות של `f'(x)`."
+    "description": "תנודות לא חסומות של `f'(x)`.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8612,7 +9266,8 @@ export const clips: Clip[] = [
     "endSeconds": 1459,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "אי-רציפות מהותית ומשפט ערך הביניים."
+    "description": "אי-רציפות מהותית ומשפט ערך הביניים.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8625,7 +9280,8 @@ export const clips: Clip[] = [
     "endSeconds": 1503,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "חשיבות השליטה בגזירה."
+    "description": "חשיבות השליטה בגזירה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8638,7 +9294,8 @@ export const clips: Clip[] = [
     "endSeconds": 1561,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "האם נגזרת תמיד חסומה?"
+    "description": "האם נגזרת תמיד חסומה?",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8651,7 +9308,8 @@ export const clips: Clip[] = [
     "endSeconds": 1645,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "נגזרת חסומה גוררת רציפות במ\"ש."
+    "description": "נגזרת חסומה גוררת רציפות במ\"ש.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8664,7 +9322,8 @@ export const clips: Clip[] = [
     "endSeconds": 1726,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הגדרת נגזרת חסומה."
+    "description": "הגדרת נגזרת חסומה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8677,7 +9336,8 @@ export const clips: Clip[] = [
     "endSeconds": 1811,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "תזכורת: רציפות במ\"ש."
+    "description": "תזכורת: רציפות במ\"ש.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8690,7 +9350,8 @@ export const clips: Clip[] = [
     "endSeconds": 1906,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "חיבור משפט ערך הביניים לרציפות במ\"ש."
+    "description": "חיבור משפט ערך הביניים לרציפות במ\"ש.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8703,7 +9364,8 @@ export const clips: Clip[] = [
     "endSeconds": 1991,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הוכחה: נגזרת חסומה גוררת רציפות במ\"ש."
+    "description": "הוכחה: נגזרת חסומה גוררת רציפות במ\"ש.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8716,7 +9378,8 @@ export const clips: Clip[] = [
     "endSeconds": 2055,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "דיון בפרטי ההוכחה."
+    "description": "דיון בפרטי ההוכחה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8729,7 +9392,8 @@ export const clips: Clip[] = [
     "endSeconds": 2141,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "דוגמה נגדית: רציפה במ\"ש, נגזרת לא חסומה."
+    "description": "דוגמה נגדית: רציפה במ\"ש, נגזרת לא חסומה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8742,7 +9406,8 @@ export const clips: Clip[] = [
     "endSeconds": 2205,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "הגדרת פונקציית ליפשיץ."
+    "description": "הגדרת פונקציית ליפשיץ.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8755,7 +9420,8 @@ export const clips: Clip[] = [
     "endSeconds": 2282,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "נגזרת חסומה גוררת ליפשיץ."
+    "description": "נגזרת חסומה גוררת ליפשיץ.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8768,7 +9434,8 @@ export const clips: Clip[] = [
     "endSeconds": 2327,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "שרשרת גרירות תכונות גזירות."
+    "description": "שרשרת גרירות תכונות גזירות.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8781,7 +9448,8 @@ export const clips: Clip[] = [
     "endSeconds": 2448,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "גרירות הפוכות אינן נכונות."
+    "description": "גרירות הפוכות אינן נכונות.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8794,7 +9462,8 @@ export const clips: Clip[] = [
     "endSeconds": 2643,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "ליפשיץ, גזירות, ונגזרת חסומה."
+    "description": "ליפשיץ, גזירות, ונגזרת חסומה.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8807,7 +9476,8 @@ export const clips: Clip[] = [
     "endSeconds": 2697,
     "lectureName": "הרצאה 45",
     "lectureNumber": 45,
-    "description": "סיום נושא נגזרות."
+    "description": "סיום נושא נגזרות.",
+    "videoTitle": "45 - נגזרת חסומה ורציפות במ\"ש"
   },
   {
     "courseId": "infi-1m",
@@ -8820,7 +9490,8 @@ export const clips: Clip[] = [
     "endSeconds": 70,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "מבוא לכלל לופיטל."
+    "description": "מבוא לכלל לופיטל.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8833,7 +9504,8 @@ export const clips: Clip[] = [
     "endSeconds": 120,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "רעיון בסיסי של כלל לופיטל."
+    "description": "רעיון בסיסי של כלל לופיטל.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8846,7 +9518,8 @@ export const clips: Clip[] = [
     "endSeconds": 180,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "נוסחת הליבה של כלל לופיטל."
+    "description": "נוסחת הליבה של כלל לופיטל.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8859,7 +9532,8 @@ export const clips: Clip[] = [
     "endSeconds": 290,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "הדגמת כלל לופיטל לגבול."
+    "description": "הדגמת כלל לופיטל לגבול.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8872,7 +9546,8 @@ export const clips: Clip[] = [
     "endSeconds": 320,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "הסבר מיקום כלל לופיטל."
+    "description": "הסבר מיקום כלל לופיטל.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8885,7 +9560,8 @@ export const clips: Clip[] = [
     "endSeconds": 600,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "הגדרת לופיטל והרחבות."
+    "description": "הגדרת לופיטל והרחבות.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8898,7 +9574,8 @@ export const clips: Clip[] = [
     "endSeconds": 770,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "יישום לופיטל לגבול ln(x)/(x-1)."
+    "description": "יישום לופיטל לגבול ln(x)/(x-1).",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8911,7 +9588,8 @@ export const clips: Clip[] = [
     "endSeconds": 1005,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "גבול מורכב עם לופיטל ופישוט."
+    "description": "גבול מורכב עם לופיטל ופישוט.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8924,7 +9602,8 @@ export const clips: Clip[] = [
     "endSeconds": 1350,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "כישלון לופיטל ושיטה חלופית."
+    "description": "כישלון לופיטל ושיטה חלופית.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8937,7 +9616,8 @@ export const clips: Clip[] = [
     "endSeconds": 1710,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "לולאת לופיטל ושיטה אלגברית."
+    "description": "לולאת לופיטל ושיטה אלגברית.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8950,7 +9630,8 @@ export const clips: Clip[] = [
     "endSeconds": 1980,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "דוגמה לטעות ביישום לופיטל."
+    "description": "דוגמה לטעות ביישום לופיטל.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8963,7 +9644,8 @@ export const clips: Clip[] = [
     "endSeconds": 2635,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "גבול מורכב: אלגברה ולופיטל."
+    "description": "גבול מורכב: אלגברה ולופיטל.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8976,7 +9658,8 @@ export const clips: Clip[] = [
     "endSeconds": 3180,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "גבול פולינום חלקי אקספוננט."
+    "description": "גבול פולינום חלקי אקספוננט.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -8989,7 +9672,8 @@ export const clips: Clip[] = [
     "endSeconds": 3225,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "גבול לוגריתם חלקי פולינום."
+    "description": "גבול לוגריתם חלקי פולינום.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -9002,7 +9686,8 @@ export const clips: Clip[] = [
     "endSeconds": 3271,
     "lectureName": "הרצאה 46",
     "lectureNumber": 46,
-    "description": "סיכום ונושאי ההמשך."
+    "description": "סיכום ונושאי ההמשך.",
+    "videoTitle": "46 - כלל לופיטל"
   },
   {
     "courseId": "infi-1m",
@@ -9015,7 +9700,8 @@ export const clips: Clip[] = [
     "endSeconds": 300,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "אסטרטגיית הוכחת כלל לופיטל."
+    "description": "אסטרטגיית הוכחת כלל לופיטל.",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9028,7 +9714,8 @@ export const clips: Clip[] = [
     "endSeconds": 856,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "הוכחת לופיטל ל-0/0."
+    "description": "הוכחת לופיטל ל-0/0.",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9041,7 +9728,8 @@ export const clips: Clip[] = [
     "endSeconds": 1007,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "סיום הוכחת לופיטל (0/0)."
+    "description": "סיום הוכחת לופיטל (0/0).",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9054,7 +9742,8 @@ export const clips: Clip[] = [
     "endSeconds": 1322,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "מבוא להוכחת לופיטל לאינסוף."
+    "description": "מבוא להוכחת לופיטל לאינסוף.",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9067,7 +9756,8 @@ export const clips: Clip[] = [
     "endSeconds": 1801,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "הוכחת לופיטל (0/0, x→∞)."
+    "description": "הוכחת לופיטל (0/0, x→∞).",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9080,7 +9770,8 @@ export const clips: Clip[] = [
     "endSeconds": 1927,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "יישומים עקיפים ללופיטל."
+    "description": "יישומים עקיפים ללופיטל.",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9093,7 +9784,8 @@ export const clips: Clip[] = [
     "endSeconds": 2227,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "לופיטל לצורת 0 · (-∞)."
+    "description": "לופיטל לצורת 0 · (-∞).",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9106,7 +9798,8 @@ export const clips: Clip[] = [
     "endSeconds": 2647,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "לופיטל לצורת 0^0."
+    "description": "לופיטל לצורת 0^0.",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9119,7 +9812,8 @@ export const clips: Clip[] = [
     "endSeconds": 3050,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "לופיטל לצורות 0 · ∞ ו-∞ - ∞."
+    "description": "לופיטל לצורות 0 · ∞ ו-∞ - ∞.",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9132,7 +9826,8 @@ export const clips: Clip[] = [
     "endSeconds": 3109,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "תרגיל: לופיטל ל-1^∞."
+    "description": "תרגיל: לופיטל ל-1^∞.",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9145,7 +9840,8 @@ export const clips: Clip[] = [
     "endSeconds": 3116,
     "lectureName": "הרצאה 47",
     "lectureNumber": 47,
-    "description": "מבוא לטורי טיילור."
+    "description": "מבוא לטורי טיילור.",
+    "videoTitle": "47 - כלל לופיטל  - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9158,7 +9854,8 @@ export const clips: Clip[] = [
     "endSeconds": 22,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "מבוא למשפט טיילור."
+    "description": "מבוא למשפט טיילור.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9171,7 +9868,8 @@ export const clips: Clip[] = [
     "endSeconds": 44,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "הצגת בעיית קירוב פונקציה."
+    "description": "הצגת בעיית קירוב פונקציה.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9184,7 +9882,8 @@ export const clips: Clip[] = [
     "endSeconds": 104,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "סינוס וקו משיק ב-x=0."
+    "description": "סינוס וקו משיק ב-x=0.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9197,7 +9896,8 @@ export const clips: Clip[] = [
     "endSeconds": 204,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "גזירת משוואת קו משיק."
+    "description": "גזירת משוואת קו משיק.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9210,7 +9910,8 @@ export const clips: Clip[] = [
     "endSeconds": 246,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "מציאת משיק ל-sin(x) ב-x=0."
+    "description": "מציאת משיק ל-sin(x) ב-x=0.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9223,7 +9924,8 @@ export const clips: Clip[] = [
     "endSeconds": 336,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "קירוב ויזואלי של משיק."
+    "description": "קירוב ויזואלי של משיק.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9236,7 +9938,8 @@ export const clips: Clip[] = [
     "endSeconds": 515,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "הפרש בין פונקציה למשיק."
+    "description": "הפרש בין פונקציה למשיק.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9249,7 +9952,8 @@ export const clips: Clip[] = [
     "endSeconds": 736,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "גבול יחס ההפרש בקירוב."
+    "description": "גבול יחס ההפרש בקירוב.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9262,7 +9966,8 @@ export const clips: Clip[] = [
     "endSeconds": 846,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "הגדרת קירוב לינארי (משיק)."
+    "description": "הגדרת קירוב לינארי (משיק).",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9275,7 +9980,8 @@ export const clips: Clip[] = [
     "endSeconds": 1143,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "קירוב לינארי ל-sin(x) ב-pi/4."
+    "description": "קירוב לינארי ל-sin(x) ב-pi/4.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9288,7 +9994,8 @@ export const clips: Clip[] = [
     "endSeconds": 1500,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "צורך בקירוב מדויק יותר."
+    "description": "צורך בקירוב מדויק יותר.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9301,7 +10008,8 @@ export const clips: Clip[] = [
     "endSeconds": 1609,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "קירוב פולינומי מסדר שלישי."
+    "description": "קירוב פולינומי מסדר שלישי.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9314,7 +10022,8 @@ export const clips: Clip[] = [
     "endSeconds": 1828,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "קירוב קובי ל-sin(x) ב-pi/4."
+    "description": "קירוב קובי ל-sin(x) ב-pi/4.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9327,7 +10036,8 @@ export const clips: Clip[] = [
     "endSeconds": 2224,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "הכללת קירוב לינארי ל-x0."
+    "description": "הכללת קירוב לינארי ל-x0.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9340,7 +10050,8 @@ export const clips: Clip[] = [
     "endSeconds": 2517,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "הצגת איבר השארית R(x)."
+    "description": "הצגת איבר השארית R(x).",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9353,7 +10064,8 @@ export const clips: Clip[] = [
     "endSeconds": 3232,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "הצגת משפט טיילור."
+    "description": "הצגת משפט טיילור.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9366,7 +10078,8 @@ export const clips: Clip[] = [
     "endSeconds": 3335,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "הבהרה על איבר השארית."
+    "description": "הבהרה על איבר השארית.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9379,7 +10092,8 @@ export const clips: Clip[] = [
     "endSeconds": 3836,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "אסטרטגיה לבניית קירוב פולינומי."
+    "description": "אסטרטגיה לבניית קירוב פולינומי.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9392,7 +10106,8 @@ export const clips: Clip[] = [
     "endSeconds": 4103,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "טענה: נגזרות ב-x=0 ומקדמים."
+    "description": "טענה: נגזרות ב-x=0 ומקדמים.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9405,7 +10120,8 @@ export const clips: Clip[] = [
     "endSeconds": 4411,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "נגזרות ב-x=0 קובעות פולינום."
+    "description": "נגזרות ב-x=0 קובעות פולינום.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9418,7 +10134,8 @@ export const clips: Clip[] = [
     "endSeconds": 4853,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "הוכחה מפורטת לטענת העזר."
+    "description": "הוכחה מפורטת לטענת העזר.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9431,7 +10148,8 @@ export const clips: Clip[] = [
     "endSeconds": 5512,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "בניית פולינומי טיילור ל-sin(x)."
+    "description": "בניית פולינומי טיילור ל-sin(x).",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9444,7 +10162,8 @@ export const clips: Clip[] = [
     "endSeconds": 6005,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "דיוק קירוב טיילור ל-sin(x)."
+    "description": "דיוק קירוב טיילור ל-sin(x).",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9457,7 +10176,8 @@ export const clips: Clip[] = [
     "endSeconds": 6056,
     "lectureName": "הרצאה 48",
     "lectureNumber": 48,
-    "description": "סיכום וצעדים הבאים למשפט טיילור."
+    "description": "סיכום וצעדים הבאים למשפט טיילור.",
+    "videoTitle": "48 - משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9470,7 +10190,8 @@ export const clips: Clip[] = [
     "endSeconds": 70,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "מטרה: קירוב פונקציות בפולינומים."
+    "description": "מטרה: קירוב פונקציות בפולינומים.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9483,7 +10204,8 @@ export const clips: Clip[] = [
     "endSeconds": 195,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "ייצוג פולינומי חלופי."
+    "description": "ייצוג פולינומי חלופי.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9496,7 +10218,8 @@ export const clips: Clip[] = [
     "endSeconds": 270,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "נגזרות ב-x0 קובעות מקדמי פולינום."
+    "description": "נגזרות ב-x0 קובעות מקדמי פולינום.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9509,7 +10232,8 @@ export const clips: Clip[] = [
     "endSeconds": 455,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "הגדרת פולינום טיילור."
+    "description": "הגדרת פולינום טיילור.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9522,7 +10246,8 @@ export const clips: Clip[] = [
     "endSeconds": 506,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "הגדרת פולינום מקלורן."
+    "description": "הגדרת פולינום מקלורן.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9535,7 +10260,8 @@ export const clips: Clip[] = [
     "endSeconds": 710,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "חישוב פולינום מקלורן ל-e^x."
+    "description": "חישוב פולינום מקלורן ל-e^x.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9548,7 +10274,8 @@ export const clips: Clip[] = [
     "endSeconds": 739,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "דיון על התכנסות טור טיילור."
+    "description": "דיון על התכנסות טור טיילור.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9561,7 +10288,8 @@ export const clips: Clip[] = [
     "endSeconds": 810,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "חזרה: מקלורן עבור sin(x)."
+    "description": "חזרה: מקלורן עבור sin(x).",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9574,7 +10302,8 @@ export const clips: Clip[] = [
     "endSeconds": 1104,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "דוגמה: פולינום טיילור לפונקציה פולינומית."
+    "description": "דוגמה: פולינום טיילור לפונקציה פולינומית.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9587,7 +10316,8 @@ export const clips: Clip[] = [
     "endSeconds": 1393,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "גזירת פולינום מקלורן ל-ln(1+x)."
+    "description": "גזירת פולינום מקלורן ל-ln(1+x).",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9600,7 +10330,8 @@ export const clips: Clip[] = [
     "endSeconds": 1823,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "פונקציה פתולוגית ופולינום טיילור אפס."
+    "description": "פונקציה פתולוגית ופולינום טיילור אפס.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9613,7 +10344,8 @@ export const clips: Clip[] = [
     "endSeconds": 2045,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "הצגת משפט טיילור."
+    "description": "הצגת משפט טיילור.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9626,7 +10358,8 @@ export const clips: Clip[] = [
     "endSeconds": 2225,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "חשיבות שארית טיילור."
+    "description": "חשיבות שארית טיילור.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9639,7 +10372,8 @@ export const clips: Clip[] = [
     "endSeconds": 2367,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "תכונות שארית טיילור."
+    "description": "תכונות שארית טיילור.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9652,7 +10386,8 @@ export const clips: Clip[] = [
     "endSeconds": 2536,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "טיילור כהכללה של משפט הערך הממוצע."
+    "description": "טיילור כהכללה של משפט הערך הממוצע.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9665,7 +10400,8 @@ export const clips: Clip[] = [
     "endSeconds": 2575,
     "lectureName": "הרצאה 49",
     "lectureNumber": 49,
-    "description": "נושאים להרצאה הבאה."
+    "description": "נושאים להרצאה הבאה.",
+    "videoTitle": "49 - משפט טיילור - המשך"
   },
   {
     "courseId": "infi-1m",
@@ -9678,7 +10414,8 @@ export const clips: Clip[] = [
     "endSeconds": 117,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "סקירה: משפט טיילור ושארית לגרנז'."
+    "description": "סקירה: משפט טיילור ושארית לגרנז'.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9691,7 +10428,8 @@ export const clips: Clip[] = [
     "endSeconds": 300,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "מטרת משפט טיילור: חישוב e."
+    "description": "מטרת משפט טיילור: חישוב e.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9704,7 +10442,8 @@ export const clips: Clip[] = [
     "endSeconds": 405,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "הגדרת חישוב e ודיוק."
+    "description": "הגדרת חישוב e ודיוק.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9717,7 +10456,8 @@ export const clips: Clip[] = [
     "endSeconds": 520,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "פיתוח טור מקלורן ל-e^x."
+    "description": "פיתוח טור מקלורן ל-e^x.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9730,7 +10470,8 @@ export const clips: Clip[] = [
     "endSeconds": 730,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "ביטוי e כסכום טיילור."
+    "description": "ביטוי e כסכום טיילור.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9743,7 +10484,8 @@ export const clips: Clip[] = [
     "endSeconds": 1040,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "אומדן שארית Rn(1) ל-e^x."
+    "description": "אומדן שארית Rn(1) ל-e^x.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9756,7 +10498,8 @@ export const clips: Clip[] = [
     "endSeconds": 1340,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "קביעת n לדיוק נדרש."
+    "description": "קביעת n לדיוק נדרש.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9769,7 +10512,8 @@ export const clips: Clip[] = [
     "endSeconds": 1519,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "חישוב קירוב מספרי ל-e."
+    "description": "חישוב קירוב מספרי ל-e.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9782,7 +10526,8 @@ export const clips: Clip[] = [
     "endSeconds": 1822,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "המרת עשרוני ובדיקת דיוק."
+    "description": "המרת עשרוני ובדיקת דיוק.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9795,7 +10540,8 @@ export const clips: Clip[] = [
     "endSeconds": 1918,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "השוואה לערך המחשבון."
+    "description": "השוואה לערך המחשבון.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9808,7 +10554,8 @@ export const clips: Clip[] = [
     "endSeconds": 2204,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "הבהרה על שארית ואסטרטגיית קירוב."
+    "description": "הבהרה על שארית ואסטרטגיית קירוב.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9821,7 +10568,8 @@ export const clips: Clip[] = [
     "endSeconds": 2600,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "הוכחת אי-רציונליות של e."
+    "description": "הוכחת אי-רציונליות של e.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9834,7 +10582,8 @@ export const clips: Clip[] = [
     "endSeconds": 3100,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "מניפולציה אלגברית להוכחה."
+    "description": "מניפולציה אלגברית להוכחה.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9847,7 +10596,8 @@ export const clips: Clip[] = [
     "endSeconds": 3318,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "גזירת סתירה והוכחת אי-רציונליות."
+    "description": "גזירת סתירה והוכחת אי-רציונליות.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9860,7 +10610,8 @@ export const clips: Clip[] = [
     "endSeconds": 3516,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "תרגיל: קירוב שורשים בטיילור."
+    "description": "תרגיל: קירוב שורשים בטיילור.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9873,7 +10624,8 @@ export const clips: Clip[] = [
     "endSeconds": 3810,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "שאלות תיאורטיות על התכנסות שארית."
+    "description": "שאלות תיאורטיות על התכנסות שארית.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9886,7 +10638,8 @@ export const clips: Clip[] = [
     "endSeconds": 4204,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "דוגמה נגדית: שארית אינה מתכנסת."
+    "description": "דוגמה נגדית: שארית אינה מתכנסת.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9899,7 +10652,8 @@ export const clips: Clip[] = [
     "endSeconds": 4608,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "תנאים מספקים להתכנסות שארית לאפס."
+    "description": "תנאים מספקים להתכנסות שארית לאפס.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9912,7 +10666,8 @@ export const clips: Clip[] = [
     "endSeconds": 4903,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "דוגמאות לפונקציות עם שארית מתכנסת."
+    "description": "דוגמאות לפונקציות עם שארית מתכנסת.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9925,7 +10680,8 @@ export const clips: Clip[] = [
     "endSeconds": 5000,
     "lectureName": "הרצאה 50",
     "lectureNumber": 50,
-    "description": "סיכום, הוכחה ושאלה עתידית."
+    "description": "סיכום, הוכחה ושאלה עתידית.",
+    "videoTitle": "50 - שימושים של משפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9938,7 +10694,8 @@ export const clips: Clip[] = [
     "endSeconds": 27,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "שתי שאלות עיקריות על שארית טיילור."
+    "description": "שתי שאלות עיקריות על שארית טיילור.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9951,7 +10708,8 @@ export const clips: Clip[] = [
     "endSeconds": 50,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "השארית מתכנסת אם הנגזרות חסומות."
+    "description": "השארית מתכנסת אם הנגזרות חסומות.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9964,7 +10722,8 @@ export const clips: Clip[] = [
     "endSeconds": 114,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הבהרת תנאי משפט לגבי חסימות."
+    "description": "הבהרת תנאי משפט לגבי חסימות.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9977,7 +10736,8 @@ export const clips: Clip[] = [
     "endSeconds": 131,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הכנה להוכחת התכנסות שארית (n→∞)."
+    "description": "הכנה להוכחת התכנסות שארית (n→∞).",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -9990,7 +10750,8 @@ export const clips: Clip[] = [
     "endSeconds": 200,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "תחילת ההוכחה באמצעות שארית לגראנז'."
+    "description": "תחילת ההוכחה באמצעות שארית לגראנז'.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10003,7 +10764,8 @@ export const clips: Clip[] = [
     "endSeconds": 320,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "השארית כסדרה מתכנסת לאפס."
+    "description": "השארית כסדרה מתכנסת לאפס.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10016,7 +10778,8 @@ export const clips: Clip[] = [
     "endSeconds": 387,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הוכחת התכנסות סדרה באמצעות מבחן המנה."
+    "description": "הוכחת התכנסות סדרה באמצעות מבחן המנה.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10029,7 +10792,8 @@ export const clips: Clip[] = [
     "endSeconds": 529,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "סיום הוכחת התכנסות שארית לאפס."
+    "description": "סיום הוכחת התכנסות שארית לאפס.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10042,7 +10806,8 @@ export const clips: Clip[] = [
     "endSeconds": 549,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "סיכום התכנסות שארית (n→∞)."
+    "description": "סיכום התכנסות שארית (n→∞).",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10055,7 +10820,8 @@ export const clips: Clip[] = [
     "endSeconds": 713,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "התנהגות שארית כאשר x→x0."
+    "description": "התנהגות שארית כאשר x→x0.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10068,7 +10834,8 @@ export const clips: Clip[] = [
     "endSeconds": 839,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "דיון על הוכחת משפט חזק, מורכבת."
+    "description": "דיון על הוכחת משפט חזק, מורכבת.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10081,7 +10848,8 @@ export const clips: Clip[] = [
     "endSeconds": 923,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הוכחה מפושטת להתכנסות שארית (x→x0)."
+    "description": "הוכחה מפושטת להתכנסות שארית (x→x0).",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10094,7 +10862,8 @@ export const clips: Clip[] = [
     "endSeconds": 1016,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "סיום הוכחה מפושטת להתכנסות שארית."
+    "description": "סיום הוכחה מפושטת להתכנסות שארית.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10107,7 +10876,8 @@ export const clips: Clip[] = [
     "endSeconds": 1121,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הבהרת תנאים לסוגי הוכחות שארית."
+    "description": "הבהרת תנאים לסוגי הוכחות שארית.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10120,7 +10890,8 @@ export const clips: Clip[] = [
     "endSeconds": 1200,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הצגת והגדרת סימון 'o קטן'."
+    "description": "הצגת והגדרת סימון 'o קטן'.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10133,7 +10904,8 @@ export const clips: Clip[] = [
     "endSeconds": 1312,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "אזהרות וכללי שימוש ב-o קטן."
+    "description": "אזהרות וכללי שימוש ב-o קטן.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10146,7 +10918,8 @@ export const clips: Clip[] = [
     "endSeconds": 1351,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "דוגמה לחישוב גבול בשימוש טיילור."
+    "description": "דוגמה לחישוב גבול בשימוש טיילור.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10159,7 +10932,8 @@ export const clips: Clip[] = [
     "endSeconds": 1439,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "אסטרטגיה לחישוב גבול באמצעות פולינום טיילור."
+    "description": "אסטרטגיה לחישוב גבול באמצעות פולינום טיילור.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10172,7 +10946,8 @@ export const clips: Clip[] = [
     "endSeconds": 1500,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הצבת פולינום טיילור ופישוט גבול."
+    "description": "הצבת פולינום טיילור ופישוט גבול.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10185,7 +10960,8 @@ export const clips: Clip[] = [
     "endSeconds": 1599,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "סיום חישוב גבול ויתרונות טיילור."
+    "description": "סיום חישוב גבול ויתרונות טיילור.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10198,7 +10974,8 @@ export const clips: Clip[] = [
     "endSeconds": 1716,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הצגת הוכחת משפט טיילור (לגראנז')."
+    "description": "הצגת הוכחת משפט טיילור (לגראנז').",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10211,7 +10988,8 @@ export const clips: Clip[] = [
     "endSeconds": 1971,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הגדרת פונקציית העזר הראשונה Φ(z)."
+    "description": "הגדרת פונקציית העזר הראשונה Φ(z).",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10224,7 +11002,8 @@ export const clips: Clip[] = [
     "endSeconds": 2136,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "ניתוח תכונות פונקציית העזר Φ(z)."
+    "description": "ניתוח תכונות פונקציית העזר Φ(z).",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10237,7 +11016,8 @@ export const clips: Clip[] = [
     "endSeconds": 2429,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "חישוב מפורט של הנגזרת Φ'(z)."
+    "description": "חישוב מפורט של הנגזרת Φ'(z).",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10250,7 +11030,8 @@ export const clips: Clip[] = [
     "endSeconds": 2580,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הגדרת וניתוח פונקציית העזר השנייה Ψ(z)."
+    "description": "הגדרת וניתוח פונקציית העזר השנייה Ψ(z).",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10263,7 +11044,8 @@ export const clips: Clip[] = [
     "endSeconds": 2734,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "יישום משפט הערך הממוצע של קושי."
+    "description": "יישום משפט הערך הממוצע של קושי.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10276,7 +11058,8 @@ export const clips: Clip[] = [
     "endSeconds": 2801,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "הסקת צורת שארית לגראנז' מהמשפט."
+    "description": "הסקת צורת שארית לגראנז' מהמשפט.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10289,7 +11072,8 @@ export const clips: Clip[] = [
     "endSeconds": 2840,
     "lectureName": "הרצאה 51",
     "lectureNumber": 51,
-    "description": "סיום הוכחת משפט טיילור עם שארית לגראנז'."
+    "description": "סיום הוכחת משפט טיילור עם שארית לגראנז'.",
+    "videoTitle": "51 - השארית במשפט טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10302,7 +11086,8 @@ export const clips: Clip[] = [
     "endSeconds": 49,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הבנת שארית טיילור ללא נגזרות גבוהות."
+    "description": "הבנת שארית טיילור ללא נגזרות גבוהות.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10315,7 +11100,8 @@ export const clips: Clip[] = [
     "endSeconds": 103,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הצגת טענות עזר להוכחה."
+    "description": "הצגת טענות עזר להוכחה.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10328,7 +11114,8 @@ export const clips: Clip[] = [
     "endSeconds": 133,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הצהרת כלל לופיטל מקומי עבור יחס פונקציות."
+    "description": "הצהרת כלל לופיטל מקומי עבור יחס פונקציות.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10341,7 +11128,8 @@ export const clips: Clip[] = [
     "endSeconds": 204,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הבדלים בין טענה 1 לכלל לופיטל רגיל."
+    "description": "הבדלים בין טענה 1 לכלל לופיטל רגיל.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10354,7 +11142,8 @@ export const clips: Clip[] = [
     "endSeconds": 293,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "תחילת הוכחת טענה 1, ניתוח המכנה."
+    "description": "תחילת הוכחת טענה 1, ניתוח המכנה.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10367,7 +11156,8 @@ export const clips: Clip[] = [
     "endSeconds": 444,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "סיום הוכחת טענה 1, חישוב גבול."
+    "description": "סיום הוכחת טענה 1, חישוב גבול.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10380,7 +11170,8 @@ export const clips: Clip[] = [
     "endSeconds": 474,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "סיכום הוכחת טענת עזר 1."
+    "description": "סיכום הוכחת טענת עזר 1.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10393,7 +11184,8 @@ export const clips: Clip[] = [
     "endSeconds": 675,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הצהרת כלל לופיטל מוכלל עבור יחס פונקציות."
+    "description": "הצהרת כלל לופיטל מוכלל עבור יחס פונקציות.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10406,7 +11198,8 @@ export const clips: Clip[] = [
     "endSeconds": 780,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הבהרת הנחות גזירות לטענת עזר 2."
+    "description": "הבהרת הנחות גזירות לטענת עזר 2.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10419,7 +11212,8 @@ export const clips: Clip[] = [
     "endSeconds": 1080,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "תחילת ההוכחה ע\"י לופיטל איטרטיבי."
+    "description": "תחילת ההוכחה ע\"י לופיטל איטרטיבי.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10432,7 +11226,8 @@ export const clips: Clip[] = [
     "endSeconds": 1190,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "סיום ההוכחה ע\"י יישום טענת עזר 1."
+    "description": "סיום ההוכחה ע\"י יישום טענת עזר 1.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10445,7 +11240,8 @@ export const clips: Clip[] = [
     "endSeconds": 1281,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הצגת משפט טיילור ותנאיו."
+    "description": "הצגת משפט טיילור ותנאיו.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10458,7 +11254,8 @@ export const clips: Clip[] = [
     "endSeconds": 1406,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הנחות מינימליות וחשיבות המשפט."
+    "description": "הנחות מינימליות וחשיבות המשפט.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10471,7 +11268,8 @@ export const clips: Clip[] = [
     "endSeconds": 1566,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "תחילת ההוכחה: תכונות פונקציית השארית."
+    "description": "תחילת ההוכחה: תכונות פונקציית השארית.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10484,7 +11282,8 @@ export const clips: Clip[] = [
     "endSeconds": 1806,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "ניתוח תכונות פונקציית המכנה."
+    "description": "ניתוח תכונות פונקציית המכנה.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10497,7 +11296,8 @@ export const clips: Clip[] = [
     "endSeconds": 2016,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "סיום ההוכחה: יישום טענת עזר 2."
+    "description": "סיום ההוכחה: יישום טענת עזר 2.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10510,7 +11310,8 @@ export const clips: Clip[] = [
     "endSeconds": 2106,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הצגת רעיון ייחודיות הפולינום."
+    "description": "הצגת רעיון ייחודיות הפולינום.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10523,7 +11324,8 @@ export const clips: Clip[] = [
     "endSeconds": 2255,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הצגת משפט ייחודיות הפולינום."
+    "description": "הצגת משפט ייחודיות הפולינום.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10536,7 +11338,8 @@ export const clips: Clip[] = [
     "endSeconds": 2604,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "הוכחת הייחודיות: השוואת מקדמים."
+    "description": "הוכחת הייחודיות: השוואת מקדמים.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10549,7 +11352,8 @@ export const clips: Clip[] = [
     "endSeconds": 2677,
     "lectureName": "הרצאה 52",
     "lectureNumber": 52,
-    "description": "חשיבות ייחודיות הפולינום ליישומים."
+    "description": "חשיבות ייחודיות הפולינום ליישומים.",
+    "videoTitle": "52 - העשרה - עוד על השארית ויחידות פולינום טיילור"
   },
   {
     "courseId": "infi-1m",
@@ -10562,7 +11366,8 @@ export const clips: Clip[] = [
     "endSeconds": 35,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "סקירת שימוש בנגזרות לניתוח פונקציות."
+    "description": "סקירת שימוש בנגזרות לניתוח פונקציות.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10575,7 +11380,8 @@ export const clips: Clip[] = [
     "endSeconds": 117,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הגדרות נקודות קיצון ומשפט פרמה."
+    "description": "הגדרות נקודות קיצון ומשפט פרמה.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10588,7 +11394,8 @@ export const clips: Clip[] = [
     "endSeconds": 142,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הדגמה גרפית של נקודות קריטיות."
+    "description": "הדגמה גרפית של נקודות קריטיות.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10601,7 +11408,8 @@ export const clips: Clip[] = [
     "endSeconds": 220,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הסבר שינוי סימן הנגזרת לקביעת קיצון."
+    "description": "הסבר שינוי סימן הנגזרת לקביעת קיצון.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10614,7 +11422,8 @@ export const clips: Clip[] = [
     "endSeconds": 380,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הצגה פורמלית של מבחן הנגזרת הראשונה."
+    "description": "הצגה פורמלית של מבחן הנגזרת הראשונה.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10627,7 +11436,8 @@ export const clips: Clip[] = [
     "endSeconds": 436,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הוכחה מבוססת מונוטוניות הפונקציה."
+    "description": "הוכחה מבוססת מונוטוניות הפונקציה.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10640,7 +11450,8 @@ export const clips: Clip[] = [
     "endSeconds": 477,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "מעבר למבחן הנגזרת השנייה."
+    "description": "מעבר למבחן הנגזרת השנייה.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10653,7 +11464,8 @@ export const clips: Clip[] = [
     "endSeconds": 620,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הצגה פורמלית של מבחן הנגזרת השנייה."
+    "description": "הצגה פורמלית של מבחן הנגזרת השנייה.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10666,7 +11478,8 @@ export const clips: Clip[] = [
     "endSeconds": 789,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "דוגמאות למקרים שבהם f''(x0)=0."
+    "description": "דוגמאות למקרים שבהם f''(x0)=0.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10679,7 +11492,8 @@ export const clips: Clip[] = [
     "endSeconds": 1080,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הבדלים בין מבחני נגזרות ראשונה ושנייה."
+    "description": "הבדלים בין מבחני נגזרות ראשונה ושנייה.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10692,7 +11506,8 @@ export const clips: Clip[] = [
     "endSeconds": 1375,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הוכחת f''(x0) > 0 מינימום מקומי."
+    "description": "הוכחת f''(x0) > 0 מינימום מקומי.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10705,7 +11520,8 @@ export const clips: Clip[] = [
     "endSeconds": 1646,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הנחות גזירות והשפעתן על ההוכחות."
+    "description": "הנחות גזירות והשפעתן על ההוכחות.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10718,7 +11534,8 @@ export const clips: Clip[] = [
     "endSeconds": 1890,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "הצגה פורמלית של מבחן הנגזרת ה-N."
+    "description": "הצגה פורמלית של מבחן הנגזרת ה-N.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10731,7 +11548,8 @@ export const clips: Clip[] = [
     "endSeconds": 2159,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "תחילת ההוכחה באמצעות פיתוח טיילור."
+    "description": "תחילת ההוכחה באמצעות פיתוח טיילור.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10744,7 +11562,8 @@ export const clips: Clip[] = [
     "endSeconds": 2453,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "סידור ביטוי פיתוח טיילור לניתוח."
+    "description": "סידור ביטוי פיתוח טיילור לניתוח.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10757,7 +11576,8 @@ export const clips: Clip[] = [
     "endSeconds": 2871,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "סיום ההוכחה: ניתוח סימן הנגזרת ה-N."
+    "description": "סיום ההוכחה: ניתוח סימן הנגזרת ה-N.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10770,7 +11590,8 @@ export const clips: Clip[] = [
     "endSeconds": 2959,
     "lectureName": "הרצאה 53",
     "lectureNumber": 53,
-    "description": "סיכום מבחני הנגזרות ומגבלותיהם."
+    "description": "סיכום מבחני הנגזרות ומגבלותיהם.",
+    "videoTitle": "53 - מיון נקודות חשודות כקיצון"
   },
   {
     "courseId": "infi-1m",
@@ -10783,7 +11604,8 @@ export const clips: Clip[] = [
     "endSeconds": 41,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "סקירה כללית של פונקציות קמורות וקעורות."
+    "description": "סקירה כללית של פונקציות קמורות וקעורות.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10796,7 +11618,8 @@ export const clips: Clip[] = [
     "endSeconds": 126,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "הגדרה גיאומטרית: מיתר מעל הגרף."
+    "description": "הגדרה גיאומטרית: מיתר מעל הגרף.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10809,7 +11632,8 @@ export const clips: Clip[] = [
     "endSeconds": 153,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "הגדרה מתמטית מדויקת של פונקציה קמורה."
+    "description": "הגדרה מתמטית מדויקת של פונקציה קמורה.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10822,7 +11646,8 @@ export const clips: Clip[] = [
     "endSeconds": 227,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "דיון על מונחים שונים לקמירות וקעירות."
+    "description": "דיון על מונחים שונים לקמירות וקעירות.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10835,7 +11660,8 @@ export const clips: Clip[] = [
     "endSeconds": 244,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "הגדרה מתמטית מדויקת של פונקציה קעורה."
+    "description": "הגדרה מתמטית מדויקת של פונקציה קעורה.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10848,7 +11674,8 @@ export const clips: Clip[] = [
     "endSeconds": 310,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "הקשר בין קמירות לגזירות פונקציה."
+    "description": "הקשר בין קמירות לגזירות פונקציה.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10861,7 +11688,8 @@ export const clips: Clip[] = [
     "endSeconds": 348,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "הבדל בין קמירות חלשה לחזקה."
+    "description": "הבדל בין קמירות חלשה לחזקה.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10874,7 +11702,8 @@ export const clips: Clip[] = [
     "endSeconds": 612,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "דוגמאות שונות לפונקציות קמורות וקעורות."
+    "description": "דוגמאות שונות לפונקציות קמורות וקעורות.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10887,7 +11716,8 @@ export const clips: Clip[] = [
     "endSeconds": 655,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "הצגת משפטים מרכזיים על קמירות."
+    "description": "הצגת משפטים מרכזיים על קמירות.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10900,7 +11730,8 @@ export const clips: Clip[] = [
     "endSeconds": 859,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "פונקציה קמורה על קטע היא רציפה."
+    "description": "פונקציה קמורה על קטע היא רציפה.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10913,7 +11744,8 @@ export const clips: Clip[] = [
     "endSeconds": 1056,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "פונקציה גזירה קמורה אם משיק מתחת."
+    "description": "פונקציה גזירה קמורה אם משיק מתחת.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10926,7 +11758,8 @@ export const clips: Clip[] = [
     "endSeconds": 1212,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "קמירות כאשר הנגזרת הראשונה עולה."
+    "description": "קמירות כאשר הנגזרת הראשונה עולה.",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10939,7 +11772,8 @@ export const clips: Clip[] = [
     "endSeconds": 1245,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "העדפת הגדרת המיתר לקמירות"
+    "description": "העדפת הגדרת המיתר לקמירות",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10952,7 +11786,8 @@ export const clips: Clip[] = [
     "endSeconds": 1348,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "קמירות ונגזרת שנייה אי-שלילית"
+    "description": "קמירות ונגזרת שנייה אי-שלילית",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10965,7 +11800,8 @@ export const clips: Clip[] = [
     "endSeconds": 1510,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "נקודה קריטית קמורה היא מינימום"
+    "description": "נקודה קריטית קמורה היא מינימום",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10978,7 +11814,8 @@ export const clips: Clip[] = [
     "endSeconds": 1629,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "נקודה בה הפונקציה משנה קמירות"
+    "description": "נקודה בה הפונקציה משנה קמירות",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -10991,7 +11828,8 @@ export const clips: Clip[] = [
     "endSeconds": 1841,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "הגדרה מדויקת של נקודת פיתול"
+    "description": "הגדרה מדויקת של נקודת פיתול",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11004,7 +11842,8 @@ export const clips: Clip[] = [
     "endSeconds": 1924,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "f''(x)=0 אינו תנאי מספיק"
+    "description": "f''(x)=0 אינו תנאי מספיק",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11017,7 +11856,8 @@ export const clips: Clip[] = [
     "endSeconds": 2029,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "f(x)=x^4 דוגמה נגדית"
+    "description": "f(x)=x^4 דוגמה נגדית",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11030,7 +11870,8 @@ export const clips: Clip[] = [
     "endSeconds": 2325,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "שינוי סימן נגזרת שנייה"
+    "description": "שינוי סימן נגזרת שנייה",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11043,7 +11884,8 @@ export const clips: Clip[] = [
     "endSeconds": 2756,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "f''(x0)=0 בנקודת פיתול"
+    "description": "f''(x0)=0 בנקודת פיתול",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11056,7 +11898,8 @@ export const clips: Clip[] = [
     "endSeconds": 2832,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "נקודות פוטנציאליות לפיתול (f''=0)"
+    "description": "נקודות פוטנציאליות לפיתול (f''=0)",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11069,7 +11912,8 @@ export const clips: Clip[] = [
     "endSeconds": 2931,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "הכנה לשרטוט גרפים"
+    "description": "הכנה לשרטוט גרפים",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11082,7 +11926,8 @@ export const clips: Clip[] = [
     "endSeconds": 3011,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "פונקציה ספציפית לשרטוט"
+    "description": "פונקציה ספציפית לשרטוט",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11095,7 +11940,8 @@ export const clips: Clip[] = [
     "endSeconds": 3119,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "קביעת תחום הפונקציה"
+    "description": "קביעת תחום הפונקציה",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11108,7 +11954,8 @@ export const clips: Clip[] = [
     "endSeconds": 3224,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "בדיקת רציפות הפונקציה"
+    "description": "בדיקת רציפות הפונקציה",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11121,7 +11968,8 @@ export const clips: Clip[] = [
     "endSeconds": 3429,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "מציאת נקודות חיתוך"
+    "description": "מציאת נקודות חיתוך",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11134,7 +11982,8 @@ export const clips: Clip[] = [
     "endSeconds": 3512,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "חישוב נגזרת ראשונה"
+    "description": "חישוב נגזרת ראשונה",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11147,7 +11996,8 @@ export const clips: Clip[] = [
     "endSeconds": 3628,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "חישוב מפורט של הנגזרת"
+    "description": "חישוב מפורט של הנגזרת",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11160,7 +12010,8 @@ export const clips: Clip[] = [
     "endSeconds": 4123,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "בדיקת גזירות ב-0 ו-3"
+    "description": "בדיקת גזירות ב-0 ו-3",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11173,7 +12024,8 @@ export const clips: Clip[] = [
     "endSeconds": 4403,
     "lectureName": "הרצאה 54",
     "lectureNumber": 54,
-    "description": "סיכום ושלבי המשך"
+    "description": "סיכום ושלבי המשך",
+    "videoTitle": "54 - קמירות, קעירות ונקודות פיתול"
   },
   {
     "courseId": "infi-1m",
@@ -11186,7 +12038,8 @@ export const clips: Clip[] = [
     "endSeconds": 81,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "סיכום ניתוח פונקציה"
+    "description": "סיכום ניתוח פונקציה",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11199,7 +12052,8 @@ export const clips: Clip[] = [
     "endSeconds": 147,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "קביעת מונוטוניות ונקודות קריטיות"
+    "description": "קביעת מונוטוניות ונקודות קריטיות",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11212,7 +12066,8 @@ export const clips: Clip[] = [
     "endSeconds": 212,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "הגדרת f'(x) ≥ 0"
+    "description": "הגדרת f'(x) ≥ 0",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11225,7 +12080,8 @@ export const clips: Clip[] = [
     "endSeconds": 337,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "פתרון f'(x) ≥ 0 ל-x>0"
+    "description": "פתרון f'(x) ≥ 0 ל-x>0",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11238,7 +12094,8 @@ export const clips: Clip[] = [
     "endSeconds": 407,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "פתרון f'(x) ≥ 0 ל-x<0"
+    "description": "פתרון f'(x) ≥ 0 ל-x<0",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11251,7 +12108,8 @@ export const clips: Clip[] = [
     "endSeconds": 457,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "קביעת תחומי ירידה"
+    "description": "קביעת תחומי ירידה",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11264,7 +12122,8 @@ export const clips: Clip[] = [
     "endSeconds": 610,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "טבלת f', מינימום מקומי, מקסימום מקומי"
+    "description": "טבלת f', מינימום מקומי, מקסימום מקומי",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11277,7 +12136,8 @@ export const clips: Clip[] = [
     "endSeconds": 844,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "שרטוט גרף לפי f'"
+    "description": "שרטוט גרף לפי f'",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11290,7 +12150,8 @@ export const clips: Clip[] = [
     "endSeconds": 909,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "ניתוח קמירות ונקודות פיתול"
+    "description": "ניתוח קמירות ונקודות פיתול",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11303,7 +12164,8 @@ export const clips: Clip[] = [
     "endSeconds": 1261,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "חישוב מפורט של f''(x)"
+    "description": "חישוב מפורט של f''(x)",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11316,7 +12178,8 @@ export const clips: Clip[] = [
     "endSeconds": 1337,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "קביעת תחומי קמירות/קעירות"
+    "description": "קביעת תחומי קמירות/קעירות",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11329,7 +12192,8 @@ export const clips: Clip[] = [
     "endSeconds": 1530,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "טבלת f'', קמירות, נקודת פיתול"
+    "description": "טבלת f'', קמירות, נקודת פיתול",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11342,7 +12206,8 @@ export const clips: Clip[] = [
     "endSeconds": 1682,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "אסימפטוטות אנכיות: הגדרה ומציאה"
+    "description": "אסימפטוטות אנכיות: הגדרה ומציאה",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11355,7 +12220,8 @@ export const clips: Clip[] = [
     "endSeconds": 1721,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "אסימפטוטות משופעות ואופקיות"
+    "description": "אסימפטוטות משופעות ואופקיות",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11368,7 +12234,8 @@ export const clips: Clip[] = [
     "endSeconds": 1796,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "הבנה גרפית של אסימפטוטה"
+    "description": "הבנה גרפית של אסימפטוטה",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11381,7 +12248,8 @@ export const clips: Clip[] = [
     "endSeconds": 1980,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "חישוב פרמטרי אסימפטוטה משופעת"
+    "description": "חישוב פרמטרי אסימפטוטה משופעת",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11394,7 +12262,8 @@ export const clips: Clip[] = [
     "endSeconds": 2053,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "אסימפטוטה משופעת y = -x + 1"
+    "description": "אסימפטוטה משופעת y = -x + 1",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11407,7 +12276,8 @@ export const clips: Clip[] = [
     "endSeconds": 2120,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "הכנה לשרטוט גרף סופי"
+    "description": "הכנה לשרטוט גרף סופי",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11420,7 +12290,8 @@ export const clips: Clip[] = [
     "endSeconds": 2173,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "שרטוט אסימפטוטה y = -x + 1"
+    "description": "שרטוט אסימפטוטה y = -x + 1",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11433,7 +12304,8 @@ export const clips: Clip[] = [
     "endSeconds": 2227,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "שרטוט גרף ל-x<0"
+    "description": "שרטוט גרף ל-x<0",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11446,7 +12318,8 @@ export const clips: Clip[] = [
     "endSeconds": 2293,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "קמירות מסבירה התקרבות לאסימפטוטה"
+    "description": "קמירות מסבירה התקרבות לאסימפטוטה",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11459,7 +12332,8 @@ export const clips: Clip[] = [
     "endSeconds": 2386,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "שרטוט גרף הפונקציה, נקודות קריטיות והתנהגות אסימפטוטית."
+    "description": "שרטוט גרף הפונקציה, נקודות קריטיות והתנהגות אסימפטוטית.",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11472,7 +12346,8 @@ export const clips: Clip[] = [
     "endSeconds": 2458,
     "lectureName": "הרצאה 55",
     "lectureNumber": 55,
-    "description": "השוואת גרף מפורט לשרטוט ראשוני."
+    "description": "השוואת גרף מפורט לשרטוט ראשוני.",
+    "videoTitle": "55 -  אסימפטוטות וחקירת פונקציה מלאה"
   },
   {
     "courseId": "infi-1m",
@@ -11485,7 +12360,8 @@ export const clips: Clip[] = [
     "endSeconds": 32,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הגדרת קמירות גאומטרית ראשונית."
+    "description": "הגדרת קמירות גאומטרית ראשונית.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11498,7 +12374,8 @@ export const clips: Clip[] = [
     "endSeconds": 102,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "מגבלות הגדרה גאומטרית, מוטיבציה לאלגברית."
+    "description": "מגבלות הגדרה גאומטרית, מוטיבציה לאלגברית.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11511,7 +12388,8 @@ export const clips: Clip[] = [
     "endSeconds": 350,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "תרגום הגדרה גאומטרית לאלגברית."
+    "description": "תרגום הגדרה גאומטרית לאלגברית.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11524,7 +12402,8 @@ export const clips: Clip[] = [
     "endSeconds": 436,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הגדרה אלגברית פורמלית לקמירות וקעירות."
+    "description": "הגדרה אלגברית פורמלית לקמירות וקעירות.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11537,7 +12416,8 @@ export const clips: Clip[] = [
     "endSeconds": 673,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הצגת למת המיתרים והסבר גרפי."
+    "description": "הצגת למת המיתרים והסבר גרפי.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11550,7 +12430,8 @@ export const clips: Clip[] = [
     "endSeconds": 1229,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הוכחה אלגברית לאי-שוויון שמאל."
+    "description": "הוכחה אלגברית לאי-שוויון שמאל.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11563,7 +12444,8 @@ export const clips: Clip[] = [
     "endSeconds": 1554,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הוכחה אלגברית לאי-שוויון ימין."
+    "description": "הוכחה אלגברית לאי-שוויון ימין.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11576,7 +12458,8 @@ export const clips: Clip[] = [
     "endSeconds": 1642,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "משפט: פונקציה קמורה רציפה."
+    "description": "משפט: פונקציה קמורה רציפה.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11589,7 +12472,8 @@ export const clips: Clip[] = [
     "endSeconds": 2088,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הוכחת רציפות פונקציה קמורה."
+    "description": "הוכחת רציפות פונקציה קמורה.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11602,7 +12486,8 @@ export const clips: Clip[] = [
     "endSeconds": 2392,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הערות על קמירות, רציפות וגזירות."
+    "description": "הערות על קמירות, רציפות וגזירות.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11615,7 +12500,8 @@ export const clips: Clip[] = [
     "endSeconds": 2507,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "קמירות גזירה <=> נגזרת מונוטונית."
+    "description": "קמירות גזירה <=> נגזרת מונוטונית.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11628,7 +12514,8 @@ export const clips: Clip[] = [
     "endSeconds": 2776,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הוכחה: קמירות גוררת נגזרת מונוטונית."
+    "description": "הוכחה: קמירות גוררת נגזרת מונוטונית.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11641,7 +12528,8 @@ export const clips: Clip[] = [
     "endSeconds": 3354,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "הוכחה: נגזרת מונוטונית גוררת קמירות."
+    "description": "הוכחה: נגזרת מונוטונית גוררת קמירות.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   },
   {
     "courseId": "infi-1m",
@@ -11654,6 +12542,7 @@ export const clips: Clip[] = [
     "endSeconds": 3540,
     "lectureName": "הרצאה 56",
     "lectureNumber": 56,
-    "description": "סיכום חומר, נושאים מתקדמים."
+    "description": "סיכום חומר, נושאים מתקדמים.",
+    "videoTitle": "56 - למת המיתרים ומשפטי קמירות"
   }
 ];
