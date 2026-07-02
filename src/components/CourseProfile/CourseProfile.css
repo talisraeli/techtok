@@ -52,7 +52,8 @@
   text-align: center;
   font-weight: 600;
   font-size: 1.1rem;
-  margin-right: -40px; /* Offset for back button */
+  margin-right: -40px;
+  /* Offset for back button */
 }
 
 .course-profile-info {
@@ -146,8 +147,9 @@
   align-items: center;
   justify-content: center;
   opacity: 0;
-  background: rgba(0,0,0,0.2);
+  background: rgba(0, 0, 0, 0.2);
   transition: opacity 0.2s;
+  z-index: 3;
 }
 
 .profile-clip-card:hover .profile-clip-card__overlay {
@@ -191,7 +193,7 @@
   left: 0;
   right: 0;
   padding: 8px;
-  background: linear-gradient(to top, rgba(0,0,0,0.9), transparent);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.9), transparent);
   display: flex;
   flex-direction: column;
 }
@@ -210,4 +212,37 @@
   font-size: 0.7rem;
   color: #ccc;
   margin-top: 2px;
+}
+
+.profile-clip-card__badges {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+
+
+.badge-lecture,
+.badge-part {
+  color: #ffffff;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  white-space: nowrap;
+}
+
+.badge-part {
+  font-size: 1rem;
+  padding: 3px 8px;
 }

@@ -4,6 +4,28 @@ import { clips } from '../../data/clips';
 import { useWatchHistory } from '../../hooks/useWatchHistory';
 import './CourseProfile.css';
 
+const getBadgeColor = (lectureName: string) => {
+  const colors = [
+    '#1e3a8a', // blue
+    '#065f46', // green
+    '#7f1d1d', // red
+    '#581c87', // purple
+    '#9d174d', // pink
+    '#0f766e', // teal
+    '#b45309', // orange
+    '#4338ca', // indigo
+  ];
+  const numMatch = lectureName.match(/\d+/);
+  if (numMatch) {
+    return colors[(parseInt(numMatch[0], 10) - 1 + colors.length) % colors.length];
+  }
+  let hash = 0;
+  for (let i = 0; i < lectureName.length; i++) {
+    hash = lectureName.charCodeAt(i) + ((hash << 5) - hash);
+  }
+  return colors[Math.abs(hash) % colors.length];
+};
+
 export function CourseProfile() {
   const { courseId } = useParams();
   const navigate = useNavigate();
@@ -67,6 +89,16 @@ export function CourseProfile() {
                   src={`https://img.youtube.com/vi/${clip.videoId}/hqdefault.jpg`}
                   alt={clip.title}
                 />
+                
+                <div className="profile-clip-card__badges">
+                  <span className="badge-lecture" style={{ backgroundColor: getBadgeColor(clip.lectureName) }}>
+                    {clip.lectureName}
+                  </span>
+                  <span className="badge-part" style={{ backgroundColor: getBadgeColor(clip.lectureName) }}>
+                    חלק {clip.part}
+                  </span>
+                </div>
+
                 <div className="profile-clip-card__overlay">
                   <span className="play-icon">▶</span>
                 </div>
