@@ -27,10 +27,8 @@
 
 ```
 techtok/
-├── extract_playlist.js          # Script to fetch YouTube playlists and output clip data
-├── format_clips.js             # Utility to format and update lecture topics
-├── generate_organic_clips.js   # Script to generate randomized clips with topics
-├── split_clips.js              # Script to split clips data into separate modules
+├── scripts/
+│   └── generate_course_clips.ts # AI-powered script to fetch playlists, extract transcripts, and segment topics using Gemini
 ├── index.html                  # HTML entry point (rtl directed, Heebo font)
 ├── package.json                # Project dependencies and npm scripts
 ├── vite.config.ts              # Vite configuration with React and TypeScript support
@@ -64,28 +62,20 @@ techtok/
 
 ## Data Scripts
 
-The project includes several automation scripts in JavaScript to harvest and organize clip segments from YouTube:
+The project includes TypeScript automation scripts that leverage the Gemini API to intelligently extract and organize clip segments from YouTube.
 
-### 1. Extracting a YouTube Playlist
-To download details of a course playlist and split it into clip segments automatically:
+### 1. Generating Course Clips
+To fetch all videos in a playlist, extract their transcripts, and use Gemini to intelligently segment them into logical math concepts (with titles and descriptions in Hebrew):
 ```bash
-node extract_playlist.js <PLAYLIST_ID> <COURSE_ID> <COURSE_TITLE>
+# Requires GEMINI_API_KEY environment variable (PowerShell example)
+$env:GEMINI_API_KEY="your_api_key_here"
+npx tsx scripts/generate_course_clips.ts <PLAYLIST_URL_OR_ID> <COURSE_ID> <COURSE_TITLE>
+
 # Example:
-node extract_playlist.js PLW3u28VuDAHLBQrejV70zRa6sesxkPmgA infi-1m 'אינפי 1מ׳'
+npx tsx scripts/generate_course_clips.ts PLW3u28VuDAHLBQrejV70zRa6sesxkPmgA infi-1m 'אינפי 1מ׳'
 ```
-This writes a new database file into `src/data/clips_<courseId>.ts`.
+This will automatically parse the transcripts, generate the segments, write them into `src/data/clips_<courseId>.ts`, and update your main index files.
 
-### 2. Generating Organic Clips
-To generate simulated sub-topics, timeslots (between 5 and 15 mins), and rich descriptions deterministically:
-```bash
-node generate_organic_clips.js
-```
-
-### 3. Formatting and Merging Clips
-To apply syllabus structures to clips and merge separate course lists into a unified export:
-```bash
-node format_clips.js
-```
 
 ---
 
