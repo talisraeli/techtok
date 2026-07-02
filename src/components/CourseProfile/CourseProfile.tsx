@@ -89,13 +89,13 @@ export function CourseProfile() {
                   src={`https://img.youtube.com/vi/${clip.videoId}/hqdefault.jpg`}
                   alt={clip.title}
                 />
-                
+
                 <div className="profile-clip-card__badges">
-                  <span className="badge-lecture" style={{ backgroundColor: getBadgeColor(clip.lectureName) }}>
-                    {clip.videoTitle || clip.lectureName}
-                  </span>
-                  <span className="badge-part" style={{ backgroundColor: getBadgeColor(clip.lectureName) }}>
-                    חלק {clip.part}
+                  <span
+                    className={`badge-lecture ${clip.title.length > 22 ? 'badge-lecture--small' : ''}`}
+                    style={{ backgroundColor: getBadgeColor(clip.lectureName) }}
+                  >
+                    {clip.title}
                   </span>
                 </div>
 
@@ -115,9 +115,9 @@ export function CourseProfile() {
                 )}
               </div>
               <div className="profile-clip-card__info">
-                <h3 className="profile-clip-card__title">{clip.title}</h3>
+                <h3 className="profile-clip-card__title">{clip.lectureName} {clip.totalParts > 1 ? `(${clip.part}/${clip.totalParts})` : ''}</h3>
                 <span className="profile-clip-card__lecture">
-                  {clip.lectureName} {clip.totalParts > 1 ? `(${clip.part}/${clip.totalParts})` : ''}
+                  {clip.videoTitle || clip.lectureName}
                 </span>
               </div>
             </div>
