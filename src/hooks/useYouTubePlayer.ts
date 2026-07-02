@@ -87,10 +87,13 @@ export function useYouTubePlayer(options: UseYouTubePlayerOptions) {
   onClipEndRef.current = onClipEnd;
   onStateChangeRef.current = onStateChange;
 
-  /** Playback time monitoring loop */
   const startTimeMonitor = useCallback(() => {
+    if (rafRef.current) return;
     const tick = () => {
-      if (isDestroyedRef.current) return;
+      if (isDestroyedRef.current) {
+        rafRef.current = 0;
+        return;
+      }
       const player = playerRef.current;
       if (player && isPlayingRef.current) {
         try {
@@ -102,6 +105,7 @@ export function useYouTubePlayer(options: UseYouTubePlayerOptions) {
             player.pauseVideo();
             isPlayingRef.current = false;
             onClipEndRef.current?.();
+            rafRef.current = 0;
             return;
           }
         } catch {
@@ -175,6 +179,7 @@ export function useYouTubePlayer(options: UseYouTubePlayerOptions) {
               startTimeMonitor();
             } else {
               isPlayingRef.current = false;
+              stopTimeMonitor();
             }
 
             // When the video ends naturally, trigger clip end
