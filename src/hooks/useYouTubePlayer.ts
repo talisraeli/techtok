@@ -141,6 +141,7 @@ export function useYouTubePlayer(options: UseYouTubePlayerOptions) {
         videoId: videoId,
         playerVars: {
           autoplay: 0,
+          cc_load_policy: 0,
           controls: 0,
           disablekb: 1,
           enablejsapi: 1,
@@ -154,8 +155,12 @@ export function useYouTubePlayer(options: UseYouTubePlayerOptions) {
           end: Math.ceil(endSeconds),
         },
         events: {
-          onReady: () => {
+          onReady: (event: any) => {
             if (isDestroyedRef.current) return;
+            try {
+              event.target.unloadModule('captions');
+              event.target.unloadModule('cc');
+            } catch { /* ignore */ }
             onReadyRef.current?.();
           },
           onStateChange: (event: { data: number }) => {

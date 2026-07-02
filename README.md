@@ -6,7 +6,7 @@
 
 - 📱 **Mobile-First Responsive Layout:** Fully optimized for touch screen gestures, fluid viewport sizing, and modern dark aesthetics.
 - 🔄 **Vertical Scroll Snapping:** Smooth snap-to-video scrolling matching the TikTok feed interaction.
-- ⚡ **Double-Press 2x Speed Up:** Hold press anywhere on the video player to speed up playback to `2x`. Releasing the press returns it immediately to normal `1x` speed.
+- ⚡ **Hold to 3x Speed:** The default playback speed is optimized for learning at `1.5x`. Hold press anywhere on the video player to instantly speed up playback to `3x`. Releasing the press returns it immediately to the default `1.5x` speed.
 - ❤️ **Double-Tap to Like:** Double-tap on the video to trigger a floating animated heart effect with micro-interactions.
 - 🔙 **Swipe to Exit:** Swipe left on mobile or click the back button to exit the watch feed and return to the course overview.
 - 📊 **Persistent Watch Progress:** Automatically saves progress to `localStorage`. The course syllabus screen highlights fully watched clips and shows progress bars for partially watched ones.

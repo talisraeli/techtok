@@ -63,10 +63,11 @@ export function ClipCard({ clip, index, isActive, onClipEnd, onDoubleTap }: Clip
     // YT.PlayerState: PLAYING=1, PAUSED=2
     if (state === 1) {
       setIsPaused(false);
+      setPlaybackRate(isSpeedUp ? 3 : 1.5);
     } else if (state === 2) {
       setIsPaused(true);
     }
-  }, []);
+  }, [isSpeedUp]);
 
   const handleReady = useCallback(() => {
     setIsPlayerReady(true);
@@ -88,12 +89,13 @@ export function ClipCard({ clip, index, isActive, onClipEnd, onDoubleTap }: Clip
   useEffect(() => {
     if (isActive && isPlayerReady) {
       play();
+      setPlaybackRate(1.5);
     }
     if (!isActive) {
       pause();
       setIsPlayerReady(false);
     }
-  }, [isActive, isPlayerReady, play, pause]);
+  }, [isActive, isPlayerReady, play, pause, setPlaybackRate]);
 
   /** Handle tap — toggle play/pause */
   const handleTap = useCallback(() => {
@@ -108,16 +110,16 @@ export function ClipCard({ clip, index, isActive, onClipEnd, onDoubleTap }: Clip
     setTimeout(() => setShowPauseIcon(false), 700);
   }, [isPaused, play, pause]);
 
-  /** Handle long-press start — 2x speed */
+  /** Handle long-press start — 3x speed */
   const handleLongPressStart = useCallback(() => {
     setIsSpeedUp(true);
-    setPlaybackRate(2);
+    setPlaybackRate(3);
   }, [setPlaybackRate]);
 
-  /** Handle long-press end — back to 1x */
+  /** Handle long-press end — back to 1.5x */
   const handleLongPressEnd = useCallback(() => {
     setIsSpeedUp(false);
-    setPlaybackRate(1);
+    setPlaybackRate(1.5);
   }, [setPlaybackRate]);
 
   const longPressHandlers = useLongPress({

@@ -15,7 +15,7 @@ export function SpeedIndicator({ visible }: SpeedIndicatorProps) {
     <div className="speed-indicator">
       <div className="speed-indicator__badge">
         <span className="speed-indicator__arrows">▶▶</span>
-        <span className="speed-indicator__label">2x</span>
+        <span className="speed-indicator__label">3x</span>
       </div>
     </div>
   );
